@@ -7,7 +7,7 @@
 // POST /api/subscribe.php -> { apelido, tiktok, aniversario }
 // ---------------------------------------------------------
 
-const { getStore } = require('@netlify/blobs');
+const { connectLambda, getStore } = require('@netlify/blobs');
 
 const HEADERS = {
   'Content-Type': 'application/json; charset=utf-8',
@@ -15,6 +15,11 @@ const HEADERS = {
 };
 
 exports.handler = async (event) => {
+  // Necessário porque esta função usa o formato clássico (exports.handler),
+  // chamado de "modo de compatibilidade Lambda" — nesse modo o Netlify não
+  // injeta a configuração do Blobs sozinho, então precisamos conectar manualmente.
+  connectLambda(event);
+
   if (event.httpMethod !== 'POST') {
     return { statusCode: 405, headers: HEADERS, body: JSON.stringify({ erro: 'Método não permitido.' }) };
   }
