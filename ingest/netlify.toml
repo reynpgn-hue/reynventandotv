@@ -1,0 +1,23 @@
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+# Redirects que mantêm as mesmas URLs que o front-end (community.js)
+# já usa, só que apontando pras funções Node em vez dos arquivos PHP.
+[[redirects]]
+  from = "/api/chat.php"
+  to = "/.netlify/functions/chat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/subscribe.php"
+  to = "/.netlify/functions/subscribe"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/live-status.php"
+  to = "/.netlify/functions/live-status"
+  status = 200
+  force = true

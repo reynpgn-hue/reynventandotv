@@ -1,0 +1,12 @@
+{
+  "name": "reynventando-tv-ingest",
+  "version": "1.0.0",
+  "description": "Robô de ingestão de notícias via RSS para o Reynventando TV",
+  "main": "fetch-news.js",
+  "scripts": {
+    "start": "node fetch-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

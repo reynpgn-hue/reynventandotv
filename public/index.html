@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reynventando TV — Notícias e novidades dos games</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <div class="ticker-outer">
+    <div class="ticker-track" id="ticker-track">
+      <!-- app.js injeta os títulos aqui -->
+    </div>
+  </div>
+  <nav class="nav">
+    <div class="logo">
+      <img src="assets/logo.png" alt="Reynventando TV" class="logo-img">
+    </div>
+    <div class="navlinks">
+      <a href="#destaque">Notícias</a>
+      <a href="#ao-vivo">Ao vivo</a>
+      <a href="#comunidade">Comunidade</a>
+      <a href="#cadastro">Inscreva-se</a>
+    </div>
+    <div class="live-badge"><span class="live-dot"></span> AO VIVO</div>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <span class="eyebrow">// CANAL DE NOTÍCIAS GAMER</span>
+      <h1 class="display">REYNVENTANDO<br><span class="accent">TV</span></h1>
+      <p class="hero-sub">Lançamentos, atualizações, guias e bastidores do universo dos games — direto ao ponto, sem enrolação. Se rolou de importante no mundo gamer, tá aqui.</p>
+      <div class="hero-ctas">
+        <a href="#destaque" class="btn btn-solid">Ver últimas notícias</a>
+        <a href="#sobre" class="btn btn-outline">Sobre o canal</a>
+      </div>
+    </div>
+    <div class="onair-panel">
+      <h3>No ar agora</h3>
+      <div id="onair-list">
+        <!-- app.js injeta as 3 últimas notícias aqui -->
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="gradient-bar"></div>
+
+<section class="section" id="destaque">
+  <div class="section-inner">
+    <div class="section-head">
+      <div>
+        <span class="section-tag">MATÉRIA EM DESTAQUE</span>
+        <h2 class="display">Capa do dia</h2>
+        <div class="mini-gradient"></div>
+      </div>
+    </div>
+    <div class="featured" id="featured-container">
+      <!-- app.js injeta a matéria "destaque: true" aqui -->
+    </div>
+  </div>
+</section>
+
+<section class="section" id="reportagens">
+  <div class="section-inner">
+    <div class="section-head">
+      <div>
+        <span class="section-tag">REPORTAGENS DA SEMANA</span>
+        <h2 class="display">O que tá bombando</h2>
+        <div class="mini-gradient"></div>
+      </div>
+    </div>
+    <div id="news-rows-container">
+      <!-- app.js injeta as reportagens em linhas alternadas aqui -->
+    </div>
+  </div>
+</section>
+
+<section class="section" id="arquivo">
+  <div class="section-inner">
+    <div class="section-head">
+      <div>
+        <span class="section-tag">ARQUIVO</span>
+        <h2 class="display">Todas as notícias</h2>
+        <div class="mini-gradient"></div>
+      </div>
+      <a href="#" class="btn btn-outline">Ver arquivo completo</a>
+    </div>
+    <div class="archive-grid" id="archive-grid">
+      <!-- app.js injeta o restante das notícias em cards aqui -->
+    </div>
+  </div>
+</section>
+
+<section class="section" id="ao-vivo">
+  <div class="section-inner">
+    <div class="section-head">
+      <div>
+        <span class="section-tag">TRANSMISSÃO</span>
+        <h2 class="display">Canal ao vivo no TikTok</h2>
+        <div class="mini-gradient"></div>
+      </div>
+    </div>
+
+    <div class="live-card">
+      <div class="live-card-status">
+        <span class="live-status-dot" id="live-dot"></span>
+        <span id="live-status-texto" class="mono">verificando status...</span>
+      </div>
+      <h3 class="display" style="font-size:2rem; margin:14px 0 10px;">@r3ynd4</h3>
+      <p style="color:var(--text-dim); max-width:480px; margin:0 auto 24px;">
+        O TikTok não permite incorporar a transmissão ao vivo direto aqui no site — mas você
+        pode entrar na live com um clique assim que ela começar.
+      </p>
+      <a href="https://www.tiktok.com/@r3ynd4/live" target="_blank" rel="noopener" class="btn btn-solid">
+        Assistir no TikTok
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="comunidade">
+  <div class="section-inner">
+    <div class="section-head">
+      <div>
+        <span class="section-tag">BATE-PAPO</span>
+        <h2 class="display">Comunidade Reynventando</h2>
+        <div class="mini-gradient"></div>
+      </div>
+    </div>
+
+    <div class="chat-box">
+      <div class="chat-messages" id="chat-messages">
+        <p class="chat-empty">Carregando mensagens...</p>
+      </div>
+      <form class="chat-form" id="chat-form">
+        <input type="text" id="chat-apelido" placeholder="Seu apelido" maxlength="40" required>
+        <input type="text" id="chat-mensagem" placeholder="Escreva sua mensagem..." maxlength="300" required>
+        <button type="submit" class="btn btn-solid">Enviar</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="cadastro">
+  <div class="section-inner">
+    <div class="section-head">
+      <div>
+        <span class="section-tag">FAÇA PARTE</span>
+        <h2 class="display">Inscreva-se na comunidade</h2>
+        <div class="mini-gradient"></div>
+      </div>
+    </div>
+
+    <form class="signup-card" id="signup-form">
+      <div class="signup-field">
+        <label for="signup-apelido">Apelido</label>
+        <input type="text" id="signup-apelido" placeholder="Como podemos te chamar?" maxlength="60" required>
+      </div>
+      <div class="signup-field">
+        <label for="signup-tiktok">Seu @ do TikTok</label>
+        <input type="text" id="signup-tiktok" placeholder="@seuusuario" maxlength="60" required>
+      </div>
+      <div class="signup-field">
+        <label for="signup-aniversario">Data de aniversário</label>
+        <input type="date" id="signup-aniversario" required>
+      </div>
+      <button type="submit" class="btn btn-solid signup-submit">Confirmar inscrição</button>
+      <p class="signup-feedback" id="signup-feedback"></p>
+    </form>
+  </div>
+</section>
+
+<section class="section manifesto" id="sobre">
+  <div class="section-inner">
+    <h2 class="display">Reynventando TV cobre games sem papo furado.</h2>
+    <div class="manifesto-cols">
+      <p>Nascemos das lives e dos vídeos do canal <b style="color:var(--text)">@r3ynd4</b>, movidos pela curiosidade de desmontar, entender e testar tudo que envolve jogos e tecnologia. Aqui, cada notícia passa por quem realmente joga.</p>
+      <p>Sem pautas patrocinadas disfarçadas de review e sem clickbait vazio. A gente cobre lançamento, atualização, guia e bastidor — e quando o assunto é hardware, testamos na prática antes de recomendar.</p>
+    </div>
+    <div class="pitch-row">
+      <p>Lançou um jogo ou tem uma pauta quente? Manda pra gente.</p>
+      <a href="#" class="btn btn-solid">Sugerir pauta</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-inner">
+    <div class="newsletter-box">
+      <div>
+        <h3 class="display" style="font-size:1.8rem;">Assine a newsletter</h3>
+        <p>Um resumo semanal, sem spam, com o que realmente importou no mundo dos games.</p>
+      </div>
+      <form class="newsletter-form" onsubmit="event.preventDefault();">
+        <input type="email" placeholder="seu@email.com" required>
+        <button type="submit">Assinar</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<div class="gradient-bar"></div>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-top">
+      <div>
+        <div class="logo" style="margin-bottom:14px;">
+          <img src="assets/logo.png" alt="Reynventando TV" class="logo-img">
+        </div>
+        <p class="footer-desc">Reynventando TV é um canal de notícias sobre games, lançamentos, hardware e cultura gamer.</p>
+      </div>
+      <div class="footer-cols">
+        <div>
+          <a href="#">Notícias</a>
+          <a href="#">Reportagens</a>
+          <a href="#">Arquivo</a>
+        </div>
+        <div>
+          <a href="#">Sobre</a>
+          <a href="#">Sugerir pauta</a>
+          <a href="#">Contato</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Reynventando TV. Todos os direitos reservados.</span>
+      <span>Feito com 🎮 por @r3ynd4</span>
+    </div>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+<script src="community.js"></script>
+"</body>
+</html>

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "demon-spore-lancamento",
+    "titulo": "Demon Spore é o roguelite de terror que promete assombrar 2026",
+    "resumo": "Um monstro tentacular tenta escapar de um laboratório secreto — e você é a única coisa entre ele e a saída. Testamos o modo pesadelo e o jogo entrega tensão de verdade.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "Dinoboss Ltd.",
+    "data": "2026-07-13",
+    "link": "#",
+    "destaque": true,
+    "sigla": "DS",
+    "tema": "tema-a"
+  },
+  {
+    "id": "athena-crisis-patch",
+    "titulo": "Athena Crisis recebe patch com novas unidades navais",
+    "resumo": "A estratégia por turnos ganhou reforço: unidades navais, dois mapas inéditos e ajustes de balanceamento pedidos pela comunidade.",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "Nakazawa Tech",
+    "data": "2026-07-12",
+    "link": "#",
+    "destaque": false,
+    "sigla": "AC",
+    "tema": "tema-b"
+  },
+  {
+    "id": "exekiller-cobertura",
+    "titulo": "ExeKiller: dentro do mundo distópico do Paradark Studio",
+    "resumo": "Conversamos com a equipe por trás do FPS/RPG de escolhas que está gerando hype nas redes.",
+    "categoria": "esports",
+    "categoriaLabel": "Cobertura",
+    "fonte": "Paradark Studio",
+    "data": "2026-07-11",
+    "link": "#",
+    "destaque": false,
+    "sigla": "EX",
+    "tema": "tema-c"
+  },
+  {
+    "id": "tape-to-tape-guia",
+    "titulo": "Tape To Tape: monte o time perfeito com essas sinergias",
+    "resumo": "Contratar os banquinhos certos muda tudo. Reunimos as melhores combinações testadas ao vivo.",
+    "categoria": "hardware",
+    "categoriaLabel": "Guia",
+    "fonte": "Excellent Rectangle",
+    "data": "2026-07-10",
+    "link": "#",
+    "destaque": false,
+    "sigla": "TT",
+    "tema": "tema-d"
+  },
+  {
+    "id": "ssd-upgrade",
+    "titulo": "SSDs baratos valem o upgrade em notebook antigo?",
+    "resumo": "Testamos upgrades de armazenamento em máquinas com pouca RAM pra ver se realmente compensa.",
+    "categoria": "hardware",
+    "categoriaLabel": "Hardware",
+    "fonte": "Redação Reynventando",
+    "data": "2026-07-09",
+    "link": "#",
+    "destaque": false,
+    "sigla": "HW",
+    "tema": "tema-e"
+  }
+]

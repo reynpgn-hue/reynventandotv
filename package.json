@@ -1,0 +1,9 @@
+{
+  "name": "reynventando-tv",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reynventando TV — versão sem PHP, pronta pro Netlify (site estático + Netlify Functions + Netlify Blobs).",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
