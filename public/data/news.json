@@ -70,6 +70,20 @@
     "tema": "tema-e"
   },
   {
+    "id": "1892497",
+    "titulo": "Caçadores de demônios e Caça-Fantasmas do KPop entram no Monopoly Go para uma temporada assustadora",
+    "resumo": "É oficialmente a temporada de outono no hemisfério norte, e isso significa que o Halloween está se aproximando. A gigante de jogos para celular Scopely anunciou como está comemorando, e isso inclui crossovers com o KPop Demon Hunter",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "GameSpot",
+    "data": "2026-09-22",
+    "link": "https://www.gamespot.com/articles/kpop-demon-hunters-and-ghostbusters-come-to-monopoly-go-for-spooky-season/",
+    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/monopolygo-Large.jpeg?w=300",
+    "destaque": false,
+    "sigla": "KD",
+    "tema": "tema-f"
+  },
+  {
     "id": "1892515",
     "titulo": "StarCraft não soa como um exclusivo do Xbox",
     "resumo": "StarCraft não será exclusivo do Xbox, embora a Blizzard não esteja deixando claro em quais plataformas o recém-anunciado jogo será lançado.\nAnunciado durante a BlizzCon 2026 com data de lançamento para 2030, o StarCraft da Blizzard",
@@ -81,7 +95,7 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/StarCraft-Not-Xbox-Exclusive.jpg?w=300",
     "destaque": false,
     "sigla": "SD",
-    "tema": "tema-f"
+    "tema": "tema-a"
   },
   {
     "id": "1892474",
@@ -95,7 +109,7 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Mandela-Effect.jpg?w=300",
     "destaque": false,
     "sigla": "WF",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "1892433",
@@ -109,20 +123,6 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/3928555-0594946278-39285.jpg?w=300",
     "destaque": false,
     "sigla": "WX",
-    "tema": "tema-c"
-  },
-  {
-    "id": "1892383",
-    "titulo": "As demissões do Xbox ainda não foram concluídas",
-    "resumo": "A \"redefinição\" dos negócios do Xbox pela Microsoft entrou em seu próximo capítulo esta semana com o anúncio de mais 268 demissões, juntamente com outras mudanças organizacionais e operacionais drásticas para a gigante dos jogos. \nComo parte do",
-    "categoria": "atualizacao",
-    "categoriaLabel": "Atualização",
-    "fonte": "GameSpot",
-    "data": "2026-09-22",
-    "link": "https://www.gamespot.com/articles/xbox-layoffs-are-not-done-yet/",
-    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/xboxreset-Large.jpeg?w=300",
-    "destaque": false,
-    "sigla": "XL",
     "tema": "tema-d"
   },
   {
@@ -137,6 +137,6 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4667283-bestfantasygames2026.jpg?w=300",
     "destaque": false,
     "sigla": "BF",
-    "tema": "tema-a"
+    "tema": "tema-b"
   }
 ]
