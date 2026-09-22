@@ -36,20 +36,29 @@ const FONTES = [
 const MAX_POR_FONTE = 5;
 const SAIDA = path.join(__dirname, '..', 'public', 'data', 'news.json');
 
-// Tradução automática (inglês -> português) usando o endpoint
-// público e não-oficial do Google Tradutor. É gratuito e não
-// exige chave/cadastro, mas por não ser oficial pode falhar ou
-// ficar instável em uso muito intenso. Se isso acontecer no seu
-// caso, a alternativa mais robusta é usar a Cloud Translation
-// API do Google (paga, com chave) ou um LibreTranslate próprio.
+// Tradução automática (inglês -> português) usando a MyMemory
+// Translation API — gratuita, sem necessidade de cadastro/chave,
+// e funciona bem em ambientes de CI/CD como o GitHub Actions
+// (diferente do endpoint não-oficial do Google Tradutor, que
+// costuma bloquear IPs de servidores/nuvem).
+//
+// Limite gratuito: ~1000 palavras/dia sem e-mail. Se um dia isso
+// não for suficiente, dá pra aumentar o limite adicionando seu
+// e-mail na URL: `&de=seuemail@exemplo.com` (a MyMemory usa isso
+// só pra liberar mais cota, não manda nada pra você).
 async function traduzir(texto) {
   if (!texto || texto.trim() === '') return texto;
   try {
-    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=pt&dt=t&q=${encodeURIComponent(texto)}`;
+    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(texto)}&langpair=en|pt-BR`;
     const resposta = await fetch(url);
     const dados = await resposta.json();
-    // dados[0] é uma lista de trechos traduzidos; junta tudo
-    return dados[0].map(trecho => trecho[0]).join('');
+
+    if (dados && dados.responseData && dados.responseData.translatedText) {
+      return dados.responseData.translatedText;
+    }
+
+    console.error('Resposta inesperada da tradução, mantendo texto original:', JSON.stringify(dados).slice(0, 200));
+    return texto;
   } catch (erro) {
     console.error('Falha ao traduzir, mantendo texto original:', erro.message);
     return texto; // se a tradução falhar, não quebra o site — só mantém em inglês
