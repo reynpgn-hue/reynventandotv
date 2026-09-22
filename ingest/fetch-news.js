@@ -155,14 +155,29 @@ async function main() {
     indice += itens.length;
   }
 
+  // Preserva os cards adicionados manualmente (marcados com "manual": true
+  // no news.json) — assim eles não são apagados quando o robô roda de novo.
+  let manuais = [];
+  if (fs.existsSync(SAIDA)) {
+    try {
+      const existentes = JSON.parse(fs.readFileSync(SAIDA, 'utf-8'));
+      manuais = existentes.filter(n => n.manual === true);
+    } catch (erro) {
+      console.error('Não foi possível ler o news.json existente, seguindo sem cards manuais:', erro.message);
+    }
+  }
+
+  todasNoticias = manuais.concat(todasNoticias);
+
   // ordena por data (mais recente primeiro) e marca a primeira como destaque
   todasNoticias.sort((a, b) => new Date(b.data) - new Date(a.data));
+  todasNoticias.forEach(n => { n.destaque = false; });
   if (todasNoticias.length > 0) todasNoticias[0].destaque = true;
 
   fs.mkdirSync(path.dirname(SAIDA), { recursive: true });
   fs.writeFileSync(SAIDA, JSON.stringify(todasNoticias, null, 2), 'utf-8');
 
-  console.log(`✅ ${todasNoticias.length} notícias salvas em ${SAIDA}`);
+  console.log(`✅ ${todasNoticias.length} notícias salvas em ${SAIDA} (${manuais.length} manuais preservadas)`);
 }
 
 main();
