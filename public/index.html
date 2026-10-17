@@ -50,6 +50,47 @@
     </div>
   </div>
 </section>
+<!-- ===== STREAMERS: janela de apresentação (COMEÇA AQUI) ===== -->
+<link rel="stylesheet" href="showcase.css">
+
+<section class="showcase" id="streamers" aria-label="Streamers em destaque">
+  <div class="showcase-head">
+    <h2 class="showcase-title">Vem conhecer os streamers que estão bombando agora</h2>
+  </div>
+
+  <div class="showcase-stage" id="showcase-stage" role="group" aria-roledescription="carrossel" aria-label="Fotos e vídeos dos streamers">
+    <div class="showcase-slides"></div>
+    <div class="showcase-scrim"></div>
+    <div class="showcase-sweep" aria-hidden="true"></div>
+
+    <div class="showcase-caption">
+      <div>
+        <div class="showcase-name"></div>
+        <div class="showcase-meta">
+          <span class="showcase-handle"></span>
+          <span class="showcase-platform"></span>
+        </div>
+      </div>
+      <a class="showcase-link" target="_blank" rel="noopener" hidden>Ver perfil</a>
+    </div>
+
+    <div class="showcase-progress"></div>
+
+    <button type="button" class="showcase-btn showcase-prev" aria-label="Destaque anterior">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+    </button>
+    <button type="button" class="showcase-btn showcase-next" aria-label="Próximo destaque">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>
+    </button>
+    <button type="button" class="showcase-btn showcase-pause" aria-label="Pausar apresentação" aria-pressed="false">
+      <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6v12M15 6v12"/></svg>
+      <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>
+    </button>
+  </div>
+</section>
+
+<script src="showcase.js" defer></script>
+<!-- ===== STREAMERS (TERMINA AQUI) ===== -->
 
 <div class="gradient-bar"></div>
 
