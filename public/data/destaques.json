@@ -1,0 +1,44 @@
+[
+  {
+    "tipo": "imagem",
+    "src": "assets/destaques/streamer-01.jpg",
+    "nome": "Streamer em destaque 1",
+    "handle": "@seuusuario",
+    "plataforma": "TikTok",
+    "link": "#"
+  },
+  {
+    "tipo": "video",
+    "src": "assets/destaques/clip-01.mp4",
+    "poster": "assets/destaques/clip-01.jpg",
+    "nome": "Streamer em destaque 2",
+    "handle": "@seuusuario",
+    "plataforma": "Twitch",
+    "link": "#"
+  },
+  {
+    "tipo": "imagem",
+    "src": "assets/destaques/streamer-02.jpg",
+    "nome": "Streamer em destaque 3",
+    "handle": "@seuusuario",
+    "plataforma": "YouTube",
+    "link": "#",
+    "duracao": 8
+  },
+  {
+    "tipo": "imagem",
+    "src": "assets/destaques/streamer-03.jpg",
+    "nome": "Streamer em destaque 4",
+    "handle": "@seuusuario",
+    "plataforma": "Kick",
+    "link": "#"
+  },
+  {
+    "tipo": "imagem",
+    "src": "assets/destaques/streamer-04.jpg",
+    "nome": "Streamer em destaque 5",
+    "handle": "@seuusuario",
+    "plataforma": "TikTok",
+    "link": "#"
+  }
+]
