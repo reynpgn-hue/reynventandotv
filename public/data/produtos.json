@@ -1,0 +1,68 @@
+[
+  {
+    "id": "exemplo-1",
+    "exemplo": true,
+    "nome": "Headset gamer (exemplo)",
+    "descricao": "Troque este texto pelo motivo de você indicar este produto.",
+    "categoria": "Periféricos",
+    "loja": "amazon",
+    "link": "#",
+    "imagem": "assets/loja/exemplo.jpg",
+    "destaque": true
+  },
+  {
+    "id": "exemplo-2",
+    "exemplo": true,
+    "nome": "Mouse sem fio (exemplo)",
+    "descricao": "Troque este texto pelo motivo de você indicar este produto.",
+    "categoria": "Periféricos",
+    "loja": "shopee",
+    "link": "#",
+    "imagem": "assets/loja/exemplo.jpg",
+    "destaque": false
+  },
+  {
+    "id": "exemplo-3",
+    "exemplo": true,
+    "nome": "Teclado mecânico (exemplo)",
+    "descricao": "Troque este texto pelo motivo de você indicar este produto.",
+    "categoria": "Periféricos",
+    "loja": "mercadolivre",
+    "link": "#",
+    "imagem": "assets/loja/exemplo.jpg",
+    "destaque": false
+  },
+  {
+    "id": "exemplo-4",
+    "exemplo": true,
+    "nome": "Controle para PC e console (exemplo)",
+    "descricao": "Troque este texto pelo motivo de você indicar este produto.",
+    "categoria": "Consoles",
+    "loja": "amazon",
+    "link": "#",
+    "imagem": "assets/loja/exemplo.jpg",
+    "destaque": false
+  },
+  {
+    "id": "exemplo-5",
+    "exemplo": true,
+    "nome": "Suporte para headset (exemplo)",
+    "descricao": "Troque este texto pelo motivo de você indicar este produto.",
+    "categoria": "Setup",
+    "loja": "shopee",
+    "link": "#",
+    "imagem": "assets/loja/exemplo.jpg",
+    "destaque": false
+  },
+  {
+    "id": "exemplo-6",
+    "exemplo": true,
+    "nome": "Action figure (exemplo)",
+    "descricao": "Troque este texto pelo motivo de você indicar este produto.",
+    "categoria": "Colecionáveis",
+    "loja": "mercadolivre",
+    "link": "#",
+    "imagem": "assets/loja/exemplo.jpg",
+    "destaque": false
+  }
+]

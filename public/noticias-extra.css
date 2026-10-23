@@ -1,0 +1,187 @@
+/* ---------------------------------------------------------
+   noticias-extra.css — seção "Além dos games"
+   (tecnologia, filmes, séries e TV, shows e música)
+   Usa as cores e classes do styles.css do site.
+   --------------------------------------------------------- */
+
+.nx-atualizado{
+  color:var(--text-dim,#9a9ca5);
+  font-size:.85rem;
+}
+
+/* ---------- ABAS ---------- */
+
+.nx-tabs{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-bottom:28px;
+}
+
+.nx-tab{
+  font-family:'Space Grotesk', sans-serif;
+  font-weight:600;
+  font-size:.92rem;
+  padding:10px 20px;
+  border-radius:999px;
+  border:1px solid var(--line,#23262f);
+  background:transparent;
+  color:var(--text-dim,#9a9ca5);
+  cursor:pointer;
+  transition:color .15s ease, border-color .15s ease;
+}
+
+.nx-tab:hover{ color:var(--text,#f5f3ee); border-color:var(--text-dim,#9a9ca5); }
+
+.nx-tab[aria-selected="true"]{
+  background:var(--yellow,#ffd23f);
+  border-color:var(--yellow,#ffd23f);
+  color:#111;
+}
+
+/* ---------- GRADE ---------- */
+
+.nx-grid{
+  display:grid;
+  grid-template-columns:repeat(3, 1fr);
+  gap:24px;
+}
+
+.nx-grid.is-trocando{ animation:nx-entra .25s ease both; }
+
+@keyframes nx-entra{
+  from{ opacity:0; transform:translateY(6px); }
+  to{ opacity:1; transform:translateY(0); }
+}
+
+.nx-card{
+  display:flex;
+  flex-direction:column;
+  background:var(--bg-card,#101218);
+  border:1px solid var(--line,#23262f);
+  border-radius:16px;
+  overflow:hidden;
+  color:inherit;
+  text-decoration:none;
+  transition:border-color .15s ease;
+}
+
+.nx-card:hover{ border-color:var(--text-dim,#9a9ca5); }
+
+.nx-card:focus-visible{
+  outline:2px solid var(--cyan,#00d9c0);
+  outline-offset:2px;
+}
+
+.nx-thumb{
+  position:relative;
+  aspect-ratio:16 / 9;
+  overflow:hidden;
+  display:grid;
+  place-items:center;
+  background:#171a22;
+}
+
+.nx-thumb img{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+
+/* sem foto: cor própria de cada assunto + sigla grande apagada */
+.nx-thumb[data-cat="tecnologia"]{ background:linear-gradient(135deg,#12303a,#0e1a22); }
+.nx-thumb[data-cat="filmes"]{ background:linear-gradient(135deg,#3a1224,#1a0f18); }
+.nx-thumb[data-cat="series"]{ background:linear-gradient(135deg,#2a1a4a,#12101f); }
+.nx-thumb[data-cat="shows"]{ background:linear-gradient(135deg,#3a2a12,#1f150a); }
+
+.nx-glifo{
+  font-family:'Anton', sans-serif;
+  font-size:3rem;
+  letter-spacing:1px;
+  color:rgba(255,255,255,.12);
+}
+
+.nx-corpo{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+  padding:18px 20px 22px;
+  flex:1;
+}
+
+.nx-meta{
+  display:flex;
+  justify-content:space-between;
+  gap:12px;
+  font-size:.8rem;
+  color:var(--text-dim,#9a9ca5);
+}
+
+.nx-fonte{ font-weight:600; color:var(--text,#f5f3ee); }
+
+.nx-titulo{
+  font-size:1.05rem;
+  font-weight:600;
+  line-height:1.35;
+}
+
+.nx-resumo{
+  font-size:.9rem;
+  line-height:1.55;
+  color:var(--text-dim,#9a9ca5);
+  display:-webkit-box;
+  -webkit-line-clamp:3;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+
+/* a primeira notícia de cada aba vira uma faixa: foto de um lado, texto do outro */
+.nx-lead{
+  grid-column:1 / -1;
+  display:grid;
+  grid-template-columns:1.35fr 1fr;
+}
+
+.nx-lead .nx-thumb{
+  aspect-ratio:auto;
+  min-height:300px;
+}
+
+.nx-lead .nx-corpo{
+  justify-content:center;
+  gap:14px;
+  padding:32px 36px;
+}
+
+.nx-lead .nx-titulo{
+  font-family:'Anton', sans-serif;
+  text-transform:uppercase;
+  font-weight:400;
+  letter-spacing:.5px;
+  font-size:clamp(1.6rem, 3vw, 2.4rem);
+  line-height:1.05;
+}
+
+.nx-lead .nx-resumo{ font-size:1rem; -webkit-line-clamp:4; }
+
+/* ---------- TELAS MENORES ---------- */
+
+@media (max-width:900px){
+  .nx-grid{ grid-template-columns:repeat(2, 1fr); }
+  .nx-lead{ grid-template-columns:1fr; }
+  .nx-lead .nx-thumb{ aspect-ratio:16 / 9; min-height:0; }
+  .nx-lead .nx-corpo{ padding:20px 22px 24px; }
+}
+
+@media (max-width:600px){
+  .nx-grid{ grid-template-columns:1fr; }
+  .nx-tab{ padding:9px 16px; font-size:.88rem; }
+}
+
+@media (prefers-reduced-motion: reduce){
+  .nx-grid.is-trocando{ animation:none; }
+  .nx-tab, .nx-card{ transition:none; }
+}

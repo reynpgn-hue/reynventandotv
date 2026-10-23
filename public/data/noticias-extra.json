@@ -1,0 +1,293 @@
+{
+  "atualizadoEm": null,
+  "categorias": {
+    "tecnologia": [
+      {
+        "id": "exemplo-tecnologia-1",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de tecnologia 1",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-22"
+      },
+      {
+        "id": "exemplo-tecnologia-2",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de tecnologia 2",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-22"
+      },
+      {
+        "id": "exemplo-tecnologia-3",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de tecnologia 3",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-tecnologia-4",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de tecnologia 4",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-tecnologia-5",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de tecnologia 5",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-tecnologia-6",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de tecnologia 6",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-20"
+      },
+      {
+        "id": "exemplo-tecnologia-7",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de tecnologia 7",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-20"
+      }
+    ],
+    "filmes": [
+      {
+        "id": "exemplo-filmes-1",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de filmes 1",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-22"
+      },
+      {
+        "id": "exemplo-filmes-2",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de filmes 2",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-22"
+      },
+      {
+        "id": "exemplo-filmes-3",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de filmes 3",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-filmes-4",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de filmes 4",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-filmes-5",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de filmes 5",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-filmes-6",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de filmes 6",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-20"
+      },
+      {
+        "id": "exemplo-filmes-7",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de filmes 7",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-20"
+      }
+    ],
+    "series": [
+      {
+        "id": "exemplo-series-1",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de séries e TV 1",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-22"
+      },
+      {
+        "id": "exemplo-series-2",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de séries e TV 2",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-22"
+      },
+      {
+        "id": "exemplo-series-3",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de séries e TV 3",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-series-4",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de séries e TV 4",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-series-5",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de séries e TV 5",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-series-6",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de séries e TV 6",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-20"
+      },
+      {
+        "id": "exemplo-series-7",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de séries e TV 7",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-20"
+      }
+    ],
+    "shows": [
+      {
+        "id": "exemplo-shows-1",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de shows e música 1",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-22"
+      },
+      {
+        "id": "exemplo-shows-2",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de shows e música 2",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-22"
+      },
+      {
+        "id": "exemplo-shows-3",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de shows e música 3",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-shows-4",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de shows e música 4",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-shows-5",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de shows e música 5",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-21"
+      },
+      {
+        "id": "exemplo-shows-6",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de shows e música 6",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-20"
+      },
+      {
+        "id": "exemplo-shows-7",
+        "exemplo": true,
+        "titulo": "Exemplo de notícia de shows e música 7",
+        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
+        "link": "#",
+        "imagem": null,
+        "fonte": "Fonte de exemplo",
+        "data": "2026-10-20"
+      }
+    ]
+  }
+}
