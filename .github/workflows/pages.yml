@@ -5,8 +5,10 @@ on:
     branches: [main]
   workflow_dispatch:
   workflow_run:
-    # precisa ser IGUAL ao "name:" do seu workflow de notícias
-    workflows: ["Atualizar notícias diariamente"]
+    # precisa ser IGUAL ao "name:" de cada workflow de notícias
+    workflows:
+      - "Atualizar notícias diariamente"
+      - "Atualizar notícias de tecnologia, filmes e shows"
     types: [completed]
 
 permissions:
