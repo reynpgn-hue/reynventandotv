@@ -158,8 +158,8 @@ function lerAnterior() {
 
 async function main() {
   if (!API_KEY) {
-    console.error('https://newsdata.io/api/1/latest?');
-    console.error('No PowerShell:  $env:NEWSDATA_API_KEY="pub_8f25cd3398554742855cb2607cf5b7c2"');
+    console.error('Falta a chave. Defina NEWSDATA_API_KEY antes de rodar.');
+    console.error('No PowerShell:  $env:NEWSDATA_API_KEY="COLE_SUA_CHAVE_AQUI"');
     process.exit(1);
   }
 

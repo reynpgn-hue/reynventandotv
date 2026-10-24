@@ -9,11 +9,52 @@
 (() => {
   'use strict';
 
+  const SCRIPT_URL = document.currentScript && document.currentScript.src;
   const section = document.getElementById('streamers');
   const stage = document.getElementById('showcase-stage');
-  if (!section || !stage) return;
 
-  const DATA_URL = 'data/destaques.json';
+  // Avisos de diagnóstico: só aparecem rodando no seu computador
+  // (Live Server / localhost) ou se o endereço terminar com ?debug.
+  // No site publicado o visitante nunca vê isso.
+  const IS_LOCAL = ['localhost', '127.0.0.1', '[::1]', ''].includes(location.hostname)
+    || location.protocol === 'file:'
+    || /[?&]debug\b/.test(location.search);
+
+  function avisoLocal(texto) {
+    console.error('Janela de streamers: ' + texto);
+    if (!IS_LOCAL) return;
+    let bar = document.getElementById('showcase-aviso');
+    if (!bar) {
+      bar = document.createElement('div');
+      bar.id = 'showcase-aviso';
+      bar.setAttribute('role', 'alert');
+      bar.style.cssText = 'position:fixed;left:12px;right:12px;bottom:12px;z-index:99999;'
+        + 'background:#7a0f26;color:#fff;font:14px/1.5 system-ui,sans-serif;'
+        + 'padding:12px 44px 12px 16px;border-radius:10px;box-shadow:0 6px 24px rgba(0,0,0,.5)';
+      const fechar = document.createElement('button');
+      fechar.type = 'button';
+      fechar.textContent = '\u00d7';
+      fechar.setAttribute('aria-label', 'Fechar aviso');
+      fechar.style.cssText = 'position:absolute;top:6px;right:10px;background:none;border:0;'
+        + 'color:#fff;font-size:24px;line-height:1;cursor:pointer';
+      fechar.addEventListener('click', () => bar.remove());
+      bar.appendChild(fechar);
+      document.body.appendChild(bar);
+    }
+    const linha = document.createElement('div');
+    linha.textContent = '\u26a0 Janela de streamers: ' + texto;
+    bar.appendChild(linha);
+  }
+
+  if (!section || !stage) {
+    avisoLocal('o bloco com id="streamers" não está neste index.html. '
+      + 'Cole o conteúdo de bloco-streamers.html logo depois do hero e salve com Ctrl + S.');
+    return;
+  }
+
+  const DATA_URL = SCRIPT_URL
+    ? new URL('data/destaques.json', SCRIPT_URL).href
+    : 'data/destaques.json';
   const IMAGE_MS = 6500;      // tempo de cada foto
   const VIDEO_MAX_MS = 20000; // vídeo mais longo que isso é cortado
   const FADE_MS = 700;        // mesmo valor do transition no CSS
@@ -116,7 +157,11 @@
     if (s.broken) return;
     s.broken = true;
     s.seg.hidden = true;
+    avisoLocal('não achei o arquivo ' + (s.media.currentSrc || s.media.src || s.item.src)
+      + ' . Confira se ele está nessa pasta e se o nome é igual ao do destaques.json '
+      + '(maiúscula/minúscula e .jpg x .jpeg).');
     if (goodCount() === 0) {
+      avisoLocal('nenhuma foto ou vídeo carregou, por isso o banner ficou escondido.');
       section.hidden = true;
       return;
     }
@@ -313,13 +358,21 @@
   // ---------- início ----------
 
   function init(list) {
-    const items = (Array.isArray(list) ? list : [])
+    if (!Array.isArray(list)) {
+      throw new Error('o destaques.json precisa começar com [ e terminar com ].');
+    }
+
+    const items = list
       .filter(it => it && typeof it.src === 'string' && it.src.trim() !== '')
+      .filter(it => IS_LOCAL || !it.exemplo)   // itens com "exemplo": true só aparecem no seu computador
       .map(it => ({ ...it, tipo: inferType(it) }));
 
     if (items.length === 0) {
-      section.hidden = true;
-      return;
+      throw new Error('o destaques.json está vazio, ou nenhum item tem o campo "src".');
+    }
+
+    if (getComputedStyle(stage).position !== 'relative') {
+      avisoLocal('o showcase.css não carregou. Ele precisa estar em public/, ao lado do index.html.');
     }
 
     slides = items.map(buildSlide);
@@ -331,12 +384,25 @@
 
   fetch(DATA_URL)
     .then(r => {
-      if (!r.ok) throw new Error('Não achei ' + DATA_URL);
-      return r.json();
+      if (!r.ok) {
+        throw new Error(r.status === 404
+          ? 'não achei ' + DATA_URL + ' (erro 404). O arquivo precisa estar em public/data/.'
+          : 'erro ' + r.status + ' ao abrir ' + DATA_URL + '.');
+      }
+      return r.text();
     })
-    .then(init)
+    .then(texto => {
+      let lista;
+      try {
+        lista = JSON.parse(texto);
+      } catch (e) {
+        throw new Error('o destaques.json tem erro de escrita (' + e.message + '). '
+          + 'Quase sempre é vírgula sobrando ou faltando, ou aspas.');
+      }
+      init(lista);
+    })
     .catch(err => {
-      console.error('Janela de streamers:', err);
+      avisoLocal(err.message);
       section.hidden = true;
     });
 })();
