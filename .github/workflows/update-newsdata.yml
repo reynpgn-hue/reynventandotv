@@ -1,1 +1,37 @@
 
+name: Atualizar notícias de tecnologia, filmes e shows
+
+on:
+  schedule:
+    # roda todo dia às 08:30 (horário de Brasília = 11:30 UTC)
+    - cron: "30 11 * * *"
+  workflow_dispatch: # permite rodar na mão pelo botão "Run workflow"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Buscar notícias na NewsData.io
+        env:
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+        run: node ingest/fetch-newsdata.js
+
+      - name: Salvar o arquivo atualizado (se mudou algo)
+        run: |
+          git config user.name "reynventando-bot"
+          git config user.email "bot@reynventando.tv"
+          git add public/data/noticias-extra.json
+          git diff --quiet --cached || git commit -m "chore: atualiza noticias de tecnologia, filmes e shows"
+          git pull --rebase origin main
+          git push
