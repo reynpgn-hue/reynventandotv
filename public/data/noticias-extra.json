@@ -1,292 +1,200 @@
 {
-  "atualizadoEm": null,
+  "atualizadoEm": "2026-10-24T20:30:36.690Z",
   "categorias": {
     "tecnologia": [
       {
-        "id": "exemplo-tecnologia-1",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de tecnologia 1",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-22"
+        "id": "a99778bce6b4cda7c73a461989c70e48",
+        "titulo": "Nansen investe R$ 5,5 milhões em carregadores para ônibus elétricos de BH",
+        "resumo": "A atuação da Nansen na mobilidade elétrica em Minas Gerais vai além do fornecimento de carregadores para ônibus municipais. A empresa informa que tem equipamentos na rodoviária da Capital e no Aeroporto Internacional…",
+        "link": "https://diariodocomercio.com.br/negocios/nansen-mobilidade-eletrica-mg/",
+        "imagem": "https://diariodocomercio.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-10.24.54-e1792692577749.jpeg",
+        "fonte": "Diariodocomercio Br",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-tecnologia-2",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de tecnologia 2",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-22"
+        "id": "a6b488f373de2af1b9104152912da9d9",
+        "titulo": "Será que estamos complicando demais o café?",
+        "resumo": "Nos últimos anos, o café ganhou novas formas de preparo, equipamentos, métodos de extração e um vocabulário cada vez mais técnico. Hoje, falamos de moagem, temperatura da água, proporção, tempo de extração, notas…",
+        "link": "https://diariodocomercio.com.br/opiniao/coluna/cafe-sem-filtro/estamos-complicando-demais-cafe/",
+        "imagem": "https://diariodocomercio.com.br/wp-content/uploads/2026/09/cafe.jpeg",
+        "fonte": "Diariodocomercio Br",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-tecnologia-3",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de tecnologia 3",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "013f29c3d132513d590089aef3acc2bc",
+        "titulo": "Adaptabilidade e visão global",
+        "resumo": "A indústria passa por transformações constantes. A digitalização, a automação e a busca por eficiência não apenas redefinem os processos produtivos, mas alteram profundamente as competências exigidas pelo mercado.…",
+        "link": "https://diariodocomercio.com.br/opiniao/artigo/adaptabilidade-visao-global/",
+        "imagem": "https://diariodocomercio.com.br/wp-content/uploads/2025/11/computador-tecnologia.jpeg",
+        "fonte": "Diariodocomercio Br",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-tecnologia-4",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de tecnologia 4",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "a77047bfdb103dd976719c670fd2c14d",
+        "titulo": "Novas tecnologias e cirurgia endoscópica: conheça estratégias para combater a flacidez e melhorar a pele",
+        "resumo": "A dermatologia vive uma fase de expansão de tecnologias e combinações de tratamentos que prometem melhorar a qualidade da pele, combater a flacidez e suavizar os sinais do envelhecimento. Entre as apostas em clínicas…",
+        "link": "https://oglobo.globo.com/rio/bairros/zona-sul/noticia/2026/10/24/novas-tecnologias-e-cirurgia-endoscopica-conheca-estrategias-para-combater-a-flacidez-e-melhorar-a-pele.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/d1KYhGgDksGnFTFhsbchcp9kl6I=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/H/q/tYbBgLTEKn2WDXDMKUAA/img-2085.jpg.jpeg",
+        "fonte": "O Globo",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-tecnologia-5",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de tecnologia 5",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "230a44a3a5509c08fd8659d5ee2e19df",
+        "titulo": "A galáxia de Andrômeda parece uma coisa no arquivo bruto e outra depois do processamento: comparação mostra o que a astrofotografia realmente revela",
+        "resumo": "Uma comparação divulgada pela NASA em 27 de setembro de 2026 mostra como a galáxia de Andrômeda muda de aparência após o processamento digital de imagens astronômicas. O resultado reúne 223 exposições fotográficas e…",
+        "link": "https://oantagonista.com.br/ladooa/entretenimento/a-galaxia-de-andromeda-parece-uma-coisa-no-arquivo-bruto-e-outra-depois-do-processamento-comparacao-mostra-o-que-a-astrofotografia-realmente-revela/",
+        "imagem": "https://cdn.oantagonista.com/uploads/2023/08/logo-caixa-branca.png",
+        "fonte": "O Antagonista",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-tecnologia-6",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de tecnologia 6",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-20"
+        "id": "8af5b2bd7a177134f36b79bc4b23c21d",
+        "titulo": "Dragonfly da Nasa pousa na maior lua de Saturno pela primeira vez, mas sem sair da Terra",
+        "resumo": "Simulação em tempo real faz parte da preparação para o lançamento da aeronave, que deve chegar a Titã, a maior lua de Saturno, em 2034",
+        "link": "https://www.cnnbrasil.com.br/ciencia/dragonfly-da-nasa-pousa-na-maior-lua-de-saturno-pela-primeira-vez-mas-sem-sair-da-terra/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/pia14922-orig.avif?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-tecnologia-7",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de tecnologia 7",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-20"
+        "id": "b862f6409b051194ee7d5943546c4cd9",
+        "titulo": "Desigualdade digital",
+        "resumo": "A história existe para nos lembrar como os fatos ocorreram, mas uma essência insiste em repetir-se a cada fenômeno: a desigualdade nas disputas. Vencedores e vencidos mudam de nome; de cor; de bandeira; de lugar. No…",
+        "link": "https://atarde.com.br/opiniao/desigualdade-digital-1406938",
+        "imagem": "https://atarde.com.br/themes/atarde/assets/img/atarde.png",
+        "fonte": "A Tarde",
+        "data": "2026-10-24"
       }
     ],
     "filmes": [
       {
-        "id": "exemplo-filmes-1",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de filmes 1",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-22"
+        "id": "6ec080d7dddbc971d24dcac03c6b55f2",
+        "titulo": "Minissérie da Netflix merece uma segunda chance neste sábado (24/10)",
+        "resumo": "Chegou o sábado, 24, e, em meio à correria da semana, nada melhor do que encontrar uma boa história para acompanhar sem precisar passar dias diante da televisão. Para quem gosta de suspense criminal, disputas de…",
+        "link": "https://atarde.com.br/cineinsite/minisserie-da-netflix-merece-uma-segunda-chance-neste-sabado-2410-1406416",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/minisserie-da-netflix-merece-uma-segunda-chance-ne0140641600202610201515.jpg?xid=7360068",
+        "fonte": "A Tarde",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-filmes-2",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de filmes 2",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-22"
+        "id": "06370bb99bfd965191ca5a872ade5d5e",
+        "titulo": "Que horas estreia o 4º episódio da 2ª temporada de 'Marshals', spin-off de 'Yellowstone'?",
+        "resumo": "A segunda temporada de Marshals: Uma História de Yellowstone, série que continua o universo de ...",
+        "link": "https://www.terra.com.br/diversao/que-horas-estreia-o-4-episodio-da-2-temporada-de-marshals-spin-off-de-yellowstone,edf892de9fb3950221e9883dccce8ca9r3x4d7yw.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/10/24/232653340-que-horas-estreia-o-4o-episodio-da-2a-temporada-de-marshals-spin-off-de-yellowstone.jpg",
+        "fonte": "Terra",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-filmes-3",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de filmes 3",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "45ef464e4a6361b580c6e9501e8e834e",
+        "titulo": "Afastado das novelas há 14 anos, Nuno Leal Maia conta que público pede sua volta aos folhetins: 'É bom sentir saudade'",
+        "resumo": "Nuno Leal Maia está de volta aos palcos na comédia “Meno male”, em cartaz no Teatro dos 4, na Gávea. No espetáculo, ele interpreta um taxista italiano bem apegado aos “valores familiares”, mas descobre que a neta…",
+        "link": "https://extra.globo.com/entretenimento/noticia/2026/10/afastado-das-novelas-ha-14-anos-nuno-leal-maia-conta-que-publico-pede-sua-volta-aos-folhetins-e-bom-sentir-saudade.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/jlVbd-PaWliUzRvhjI-Wr5dd5wo=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/F/E/mkifu4TCuhkmAvgzHlBg/arte-2026-10-16t195906.943.png",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-filmes-4",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de filmes 4",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "e70e92ab8566e957164069c47197f3b9",
+        "titulo": "Milionária, Bella Longuinho revela que sofre com vício em dinheiro: 'Virou tema de terapia'",
+        "resumo": "A influenciadora Bella Longuinho, de 24 anos, falou pela primeira vez sobre o vício em dinheiro. ...",
+        "link": "https://www.terra.com.br/nos/milionaria-bella-longuinho-revela-que-sofre-com-vicio-em-dinheiro-virou-tema-de-terapia,46fb9303d439f0f7a8b4e9e2940f1298yhu9jsmx.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/10/21/inserir-um-titulo-(44)-1iaxn5pzylwl0.jpg",
+        "fonte": "Terra",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-filmes-5",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de filmes 5",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "c35540dd7d96bc7d170c316f8051b161",
+        "titulo": "'Resposta ao tempo', série de Licia Manzo no Globoplay, já tem previsão de estreia",
+        "resumo": "“Resposta ao tempo”, série de Licia Manzo dirigida por Luisa Lima, terminará de ser gravada em novembro. A previsão de estreia no Globoplay é para o final do primeiro semestre, provavelmente em maio. Entrevista:…",
+        "link": "https://oglobo.globo.com/play/series/noticia/2026/10/24/resposta-ao-tempo-serie-de-licia-manzo-no-globoplay-ja-tem-previsao-de-estreia.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/t9ATbMZJ3xJ3quJplaxzGro9NOc=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/R/p/lVVqvrRBqm4aTdqHnyKA/liciamanzo.jpg",
+        "fonte": "O Globo",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-filmes-6",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de filmes 6",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-20"
+        "id": "532b3a5f6ea6e74b7093de793ab35ef3",
+        "titulo": "Belo lança 'Você mudou', pagode romântico sobre término e decepção",
+        "resumo": "Belo lançou nesta sexta-feira o single \"você mudou\", um pagode romântico que aborda as desilusões amorosas em um momento de término de relacionamento. A música, que também conta com um videoclipe, está disponível nas…",
+        "link": "https://extra.globo.com/entretenimento/noticia/2026/10/belo-lanca-voce-mudou-pagode-romantico-sobre-termino-e-decepcao.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/JMwERmABMSKeb7dxiysWDItDbJY=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/N/D/YdVQ0zSrAecNe05xkGPg/o-romantismo-teve-lugar-assegurado-no-show-da-turnetresgracas-com-belo-que-representou-um-.jpg",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-filmes-7",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de filmes 7",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-20"
+        "id": "2f0601fad93094d2464ed06bbcda8105",
+        "titulo": "No elenco de ‘Avenida Brasil 2’, Mel Maia protagoniza ‘Medley’, filme que chega aos cinemas antes da novela da Globo",
+        "resumo": "Confirmada no elenco de “Avenida Brasil 2”, que estreia em janeiro, na Globo, Mel Maia poderá ser vista antes nos cinemas como protagonista de “Medley”, que chega às telonas no dia 29. Ambientado nos anos 1990, o…",
+        "link": "https://extra.globo.com/blogs/telinha/post/2026/10/no-elenco-de-avenida-brasil-2-mel-maia-protagoniza-medley-filme-que-chega-aos-cinemas-antes-da-novela-da-globo.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/lMxrs_zVwPYmZH4sLHfr2cyxGRU=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/9/m/GvlcLmRfWoHTDB3QfXGQ/copia-de-nat-0640.jpg",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-10-24"
       }
     ],
-    "series": [
-      {
-        "id": "exemplo-series-1",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de séries e TV 1",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-22"
-      },
-      {
-        "id": "exemplo-series-2",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de séries e TV 2",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-22"
-      },
-      {
-        "id": "exemplo-series-3",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de séries e TV 3",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
-      },
-      {
-        "id": "exemplo-series-4",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de séries e TV 4",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
-      },
-      {
-        "id": "exemplo-series-5",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de séries e TV 5",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
-      },
-      {
-        "id": "exemplo-series-6",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de séries e TV 6",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-20"
-      },
-      {
-        "id": "exemplo-series-7",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de séries e TV 7",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-20"
-      }
-    ],
+    "series": [],
     "shows": [
       {
-        "id": "exemplo-shows-1",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de shows e música 1",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-22"
+        "id": "0400046eea1f2177c392da986c0971ae",
+        "titulo": "Horóscopo do dia: confira o que os astros revelam para este sábado (24/10)",
+        "resumo": "Veja o horóscopo por Oscar Quiroga para desvendar este sábado, 24 de outubro, de acordo com cada signo",
+        "link": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/10/7526558-horoscopo-do-dia-confira-o-que-os-astros-revelam-para-este-sabado-24-10.html",
+        "imagem": "https://midias.correiobraziliense.com.br/_midias/jpg/2023/12/29/1_horoscopo_astrologia_sabado_6299229-33805068.jpg",
+        "fonte": "Correio Braziliense",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-shows-2",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de shows e música 2",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-22"
+        "id": "dcbf927150c0656bea6a29991fb25441",
+        "titulo": "Marcos Breda e Alice Borges trocam farpas na comédia 'Víboras'",
+        "resumo": "Aloísio de Abreu e Guilherme Dellorto completam o elenco do espetáculo, que aborda amizade, sexualidade e relações na maturidade",
+        "link": "https://odia.ig.com.br/diversao/show-e-lazer/2026/10/7315021-marcos-breda-e-alice-borges-trocam-farpas-na-comedia-viboras.html",
+        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/10/22/dsc_8882__foto_beti_niemeyer-39612703.jpg",
+        "fonte": "Odia Ig Br",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-shows-3",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de shows e música 3",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "7e6e43ef0dd205fc93e7a5bf8c816ae2",
+        "titulo": "'Pra que jogar bola na Mavie?': sósia de Neymar larga emprego em parque turístico da Serra Gaúcha para se dedicar à internet após viralizar",
+        "resumo": "'Ney Gaúcho': sósia do jogador larga emprego para se dedicar à internet De instrutor em um parque turístico a influenciador com 1,5 milhão de seguidores. Helton Ricardo, de 30 anos, encontrou na Serra Gaúcha um novo…",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/24/sosia-neymar-larga-emprego-parque-turistico-serra-gaucha-internet-viralizar.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/plMPnRJ6-HU9ALiPZ-fa9rtQlxA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/7/v5VBTDSvCIfBP5nVfIjg/g1-12-.jpg",
+        "fonte": "G1 - O Portal",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-shows-4",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de shows e música 4",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "ffaa79fec6ba9f9905c035b425e3780b",
+        "titulo": "Emicida, Duda Beat e Arnaldo Antunes fazem shows gratuitos em festival em Foz do Iguaçu; veja como conseguir ingressos",
+        "resumo": "shows em Foz do Iguaçu serão gratuitos Érico Andrade/ Stephanie Rodrigues/Patricia Burlan Emicida, Duda Beat, Arnaldo Antunes e Os Garotin estão entre as atrações confirmadas do Festival Iguassu Inova 2026, que será…",
+        "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/24/shows-gratuitos-em-festival-em-foz-do-iguacu.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/LiAmIkak8ZOaIDOONxy-cBgtatk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/h/yjvQL7Sjqkv2iJ1lm7bw/g1-pr-2026-10-23t110411.653.jpg",
+        "fonte": "G1 - O Portal",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-shows-5",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de shows e música 5",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-21"
+        "id": "4c27b6f2e459af6c024eed5aa29562ee",
+        "titulo": "“Começou como hobby e virou uma paixão”: como Matchola reinventa o rap alternativo a partir de Salvador",
+        "resumo": "“Começou como hobby e virou uma paixão”: como Matchola reinventa o rap alternativo a partir de Salvador.",
+        "link": "https://www.bahianoticias.com.br/holofote/noticia/85976-comecou-como-hobby-e-virou-uma-paixao-como-matchola-reinventa-o-rap-alternativo-a-partir-de-salvador",
+        "imagem": "https://www.bahianoticias.com.br/fotos/holofote_noticias/85976/IMAGEM_NOTICIA_original.jpg",
+        "fonte": "Bahia Notícias",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-shows-6",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de shows e música 6",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-20"
+        "id": "d6b2a3f26bf1bd916c8be107d6beae42",
+        "titulo": "'Show de Truman' de filhotes: Live que acompanha ninhadas do nascimento à adoção é febre na Finlândia; vídeo",
+        "resumo": "\"Puppy live\", ou \"Live de filhotes\" é exatamente o que o nome sugere. É uma transmissão ao vivo 24 horas por dia, 7 dias por semana, de filhotes recém-nascidos. E na Finlândia, parece que todos estão investidos…",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/10/24/show-de-truman-de-filhotes-live-que-acompanha-ninhadas-do-nascimento-a-adocao-e-febre-na-finlandia-video.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/2_-zIUyKxmuo1WLh0-APJhrO3UU=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/y/r/1RlwxtRD6ooHg04r9kpg/ea6189e4-d9b7-45a2-bf06-7a0289ee56c1.gif",
+        "fonte": "O Globo",
+        "data": "2026-10-24"
       },
       {
-        "id": "exemplo-shows-7",
-        "exemplo": true,
-        "titulo": "Exemplo de notícia de shows e música 7",
-        "resumo": "Texto de exemplo. As notícias de verdade entram sozinhas quando o robô rodar.",
-        "link": "#",
-        "imagem": null,
-        "fonte": "Fonte de exemplo",
-        "data": "2026-10-20"
+        "id": "0a24e37a9e96ca405ac6ee76287fcca2",
+        "titulo": "Cathê fala sobre ter sido tratada como ex de Neymar e Vini Jr na “Fazenda”",
+        "resumo": "A ex-peoa de \"A Fazenda\", Catherine Bascoy falou sobre ter recebido o título de \"ex-affair de Neymar e Vini Jr.\" ao ser anunciada no reality show.",
+        "link": "https://contilnetnoticias.com.br/noticias/cathe-fala-sobre-ter-sido-tratada-como-ex-de-neymar-e-vini-jr-na-fazenda/",
+        "imagem": "https://contilnetnoticias.com.br/wp-content/uploads/2026/10/catherine-bascoy-vini-jr-neymar-a-fazenda.webp",
+        "fonte": "Contilnet Notícias",
+        "data": "2026-10-24"
       }
     ]
   }
