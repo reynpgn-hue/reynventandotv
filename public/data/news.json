@@ -1,5 +1,19 @@
 [
   {
+    "id": "58b56474-b97e-496a-bb2b-792714f4d598",
+    "titulo": "12 animes que valem a pena assistir neste outono",
+    "resumo": "De um retorno a Night City a uma lendária corrida de ferreiro e bizarra, percorremos os novos e antigos títulos de anime que você precisa conferir.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-10-24",
+    "link": "https://www.ign.com/articles/new-anime-to-watch-in-fall-2006",
+    "imagem": "https://assets-prd.ignimgs.com/2026/10/22/newanimefall26-oo-1792630117402.jpg",
+    "destaque": true,
+    "sigla": "AW",
+    "tema": "tema-a"
+  },
+  {
     "id": "fcfa31d1-f40a-4faa-809b-7509fa65bae6",
     "titulo": "Avengers: Doomsday promovido com crossover temático de beisebol com jogadores da MLB durante a World Series",
     "resumo": "A Marvel Studios estreou uma promoção exclusiva para Avengers: Doomsday durante o Jogo 1 da World Series de 2026 na Fox esta noite entre o Milwaukee Brewers e o Tampa Bay Rays. O anúncio é um crossover Vingadores-MLB ambientado na Terra-828 em",
@@ -9,9 +23,9 @@
     "data": "2026-10-24",
     "link": "https://www.ign.com/articles/avengers-doomsday-promoted-with-baseball-themed-crossover-featuring-mlb-players-during-world-series",
     "imagem": "https://assets-prd.ignimgs.com/2026/10/24/image-3-1792801727507.png",
-    "destaque": true,
+    "destaque": false,
     "sigla": "AD",
-    "tema": "tema-a"
+    "tema": "tema-b"
   },
   {
     "id": "b802758b-acd8-4e4d-b1eb-90b6daa6b8c1",
@@ -25,7 +39,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/10/22/blogroll-2-6-1792673659287.png",
     "destaque": false,
     "sigla": "AP",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "04a44ffb-f66c-4b35-97cd-447c3c033d10",
@@ -39,7 +53,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/10/23/dead-by-daylight-chucky-1792799484984.png",
     "destaque": false,
     "sigla": "DD",
-    "tema": "tema-c"
+    "tema": "tema-d"
   },
   {
     "id": "eeed32d1-e366-4d8b-92e5-619620510c18",
@@ -53,20 +67,6 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/10/23/dungeon-crawler-carl-puzzle-1792793594591.png",
     "destaque": false,
     "sigla": "BN",
-    "tema": "tema-d"
-  },
-  {
-    "id": "01b0db36-c465-491d-b508-b297e1fda283",
-    "titulo": "Vingadores: Dia do Juízo Final coloca Sandra Hüller no papel de Camafeu",
-    "resumo": "A Marvel teria escalado Sandra Hüller em Vingadores: Juízo Final para um papel secreto.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-10-23",
-    "link": "https://www.ign.com/articles/avengers-doomsday-casts-sandra-huller-in-cameo-role",
-    "imagem": "https://assets-prd.ignimgs.com/2026/10/23/sandra-huller-1792796714206.png",
-    "destaque": false,
-    "sigla": "AD",
     "tema": "tema-e"
   },
   {
