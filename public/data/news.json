@@ -1,5 +1,33 @@
 [
   {
+    "id": "fcfa31d1-f40a-4faa-809b-7509fa65bae6",
+    "titulo": "Avengers: Doomsday promovido com crossover temático de beisebol com jogadores da MLB durante a World Series",
+    "resumo": "A Marvel Studios estreou uma promoção exclusiva para Avengers: Doomsday durante o Jogo 1 da World Series de 2026 na Fox esta noite entre o Milwaukee Brewers e o Tampa Bay Rays. O anúncio é um crossover Vingadores-MLB ambientado na Terra-828 em",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-10-24",
+    "link": "https://www.ign.com/articles/avengers-doomsday-promoted-with-baseball-themed-crossover-featuring-mlb-players-during-world-series",
+    "imagem": "https://assets-prd.ignimgs.com/2026/10/24/image-3-1792801727507.png",
+    "destaque": true,
+    "sigla": "AD",
+    "tema": "tema-a"
+  },
+  {
+    "id": "b802758b-acd8-4e4d-b1eb-90b6daa6b8c1",
+    "titulo": "Aaron Paul faz participação surpresa em Cara de Barro da DC",
+    "resumo": "Aaron Paul, três vezes vencedor do Emmy, tem um piscar de olhos e você vai perder a participação especial no novo filme da DC, Cara de Barro. Agora, o diretor do filme, James Watkins, revelou por que a estrela de Breaking Bad e Westworld está no primeiro filme",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-10-24",
+    "link": "https://www.ign.com/articles/aaron-paul-clayface-cameo-dc",
+    "imagem": "https://assets-prd.ignimgs.com/2026/10/22/blogroll-2-6-1792673659287.png",
+    "destaque": false,
+    "sigla": "AP",
+    "tema": "tema-b"
+  },
+  {
     "id": "04a44ffb-f66c-4b35-97cd-447c3c033d10",
     "titulo": "Dead by Daylight para remover o conteúdo do Chucky apenas alguns meses depois de perder Michael Myers",
     "resumo": "Os fãs do Dead by Daylight estão fora de si depois que a Behaviour Interactive anunciou que todo o conteúdo do Chucky não estaria mais disponível para compra a partir do próximo mês.",
@@ -9,9 +37,9 @@
     "data": "2026-10-24",
     "link": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
     "imagem": "https://assets-prd.ignimgs.com/2026/10/23/dead-by-daylight-chucky-1792799484984.png",
-    "destaque": true,
+    "destaque": false,
     "sigla": "DD",
-    "tema": "tema-a"
+    "tema": "tema-c"
   },
   {
     "id": "eeed32d1-e366-4d8b-92e5-619620510c18",
@@ -25,7 +53,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/10/23/dungeon-crawler-carl-puzzle-1792793594591.png",
     "destaque": false,
     "sigla": "BN",
-    "tema": "tema-b"
+    "tema": "tema-d"
   },
   {
     "id": "01b0db36-c465-491d-b508-b297e1fda283",
@@ -39,34 +67,6 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/10/23/sandra-huller-1792796714206.png",
     "destaque": false,
     "sigla": "AD",
-    "tema": "tema-c"
-  },
-  {
-    "id": "640bb22d-6bfa-4738-82e4-5a52f99193dc",
-    "titulo": "O primeiro diretor de operações do Xbox deixa o cargo apenas três meses depois de ter sido criado",
-    "resumo": "Helen Chiang, a primeira diretora de operações do Xbox, abdicou do cargo apenas três meses após sua criação, conforme relatado pela CEO Asha Sharma em um memorando interno hoje.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-10-23",
-    "link": "https://www.ign.com/articles/xboxs-first-ever-chief-operating-officer-leaves-role-just-three-months-after-it-was-created",
-    "imagem": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png",
-    "destaque": false,
-    "sigla": "XF",
-    "tema": "tema-d"
-  },
-  {
-    "id": "7f9dbf1b-38d6-4e04-b125-57c2c7120289",
-    "titulo": "O próximo livro de A Court of Thorns and Roses será lançado na próxima semana, aqui está onde comprar",
-    "resumo": "",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-10-23",
-    "link": "https://www.ign.com/articles/a-court-of-splintered-harmony-where-to-buy-release-date",
-    "imagem": "https://assets-prd.ignimgs.com/2026/10/23/a-court-of-splintered-harmony-1792790316161.png",
-    "destaque": false,
-    "sigla": "TN",
     "tema": "tema-e"
   },
   {
