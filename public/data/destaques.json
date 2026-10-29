@@ -18,20 +18,20 @@
   },
   {
     "tipo": "imagem",
-    "src": "assets/destaques/streamer-02.jpg",
+    "src": "assets/destaques/streamer-05.png",
     "nome": "Streamer em destaque 3",
-    "handle": "@seuusuario",
-    "plataforma": "YouTube",
-    "link": "#",
+    "handle": "@ragnarokbrgamer",
+    "plataforma": "tikt-tok",
+    "link": "https://www.tiktok.com/@ragnarokbrgamer",
     "duracao": 8
   },
   {
     "tipo": "imagem",
-    "src": "public/assets/destaques/streamer-05.png",
+    "src": "assets/destaques/streamer-04.png",
     "nome": "Streamer em destaque 4",
     "handle": "@brendiinha_mk",
-    "plataforma": "Kick",
-    "link": "#"
+    "plataforma": "tik-tok",
+    "link": "https://www.tiktok.com/@brendiinha_mk"
   },
   {
     "tipo": "imagem",
