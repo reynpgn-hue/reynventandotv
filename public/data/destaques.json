@@ -27,7 +27,7 @@
   },
   {
     "tipo": "imagem",
-    "src": "assets/destaques/streamer-03.jpg",
+    "src": "public/assets/destaques/streamer-05.png",
     "nome": "Streamer em destaque 4",
     "handle": "@brendiinha_mk",
     "plataforma": "Kick",
