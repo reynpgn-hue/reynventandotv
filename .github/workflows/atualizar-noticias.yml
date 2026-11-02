@@ -18,7 +18,13 @@ jobs:
           node-version: 20
 
       - name: Instalar dependências
-        run: npm install
+        run: |
+          if [ -f ingest/package.json ]; then
+            cd ingest && npm install
+          else
+            npm install
+            npm install rss-parser
+          fi
 
       - name: Rodar o robô de notícias
         run: node ingest/fetch-news.js
