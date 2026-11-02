@@ -1,0 +1,33 @@
+name: Atualizar noticias
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # a cada 3 horas (horário UTC)
+  workflow_dispatch:         # permite rodar manualmente
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Rodar o robô de notícias
+        run: node ingest/ingest.js   # troque pelo nome real do seu arquivo
+
+      - name: Enviar data/ para a HostGator
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          local-dir: ./data/
+          server-dir: ./data/
