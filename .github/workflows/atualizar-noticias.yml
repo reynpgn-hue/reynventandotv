@@ -21,7 +21,7 @@ jobs:
         run: npm install
 
       - name: Rodar o robô de notícias
-        run: node ingest/ingest.js   # troque pelo nome real do seu arquivo
+        run: node ingest/fetch-news.js
 
       - name: Enviar data/ para a HostGator
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
