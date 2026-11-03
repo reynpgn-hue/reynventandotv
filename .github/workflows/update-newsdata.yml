@@ -1,37 +1,39 @@
-
-name: Atualizar notícias de tecnologia, filmes e shows
+name: Atualizar noticias
 
 on:
   schedule:
-    # roda todo dia às 08:30 (horário de Brasília = 11:30 UTC)
-    - cron: "30 11 * * *"
-  workflow_dispatch: # permite rodar na mão pelo botão "Run workflow"
-
-permissions:
-  contents: write
+    - cron: "0 */3 * * *"   # a cada 3 horas (horário UTC)
+  workflow_dispatch:         # permite rodar manualmente
 
 jobs:
-  atualizar:
+  ingest:
     runs-on: ubuntu-latest
     steps:
-      - name: Baixar o repositório
+      - name: Baixar o código
         uses: actions/checkout@v4
 
-      - name: Configurar Node.js
+      - name: Instalar Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: 20
 
-      - name: Buscar notícias na NewsData.io
-        env:
-          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
-        run: node ingest/fetch-newsdata.js
-
-      - name: Salvar o arquivo atualizado (se mudou algo)
+      - name: Instalar dependências
         run: |
-          git config user.name "reynventando-bot"
-          git config user.email "bot@reynventando.tv"
-          git add public/data/noticias-extra.json
-          git diff --quiet --cached || git commit -m "chore: atualiza noticias de tecnologia, filmes e shows"
-          git pull --rebase origin main
-          git push
+          if [ -f ingest/package.json ]; then
+            cd ingest && npm install
+          else
+            npm install
+            npm install rss-parser
+          fi
+
+      - name: Rodar o robô de notícias
+        run: node ingest/fetch-news.js
+
+      - name: Enviar public/data/ para a HostGator
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ftp.reynventando.com.br
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          local-dir: ./public/data/
+          server-dir: ./data/
