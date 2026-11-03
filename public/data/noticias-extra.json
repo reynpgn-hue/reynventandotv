@@ -1,138 +1,183 @@
 {
-  "atualizadoEm": "2026-11-02T22:56:23.775Z",
+  "atualizadoEm": "2026-11-03T00:03:31.508Z",
   "categorias": {
     "tecnologia": [
       {
-        "id": "7934c861334a98cfef625e5936e9a9f2",
-        "titulo": "CMG realiza 1ª Competição Mundial de Robôs de Escalada do Monte Tai, em Tai’an",
-        "resumo": "O evento foi a primeira competição do mundo de robôs com inteligência incorporada realizada em um ambiente montanhoso real.",
-        "link": "https://www.brasil247.com/china/cmg-realiza-1a-competicao-mundial-de-robos-de-escalada-do-monte-tai-em-taian/",
-        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/11/1793607684059_956.jpg",
-        "fonte": "Brasil 247",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "d4d04923d6fb7b64bd41853f692447fa",
-        "titulo": "Militantes criam ‘Tinder do Exército do Lula’ no WhatsApp para paquera na esquerda",
-        "resumo": "Batizado de \"Tinder do Exército do Lula\", o projeto foi anunciado ao meio-dia de terça-feira (27) em canal de WhatsApp. A missão do primeiro dia era uma só: recrutar",
-        "link": "https://jornaldebrasilia.com.br/noticias/brasil/militantes-criam-tinder-do-exercito-do-lula-no-whatsapp-para-paquera-na-esquerda/",
-        "imagem": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/20150230/WhatsApp-Image-2026-10-20-at-15.02.21.jpeg",
-        "fonte": "Jornal De Brasília",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "f1f3a7397bfa94ebe3844bc8cc44dfb3",
-        "titulo": "Fãs levam cultura pop à mobilização política em 2026",
-        "resumo": "Relatório de universidade federal do Rio identifica atuação de mais de 600 grupos de fandoms e torcidas em campanhas digitais e atos políticos",
-        "link": "https://www.dgabc.com.br/Noticia/4366331/fas-levam-cultura-pop-a-mobilizacao-politica-em-2026",
-        "imagem": "https://www.dgabc.com.br/Imagens/Home/Index/2026111201536.jpg?altura=100",
-        "fonte": "Diário Do Grande Abc",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "858dfec646f86574881a57e476079935",
-        "titulo": "Maribel Mendoza, especialista em limpeza, deixa o forno impecável com água quente e uma cápsula de lava-louças",
-        "resumo": "A especialista Maribel Mendoza aquece 1 litro de água com uma cápsula de lava-louças a 180 °C por uma hora para soltar a gordura do forno; use luvas e ventile a cozinha. O post Maribel Mendoza, especialista em…",
-        "link": "https://catracalivre.com.br/noticias/maribel-mendoza-especialista-em-limpeza-deixa-o-forno-impecavel-com-agua-quente-e-uma-capsula-de-lava-loucas/",
-        "imagem": "https://catracalivre.com.br/wp-content/uploads/2026/11/corpo1-v2-4.jpg",
-        "fonte": "Catraca Livre",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "0d42b9e877d05650e248ad4001d0ed2a",
-        "titulo": "Rússia constrói radar em Kaliningrado com capacidade para espionar grande parte da Europa",
-        "resumo": "Moscou está construído novo radar OTH em seu exclave situado entre a Polônia e a Lituânia. Com ...",
-        "link": "https://www.terra.com.br/noticias/mundo/russia-constroi-radar-em-kaliningrado-com-capacidade-para-espionar-grande-parte-da-europa,8a43930b0cb5ecccae2e24dcc77ac779mctxlw67.html",
-        "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "fonte": "Terra",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "a9b64dab7c36cac99d506ebb93e35a26",
-        "titulo": "Toyota Corolla ou BYD King: qual sedan híbrido vale mais a pena?",
-        "resumo": "O Toyota Corolla construiu sua reputação no Brasil com uma combinação de conforto, confiabilidade e economia de combustível. Durante anos, essa fórmula ajudou o sedan japonês a se tornar uma das principais…",
-        "link": "https://canaltech.com.br/carros/toyota-corolla-ou-byd-king-qual-sedan-hibrido-vale-mais-a-pena/",
-        "imagem": "https://tl.ctcdn.com.br/SlwuxJQvA2i5f34s_EJXL9EoXCM=/320x180/smart/filters:format(webp):quality(85)/34601c3b-152e-4fd0-9427-d03633053dca.jpeg",
+        "id": "fc6b5cfd6223e6fd3df0687349524ff6",
+        "titulo": "JBL Endurance Zone é bom? Testamos o fone que não cai da orelha",
+        "resumo": "O JBL Endurance Zone é um fone de ouvido sem fio pensado principalmente para atividades físicas. Em vez de entrar no canal auditivo, ele usa um formato aberto, com um gancho que envolve a orelha e mantém o…",
+        "link": "https://canaltech.com.br/fone-de-ouvido/jbl-endurance-zone-e-bom-testamos-o-fone-que-nao-cai-da-orelha/",
+        "imagem": "https://tl.ctcdn.com.br/hLiM9-YXzZ15dgNdYUKhqr1Vd5c=/320x180/smart/filters:format(webp):quality(85)/941cc89d-0013-41bd-b53c-d10b4d1c2b96.png",
         "fonte": "Canaltech",
         "data": "2026-11-02"
       },
       {
-        "id": "01a39d3f61dfab0360275872763f1c90",
-        "titulo": "Projeto que permite integração de câmeras particulares ao sistema de monitoramento é aprovado em 1º turno em Pouso Alegre, MG",
-        "resumo": "Projeto permite integração de câmeras particulares ao sistema de monitoramento em Pouso Um projeto de lei que permite a integração de câmeras de segurança instaladas em imóveis privados ao sistema de monitoramento da…",
-        "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/02/projeto-que-permite-integracao-de-cameras-particulares-ao-sistema-de-monitoramento-e-aprovado-em-1o-turno-em-pouso-alegre-mg.ghtml",
-        "imagem": "https://s2-g1.glbimg.com/bdzou76rwh8afX2E-eo-tfkqhaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/8/mVhadwTnmdm1ADIFqsnQ/camarapouso.png",
-        "fonte": "G1 - O Portal",
+        "id": "1e48c9d9ea4bdb4c5f9a65cfb90ad939",
+        "titulo": "Inteligência Artificial prepara edifícios para o fim da escala 6x1",
+        "resumo": "Ferramenta pode analisar folhas de pagamento e simular novas jornadas nos condomínios",
+        "link": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/11/7317914-inteligencia-artificial-prepara-edificios-para-o-fim-da-escala-6x1.html",
+        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/10/30/gemini_generated_image_ibati9ibati9ibat-39652761.jpg",
+        "fonte": "Odia Ig Br",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "3f22963e3c3ac6ac3ef755639c4e72b0",
+        "titulo": "Toyota Corolla 2028: nova geração terá motor 1.5 turbo e sistema híbrido",
+        "resumo": "Nova geração do Corolla combinará um propulsor de quatro cilindros, sistema híbrido mais compacto e arquitetura preparada para diferentes tipos de eletrificação",
+        "link": "https://www.cnnbrasil.com.br/auto/toyota-corolla-2028-nova-geracao-tera-motor-1-5-turbo-e-sistema-hibrido/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Corolla-conceito.jpeg?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "40cf425926c6f412f3d12f5f63392b03",
+        "titulo": "Governo Lula acelera pautas prioritárias antes de renovação no Congresso",
+        "resumo": "Articulação governista tenta votar PEC da Segurança, indicação ao STF e marco da inteligência artificial",
+        "link": "https://www.brasil247.com/brasilia/governo-lula-acelera-pautas-prioritarias-antes-de-renovacao-no-congresso/",
+        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-19.12.03.jpeg",
+        "fonte": "Brasil 247",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "ea264bafb887c22f4468b2c471f231cd",
+        "titulo": "Fort Technology anuncia saída da Bolsa de Valores TSX",
+        "resumo": "",
+        "link": "https://br.investing.com/news/company-news/fort-technology-anuncia-saida-da-bolsa-de-valores-tsx-93CH-2111234",
+        "imagem": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+        "fonte": "Investing Brasil",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "f116c586e86d8f26bdbb83956339fd22",
+        "titulo": "Empresas passam a ser obrigadas a oferecer atendimento humano no SAC; entenda",
+        "resumo": "Empresas passam a ser obrigadas a oferecer atendimento humano no SAC; entenda. Foto: Divulgação Empresas que oferecem serviços regulados pelo governo passam a ser obrigadas a disponibilizar atendimento humano nos…",
+        "link": "https://jornaldaparaiba.com.br/cotidiano/empresas-passam-a-ser-obrigadas-a-oferecer-atendimento-humano-no-sac-entenda",
+        "imagem": "https://cdn.jornaldaparaiba.com.br/img/inline/170000/Quase-40-das-denuncias-do-Disque-100-ou-180-na-PB-0017461400202408111214.jpg?xid=1241512",
+        "fonte": "Jornal Da Paraíba",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "f4ffac56e53d00371906b1f417a27078",
+        "titulo": "Nagoshi Studio, de Gang of Dragon, está oficialmente morto",
+        "resumo": "Após meses de incertezas, o Nagoshi Studio foi liquidado oficialmente no dia 31 de outubro deste ano",
+        "link": "https://www.adrenaline.com.br/games/nagoshi-studio-de-gang-of-dragon-esta-oficialmente-morto/",
+        "imagem": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Nagoshi-Studio-Gang-Dragon-640x400.jpeg",
+        "fonte": "Adrenaline",
         "data": "2026-11-02"
       }
     ],
     "filmes": [
       {
-        "id": "e532667e90f9899cb340c84dbefdc176",
-        "titulo": "Sessão da Tarde: veja os filmes da semana na Globo (2 a 6 de novembro de 2026)",
-        "resumo": "Uma partida de basquete contra uma inteligência artificial para salvar um filho, a trajetória real de um campeão dos pesos pesados, uma mulher que esconde",
-        "link": "https://www.nsctotal.com.br/entretenimento/sessao-da-tarde-veja-os-filmes-da-semana-na-globo-2-a-6-de-novembro-de-2026",
-        "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/Filmes-da-Sessao-da-Tarde-%E2%80%93-Semana-de-2-a-6-de-novembro-de-2026.jpg",
-        "fonte": "Nsc Total",
+        "id": "d5a38c97e8188b00edac31229e601819",
+        "titulo": "Vila Velha abre inscrições para festival de dança gratuito",
+        "resumo": "Vila Fest Dance será realizado de 13 a 15, no Parque Urbano Duque de Caxias, com aulas, batalhas e apresentações abertas ao público",
+        "link": "https://www.folhavitoria.com.br/cultura/vila-velha-abre-inscricoes-para-festival-de-danca-gratuito/",
+        "imagem": "https://uploads.folhavitoria.com.br/imagens/2026/11/Danca-dancarina-break-dance.jpg",
+        "fonte": "Folha Vitória",
         "data": "2026-11-02"
       },
       {
-        "id": "8ecfff67b35a53e4e17811cbb72b8939",
-        "titulo": "Jogos Vorazes, Godzilla Minus Zero e mais: Os lançamentos de novembro de 2026 nos cinemas",
-        "resumo": "Descubras quais títulos chegam aos cinemas no penúltimo mês do ano! O post Jogos Vorazes, Godzilla Minus Zero e mais: Os lançamentos de novembro de 2026 nos cinemas apareceu primeiro em O Vício.",
-        "link": "https://ovicio.com.br/jogos-vorazes-godzilla-minus-zero-e-mais-os-lancamentos-de-novembro-de-2026-nos-cinemas/",
-        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261102-20261102--sd16lovuaea.jpg",
+        "id": "f3d4c129fec4d36bf0272c6b1f8c0c51",
+        "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje, 02 de novembro(02/11)",
+        "resumo": "Veja programação - com estreia, horários de hoje, segunda, 02 de novembro(02/11), dos cinemas de Fortaleza.",
+        "link": "https://www.opovo.com.br/vidaearte/cinema/2026/11/02/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-02-de-novembro-02-11.html",
+        "imagem": "https://www.opovo.com.br/reboot/includes/assets/img/logo_og.webp",
+        "fonte": "opovo",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "72fdbdb988bba257fabfb05ffc92e171",
+        "titulo": "Taylor Swift revela hábito curioso que mantém com melhor amiga desde a adolescência: \"Nossos maridos têm que aguentar\"",
+        "resumo": "Taylor Swift, de 36 anos, revelou uma curiosidade sobre sua amizade de longa data com Abigail Anderson. Durante uma sessão especial de perguntas e respostas sobre o filme Toy Story 5, realizada no domingo (01º.11),…",
+        "link": "https://vogue.globo.com/celebridades/noticia/2026/11/taylor-swift-revela-habito-curioso-que-mantem-com-melhor-amiga-desde-a-adolescencia.ghtml",
+        "imagem": "https://s2-vogue.glbimg.com/R2DIOG0Jzt_Qj8E82YQuuMCpjQg=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/E/4/EfPPuORh6LX4BdEaQrGg/contigo-4-.jpg",
+        "fonte": "Vogue",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "cfbd964d693ab78a7bd493b416678f5d",
+        "titulo": "Abby Ryder Fortson destaca como Scooby-Doo: A Origem se diferencia das demais adaptações da franquia",
+        "resumo": "Atriz do MCU será responsável por dar vida à próxima iteração de Velma Dinkley O post Abby Ryder Fortson destaca como Scooby-Doo: A Origem se diferencia das demais adaptações da franquia apareceu primeiro em O Vício.",
+        "link": "https://ovicio.com.br/abby-ryder-fortson-destaca-como-scooby-doo-a-origem-se-diferencia-das-demais-adaptacoes-da-franquia/",
+        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261102-scooby-doo-a-origem-com-abby-ryder-fortson.jpg",
         "fonte": "O Vício",
         "data": "2026-11-02"
       },
       {
-        "id": "070c68e42b676c7b5c2a2fd26c718b76",
-        "titulo": "Laurentino de 'Quem ama cuida', Alan Rocha lança livro infantil",
-        "resumo": "Além de intérprete de Laurentino em \"Quem ama cuida\" e músico, Alan Rocha estreia na função de escritor. No dia 8 de novembro, o artista lançará seu primeiro livro, “Bisavô Lanka”, na Livraria Nove Sete, em São…",
-        "link": "https://extra.globo.com/entretenimento/noticia/2026/11/laurentino-de-quem-ama-cuida-alan-rocha-lanca-livro-infantil.ghtml",
-        "imagem": "https://s2-extra.glbimg.com/_k8KWdszrfUYImmECnLcSa64_H4=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/q/X/mRtfA6RByXof342u48bg/arte-2026-10-30t222141.682.png",
-        "fonte": "Extra | Extra Online",
+        "id": "5df6e9286fc6cec32a19030857f4026d",
+        "titulo": "Oscar 2027: Lázaro Ramos vai a Los Angeles para exibição de “Feito Pipa”",
+        "resumo": "Filme é o representante do Brasil na premiação e participa esta semana do Brazilian Film Festival, nos EUA",
+        "link": "https://www.cnnbrasil.com.br/pop/cinema/oscar-2027-lazaro-ramos-vai-a-los-angeles-para-exibicao-de-feito-pipa/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Filme-cearense-Feito-Pipa-Gugus-World.jpg?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
         "data": "2026-11-02"
       },
       {
-        "id": "e8203021ba95c8adf20080818f7796b6",
-        "titulo": "Juca Jazz Festival completa 10 anos com programação gratuita em Americana",
-        "resumo": "Evento será realizado em 28 e 29 de novembro, na Praça José Rampazzo, com shows, dança, circo e outras atrações culturais",
-        "link": "https://tododia.com.br/cultura/juca-jazz-festival-completa-10-anos-com-programacao-gratuita-em-americana/",
-        "imagem": "https://tododia.com.br/wp-content/uploads/2026/10/SITE-FOTOS-2026-10-30T122644.871.png",
-        "fonte": "Todo Dia",
+        "id": "06adba797fe92e40513671cbd9ac6f09",
+        "titulo": "Danni Suzuki une arte e neurociência no primeiro livro como escritora",
+        "resumo": "Reconhecida por notória trajetória na televisão e no cinema, Danni Suzuki vem expandindo os horizontes para a vida acadêmica como docente e autora. Com pós-graduação em Neurociência e Comportamento pela PUCRS, a…",
+        "link": "https://atarde.com.br/entretenimento/danni-suzuki-une-arte-e-neurociencia-no-primeiro-livro-como-escritora-1407986",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/danni-suzuki-une-arte-e-neurociencia-no-primeiro-l0140798600202611020847.jpg?xid=7382431",
+        "fonte": "A Tarde",
         "data": "2026-11-02"
       },
       {
-        "id": "1e6d25a0832cd43a420820add3819f05",
-        "titulo": "A Matrix era uma só. A nossa são bilhões",
-        "resumo": "No filme, as máquinas criaram uma simulação perfeita para manter a humanidade presa. Uma realidade falsa, compartilhada, idêntica pra todo mundo. Morpheus oferecia a pílula vermelha e o sujeito acordava. Bonito,…",
-        "link": "https://www.folhabv.com.br/colunas/a-matrix-era-uma-so-a-nossa-sao-bilhoes/",
-        "imagem": "https://uploads.folhabv.com.br/2026/11/IMG_5955.jpeg",
-        "fonte": "Folha Bv",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "22ab968e92e329dbb9e449657900da14",
-        "titulo": "Um final de semana de muitos registros",
-        "resumo": "A segunda traz festa à fantasia, cinema com as amigas, aniversário, ensaios de Natal e novas conquistas profissionais. Também tem lançamento de livro e documentário, Semana de Inovação do TJRR e destaque para o show…",
-        "link": "https://www.folhabv.com.br/colunas/um-final-de-semana-de-muitos-registros/",
-        "imagem": "https://uploads.folhabv.com.br/2026/11/thiane-catao-e-bruno-padilha.jpg",
-        "fonte": "Folha Bv",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "f33069c43faded205d05e6df31fec4b5",
-        "titulo": "Crítica | ‘Ressonância’ – A variável tempo e as formas de enxergar o mundo [CineFest Votorantim]",
-        "resumo": "Às vezes, na nossa função de observadores do universo audiovisual, assistimos ao mesmo filme em vários festivais de cinema e, por algum acaso, não conseguimos escrever sobre ele. Entretanto, algumas dessas obras…",
-        "link": "https://cinepop.com.br/critica-ressonancia-a-variavel-tempo-e-as-formas-de-enxergar-o-mundo-cinefest-votorantim-774679/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/11/ressonancia2.jpg",
-        "fonte": "Cinepop",
+        "id": "85dd0bc2d2bd79fad47fa716d1ae9897",
+        "titulo": "Jujutsu Kaisen revela novos cartazes de personagens",
+        "resumo": "Destacando visuais na primeira parte do Arco do Jogo do Abate/Migração à Extinção O post Jujutsu Kaisen revela novos cartazes de personagens apareceu primeiro em O Vício.",
+        "link": "https://ovicio.com.br/jujutsu-kaisen-revela-novos-cartazes-de-personagens/",
+        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261102-jujutsu-kaisen-arco-do-jogo-do-abate-parte-1-cartazes-ovicio.webp",
+        "fonte": "O Vício",
         "data": "2026-11-02"
       }
     ],
     "series": [],
     "shows": [
+      {
+        "id": "40e9571335c96f90f35dce449cea5c51",
+        "titulo": "Jonatha Calixto: A batalha de um cantor gospel contra o câncer agressivo",
+        "resumo": "A música sempre foi a linguagem da alma de Jonatha Calixto. Cada nota, cada letra, ecoava suas ...",
+        "link": "https://www.terra.com.br/noticias/jonatha-calixto-a-batalha-de-um-cantor-gospel-contra-o-cancer-agressivo,d8c6dbe1464c7739d94925f03f6fd2143hty849o.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/02/1764815196-cover-jonatha-calixto.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "5a0dd38ea96cdcc18d86dfe1c84a053b",
+        "titulo": "Canarinhos de Petrópolis e Orquestra Sinfônica da UFRJ se unem em concerto de Bach e Mozart",
+        "resumo": "O Coral dos Canarinhos de Petrópolis, o Coral das Meninas dos Canarinhos de Petrópolis e a Orquestra Sinfônica da Universidade Federal do Rio de Janeiro (UFRJ) se unem em um concerto especial de música sacra, com…",
+        "link": "https://tribunadepetropolis.com.br/noticias/canarinhos-de-petropolis-e-orquestra-sinfonica-da-ufrj-se-unem-em-concerto-de-bach-e-mozart/",
+        "imagem": "https://arquivos.tribunadepetropolis.com.br/media/2026/10/28104436/Concerto-de-Finados-1-900x505.jpg",
+        "fonte": "Tribuna De Petr",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "353312489acedda1f58bdd7155f7b35b",
+        "titulo": "Com shows de Tomate e Tony Salles, Corrida do Bahêa Sunset leva mais de 12 mil tricolores à orla de Salvador",
+        "resumo": "Após a corrida, a festa continuou com os shows de Tony Salles e Tomate.",
+        "link": "https://www.bahianoticias.com.br/esportes/bahia/34245-com-shows-de-tomate-e-tony-salles-corrida-do-bahea-sunset-leva-mais-de-12-mil-tricolores-a-orla-de-salvador",
+        "imagem": "https://www.bahianoticias.com.br/fotos/esportes_bahias/34245/IMAGEM_BAHIA_original.jpg",
+        "fonte": "Bahia Notícias",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "10cc92246e55f11d98a0c6fa447fb416",
+        "titulo": "Xanddy e É o Tchan animam última noite de Folianópolis",
+        "resumo": "Depois de duas noites de muita farra, o Folianópolis chegou ao fim na noite deste domingo, 1º. A ...",
+        "link": "https://www.terra.com.br/diversao/xanddy-e-e-o-tchan-animam-ultima-noite-de-folianopolis,12c803d9828fb46497b7909bdfd5907egmc11ei1.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/02/whatsapp-image-2026-11-02-at-05-14-56-1iaveuxunqm3o.jpeg",
+        "fonte": "Terra",
+        "data": "2026-11-02"
+      },
+      {
+        "id": "2c5ea8b0e4beef0c9b6ba2bf258c5f8a",
+        "titulo": "Fotos! Famosos curtem terceiro dia de festival",
+        "resumo": "Paolla Oliveira, Jennifer Nascimento, Renato Goés, Giovanna Lancellotti e Gabriel David curtiram o Rock The Mountain, neste domingo (1º)",
+        "link": "https://odia.ig.com.br/diversao/celebridades/2026/11/7318443-fotos-famosos-curtem-terceiro-dia-de-festival.html",
+        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/11/02/paolla_oliveira__5-39662051.jpg",
+        "fonte": "Odia Ig Br",
+        "data": "2026-11-02"
+      },
       {
         "id": "f9c1fb293511d9c50b2ae421408f577d",
         "titulo": "'A Fazenda 18': Adriane Galisteu choca ao revelar nova dinâmica com o dono do lampião",
@@ -143,57 +188,12 @@
         "data": "2026-11-02"
       },
       {
-        "id": "03c0211cf98a2fa92ad4a4b539aab077",
-        "titulo": "César Menotti & Fabiano e Rick & Nogueira encerram Semana Internacional do Café 2026 com shows em BH",
-        "resumo": "Modão SIC 2026 será realizado no dia 13 de novembro, no Expominas, com apresentações sertanejas, DJs e diferentes opções de espaços para o público A Semana Internacional do Café (SIC) 2026 terá um encerramento…",
-        "link": "https://clicfolha.com.br/cesar-menotti-fabiano-e-rick-nogueira-encerram-semana-internacional-do-cafe-2026-com-shows-em-bh/",
-        "imagem": "https://clicfolha.com.br/wp-content/uploads/2026/11/image_870x580_6ae761cd5a38f-YoLkxC.jpg",
-        "fonte": "Folhadamanha",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "cfce2755a737fa9c66fe90dd67cac7e4",
-        "titulo": "TOCA Sessions com Rael: ingressos já estão à venda",
-        "resumo": "TOCA Sessions com Rael: ingressos já estão à venda para apresentações em SP",
-        "link": "https://www.uol.com.br/toca/noticias/2026/11/02/toca-sessions-com-rael-ingressos-ja-estao-a-venda.ghtm",
-        "imagem": "https://imguol.com/c/toca/2b/2026/10/19/toca-sessions---rael-1792427009767_v2_300x225.png",
-        "fonte": "Uol",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "3b4a67b30fc33dbf860782e52c985e9c",
-        "titulo": "Ferrugem grava projeto em homenagem a Alcione com participação da cantora, emoção e choro; veja bastidores",
-        "resumo": "Há quem diga que o samba é sobre ancestralidade. Para Ferrugem, é também sobre receber a consagração de quem pavimentou a estrada. Na noite da última quarta-feira, no Rio de Janeiro, o cantor gravou o projeto…",
-        "link": "https://extra.globo.com/entretenimento/musica/noticia/2026/11/ferrugem-grava-projeto-em-homenagem-a-alcione-com-participacao-da-cantora-emocao-e-choro-veja-bastidores.ghtml",
-        "imagem": "https://s2-extra.glbimg.com/x2aZuARsR66Vl_PdOeEpuwKJnAQ=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/r/0/xjTQMmSZWmfGY2Fn58PQ/img-3921.jpg.jpeg",
-        "fonte": "Extra | Extra Online",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "eb27398cb1b17e323e3b1ec14a18bde3",
-        "titulo": "Horóscopo do dia: confira o que os astros revelam para esta segunda-feira (02/11)",
-        "resumo": "Veja o horóscopo por Oscar Quiroga para desvendar esta segunda-feira, 02 de novembro, de acordo com cada signo",
-        "link": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/11/7531193-horoscopo-do-dia-confira-o-que-os-astros-revelam-para-esta-segunda-feira-02-11.html",
-        "imagem": "https://midias.correiobraziliense.com.br/_midias/jpg/2025/10/03/1-1-horoscopo-astrologia-segunda-6299240-32787979-59452902.jpg",
-        "fonte": "Correio Braziliense",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "a150538186868910a53017e70590f194",
-        "titulo": "Jay-Z no Super Bowl: relembre outras apresentações históricas do show",
-        "resumo": "Rapper americano deve levar seus maiores sucessos musicais para o campo no show de intervalo do torneio de futebol americano em fevereiro de 2027",
-        "link": "https://www.cnnbrasil.com.br/pop/musica/jay-z-no-super-bowl-relembre-outras-apresentacoes-historicas-do-show/",
-        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/lady-gaga-jay-z-michael-jackson.jpg?w=1200&h=1200&crop=1",
-        "fonte": "Cnn Brasil",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "ee8fa78d9d623a368a1aa84f44271a3c",
-        "titulo": "Esfriou! Anitta e Danilo Mesquita dão um tempo no relacionamento",
-        "resumo": "Anitta e Danilo Mesquita deram um tempo. Os dois nunca chegaram a assumir um status relacionamento, mas, enquanto suas agendas batiam, os dois não se desgrudavam. Como casal, posou de rostinho colado na coroação dela…",
-        "link": "https://extra.globo.com/famosos/noticia/2026/11/esfriou-anitta-e-danilo-mesquita-dao-um-tempo-no-relacionamento.ghtml",
-        "imagem": "https://s2-extra.glbimg.com/4Y7CJ98o6AWKiBQLqp_h0CU9Ehs=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/D/z/VJzzoXRB2LWKqCuMP7CA/montagem-1793568903735.jpg",
-        "fonte": "Extra | Extra Online",
+        "id": "22ab968e92e329dbb9e449657900da14",
+        "titulo": "Um final de semana de muitos registros",
+        "resumo": "A segunda traz festa à fantasia, cinema com as amigas, aniversário, ensaios de Natal e novas conquistas profissionais. Também tem lançamento de livro e documentário, Semana de Inovação do TJRR e destaque para o show…",
+        "link": "https://www.folhabv.com.br/colunas/um-final-de-semana-de-muitos-registros/",
+        "imagem": "https://uploads.folhabv.com.br/2026/11/thiane-catao-e-bruno-padilha.jpg",
+        "fonte": "Folha Bv",
         "data": "2026-11-02"
       }
     ]
