@@ -2,33 +2,32 @@
   {
     "tipo": "imagem",
     "src": "assets/destaques/streamer-01.jpg",
-    "nome": "Streamer em destaque 1",
-    "handle": "@seuusuario",
+    "nome": "Reynventando TV",
+    "handle": "@r3ynd4",
     "plataforma": "TikTok",
-    "link": "#"
+    "link": "https://www.tiktok.com/@r3ynd4"
   },
   {
-    "tipo": "video",
-    "src": "assets/destaques/clip-01.mp4",
-    "poster": "assets/destaques/clip-01.jpg",
-    "nome": "Streamer em destaque 2",
-    "handle": "@seuusuario",
-    "plataforma": "Twitch",
-    "link": "#"
+    "tipo": "imagem",
+    "src": "assets/destaques/streamer-02.jpg",
+    "nome": "Galera da comunidade",
+    "handle": "@r3ynd4",
+    "plataforma": "TikTok",
+    "link": "https://www.tiktok.com/@r3ynd4"
   },
   {
     "tipo": "imagem",
     "src": "assets/destaques/streamer-05.png",
-    "nome": "Streamer 3 RAGNAROK",
+    "nome": "Ragnarok",
     "handle": "@ragnarokbrgamer",
-    "plataforma": "tikt-tok",
+    "plataforma": "TikTok",
     "link": "https://www.tiktok.com/@ragnarokbrgamer",
     "duracao": 8
   },
   {
-      "tipo": "imagem",
+    "tipo": "imagem",
     "src": "assets/destaques/brend.png",
-    "nome": "Streamer 4 BRENDINHA",
+    "nome": "Brendinha",
     "handle": "@brendiinha_mk",
     "plataforma": "TikTok",
     "link": "https://www.tiktok.com/@brendiinha_mk"
@@ -36,8 +35,17 @@
   {
     "tipo": "imagem",
     "src": "assets/destaques/streamer-04.png",
-    "nome": "Streamer 5 MARY JASS",
+    "nome": "Mary Jess",
     "handle": "@mary_jess24",
+    "plataforma": "TikTok",
+    "link": "https://www.tiktok.com/@mary_jess24"
+  },
+  {
+    "exemplo": true,
+    "tipo": "imagem",
+    "src": "assets/destaques/streamer-06.jpg",
+    "nome": "Novo streamer",
+    "handle": "@usuario",
     "plataforma": "TikTok",
     "link": "#"
   }
