@@ -26,11 +26,11 @@
     "duracao": 8
   },
   {
-    "tipo": "imagem",
+      "tipo": "imagem",
     "src": "assets/destaques/brend.png",
     "nome": "Streamer 4 BRENDINHA",
     "handle": "@brendiinha_mk",
-    "plataforma": "tik-tok",
+    "plataforma": "TikTok",
     "link": "https://www.tiktok.com/@brendiinha_mk"
   },
   {
