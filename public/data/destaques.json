@@ -19,7 +19,7 @@
   {
     "tipo": "imagem",
     "src": "assets/destaques/streamer-05.png",
-    "nome": "Streamer em destaque 3",
+    "nome": "Streamer 3 RAGNAROK",
     "handle": "@ragnarokbrgamer",
     "plataforma": "tikt-tok",
     "link": "https://www.tiktok.com/@ragnarokbrgamer",
@@ -28,7 +28,7 @@
   {
     "tipo": "imagem",
     "src": "assets/destaques/brend.png",
-    "nome": "Streamer em destaque 4",
+    "nome": "Streamer 4 BRENDINHA",
     "handle": "@brendiinha_mk",
     "plataforma": "tik-tok",
     "link": "https://www.tiktok.com/@brendiinha_mk"
@@ -36,7 +36,7 @@
   {
     "tipo": "imagem",
     "src": "assets/destaques/streamer-04.png",
-    "nome": "Streamer em destaque 5",
+    "nome": "Streamer 5 MARY JASS",
     "handle": "@mary_jess24",
     "plataforma": "TikTok",
     "link": "#"
