@@ -1,0 +1,24 @@
+name: Publicar site na HostGator
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "public/**"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      - name: Enviar o site para a HostGator
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ftp.reynventando.com.br
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          local-dir: ./public/
+          server-dir: ./
