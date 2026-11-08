@@ -1,44 +1,53 @@
 [
   {
     "tipo": "imagem",
-    "src": "assets/destaques/streamer-01.jpg",
-    "nome": "Streamer em destaque 1",
-    "handle": "@seuusuario",
+    "src": "assets/destaques/reyn.jpg",
+    "nome": "REYNVENTANDOtv",
+    "handle": "@r3ynd4",
     "plataforma": "TikTok",
-    "link": "#"
+    "link": "https://www.tiktok.com/@r3ynd4"
   },
   {
-    "tipo": "video",
-    "src": "assets/destaques/clip-01.mp4",
-    "poster": "assets/destaques/clip-01.jpg",
-    "nome": "Streamer em destaque 2",
-    "handle": "@seuusuario",
-    "plataforma": "Twitch",
+      "tipo": "video",
+    "src": "assets/destaques/vid.mp4",
+    "poster": "assets/destaques/vid.mp4",
+    "nome": "aqui vc encontra seu oponente perfeito",
+    "handle": "menos o fraco do reyn",
+    "plataforma": "esse e muito ruim, mesmo",
     "link": "#"
   },
-  {
+   {
     "tipo": "imagem",
-    "src": "assets/destaques/streamer-02.jpg",
-    "nome": "Streamer em destaque 3",
-    "handle": "@seuusuario",
-    "plataforma": "YouTube",
-    "link": "#",
+    "src": "assets/destaques/pat.jpg",
+    "nome": "PATY DECKER",
+    "handle": "@patyydecker",
+    "plataforma": "TikTok",
+    "link": "https://www.tiktok.com/@patyydecker?lang=pt-BR",
     "duracao": 8
   },
   {
     "tipo": "imagem",
-    "src": "assets/destaques/streamer-03.jpg",
-    "nome": "Streamer em destaque 4",
-    "handle": "@seuusuario",
-    "plataforma": "Kick",
-    "link": "#"
+    "src": "assets/destaques/tga.jpg",
+    "nome": "so games antigos retro TGA",
+    "handle": "@voxtgamk3",
+    "plataforma": "TikTok",
+    "link": "https://www.tiktok.com/@voxtgamk3",
+    "duracao": 8
   },
   {
     "tipo": "imagem",
-    "src": "assets/destaques/streamer-04.jpg",
-    "nome": "Streamer em destaque 5",
-    "handle": "@seuusuario",
+    "src": "assets/destaques/brenda.jpg",
+    "nome": "BRENDINHA",
+    "handle": "@brendiinha_mk",
+    "plataforma": "tiktok",
+    "link": "https://www.tiktok.com/@brendiinha_mk"
+  },
+  {
+    "tipo": "imagem",
+    "src": "assets/destaques/ragnarok.jpg",
+    "nome": "RAGNAROK",
+    "handle": "@ragnarokbrgamer",
     "plataforma": "TikTok",
-    "link": "#"
+    "link": "https://www.tiktok.com/@ragnarokbrgamer"
   }
 ]
