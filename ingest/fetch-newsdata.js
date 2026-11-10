@@ -35,24 +35,38 @@ const MINIMO_BOM = 4;    // se vier menos que isso, tenta de novo sem o filtro d
 
 // Cada assunto: filtro de categoria da NewsData + palavras-chave (q).
 // "OR" = qualquer uma das palavras. Aspas = frase exata.
+const MAX_BUSCA = 100; // limite do texto de busca no plano grátis da NewsData
+
+// Cada assunto: filtro de categoria da NewsData + palavras buscadas SÓ NO TÍTULO.
+// "OR" = qualquer uma das palavras. Aspas = frase exata.
+// Cada busca precisa ter no máximo 100 caracteres.
 const ASSUNTOS = {
   tecnologia: {
     category: 'technology',
-    q: null,
+    q: 'tecnologia OR celular OR smartphone OR "inteligência artificial" OR notebook OR Apple OR Google',
   },
   filmes: {
     category: 'entertainment',
-    q: 'filme OR filmes OR cinema OR estreia OR bilheteria OR trailer',
+    q: 'filme OR filmes OR cinema OR bilheteria OR trailer OR "nos cinemas"',
   },
   series: {
     category: 'entertainment',
-    q: 'série OR séries OR streaming OR Netflix OR "Prime Video" OR "Disney+" OR "HBO Max" OR Globoplay OR novela OR reality',
+    q: 'série OR séries OR Netflix OR "Prime Video" OR "HBO Max" OR Globoplay OR "Disney+" OR novela',
   },
   shows: {
     category: 'entertainment',
-    q: 'show OR shows OR turnê OR festival OR "Rock in Rio" OR "novo álbum" OR concerto OR "novo single"',
+    q: 'turnê OR festival OR "novo álbum" OR "Rock in Rio" OR "show de" OR "show da" OR "show do" OR shows',
   },
 };
+
+// Se uma busca passar do limite, corta os últimos termos em vez de deixar a API recusar.
+function limitarBusca(nome, q) {
+  if (!q || q.length <= MAX_BUSCA) return q;
+  let corte = q.slice(0, MAX_BUSCA);
+  corte = corte.slice(0, corte.lastIndexOf(' OR '));
+  console.warn('  aviso: a busca de "' + nome + '" passou de ' + MAX_BUSCA + ' caracteres e foi encurtada');
+  return corte;
+}
 
 // ---------- utilidades ----------
 
@@ -135,10 +149,10 @@ async function buscarPaginas(params) {
 }
 
 async function buscarAssunto(nome, cfg) {
-  const base = { language: 'pt', country: 'br', q: cfg.q };
+  const base = { language: 'pt', country: 'br', qInTitle: limitarBusca(nome, cfg.q) };
 
   let brutas = await buscarPaginas({ ...base, category: cfg.category });
-  if (brutas.length < MINIMO_BOM && cfg.q) {
+  if (brutas.length < MINIMO_BOM && base.qInTitle) {
     console.log('  poucas notícias com a categoria, tentando só com as palavras-chave');
     const mais = await buscarPaginas(base);
     brutas = brutas.concat(mais);
@@ -167,6 +181,7 @@ async function main() {
   const categorias = {};
   const jaUsados = new Set(); // evita a mesma notícia em duas abas
   let deramCerto = 0;
+  const erros = {};
 
   for (const [nome, cfg] of Object.entries(ASSUNTOS)) {
     console.log('Buscando: ' + nome);
@@ -176,6 +191,7 @@ async function main() {
       deramCerto++;
     } catch (erro) {
       console.error('  falhou: ' + erro.message);
+      erros[nome] = erro.message;
     }
 
     // tira repetidas (mesmo link ou mesmo título), dentro e entre as abas
@@ -212,7 +228,11 @@ async function main() {
   fs.mkdirSync(path.dirname(SAIDA), { recursive: true });
   fs.writeFileSync(
     SAIDA,
-    JSON.stringify({ atualizadoEm: new Date().toISOString(), categorias }, null, 2),
+    JSON.stringify(
+      Object.assign({ atualizadoEm: new Date().toISOString(), categorias },
+        Object.keys(erros).length ? { erros } : {}),
+      null, 2
+    ),
     'utf-8'
   );
   console.log('Salvo em ' + SAIDA);
