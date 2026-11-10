@@ -1,0 +1,55 @@
+name: Enviar site para a HostGator
+
+# Manda a pasta public/ inteira pra HostGator por FTP:
+#  - toda vez que um robô de notícias termina (e salvou notícia nova)
+#  - toda vez que você sobe algo na pasta public/
+#  - quando você clica em "Run workflow"
+# Só envia o que mudou (guarda um arquivo de controle no servidor).
+#
+# Segredos usados (GitHub > Settings > Secrets and variables > Actions):
+#   FTP_USER    usuário da conta FTP
+#   FTP_PASS    senha da conta FTP
+#   FTP_SERVER  (opcional) endereço do FTP; sem ele usa ftp.reynventando.com.br
+#   FTP_DIR     (opcional) pasta do site no servidor; sem ele usa a pasta raiz da conta FTP
+
+on:
+  push:
+    branches: [main]
+    paths: ["public/**"]
+  workflow_dispatch:
+  workflow_run:
+    # precisa ser IGUAL ao "name:" de cada robô de notícias
+    workflows:
+      - "Atualizar notícias diariamente"
+      - "Atualizar notícias de tecnologia, filmes e shows"
+    types: [completed]
+
+concurrency:
+  group: deploy-hostgator
+  cancel-in-progress: false
+
+jobs:
+  enviar:
+    # se um robô falhou, não manda nada
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Enviar a pasta public para a HostGator
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER || 'ftp.reynventando.com.br' }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          protocol: ftps
+          security: loose
+          port: 21
+          local-dir: ./public/
+          server-dir: ${{ secrets.FTP_DIR || './' }}
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
