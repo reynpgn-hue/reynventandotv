@@ -1,7 +1,61 @@
 {
-  "atualizadoEm": "2026-11-10T15:14:48.044Z",
+  "atualizadoEm": "2026-11-10T23:43:05.840Z",
   "categorias": {
     "tecnologia": [
+      {
+        "id": "12228444852e587cbeca35495db4a51a",
+        "titulo": "Qantas cortará 850 empregos após acordo de tecnologia com Accenture",
+        "resumo": "A Qantas Airways assinou um acordo com a Accenture nas áreas de tecnologia e inteligência artificial (IA) que resultará no corte de cerca de 850 postos de trabalho na maior companhia aérea da Austrália. A parceria…",
+        "link": "https://valor.globo.com/empresas/noticia/2026/11/10/qantas-cortara-850-empregos-apos-acordo-de-tecnologia-com-accenture.ghtml",
+        "imagem": "https://s2-valor.glbimg.com/L5U2eRORmusc_xt7qLLoFSfr1X0=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/N/o/I2JX6STaSMKmY1FmyIOg/qantas.png",
+        "fonte": "Valor Globo",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "3f34eb4a4048ddc1bef7610f7523ed4e",
+        "titulo": "A trajetória da Nvidia: de uma pequena empresa de chips a protagonista da inteligência artificial",
+        "resumo": "Fundada em 1993, a companhia transformou o mercado de processamento gráfico, conquistou espaço nos maiores centros de dados do mundo e se tornou uma das principais forças da revolução da inteligência artificial.…",
+        "link": "https://www.folhavitoria.com.br/tecnologia/a-trajetoria-da-nvidia-de-uma-pequena-empresa-de-chips-a-protagonista-da-inteligencia-artificial/",
+        "imagem": "https://uploads.folhavitoria.com.br/imagens/2026/11/FD10112026OK2.png",
+        "fonte": "Folha Vitória",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "66d24282237b2f9cc8c80ea2ee6dd949",
+        "titulo": "Apple tem 100 mil termos restritos nas sugestões automáticas do iPhone, afirma pesquisador",
+        "resumo": "O teclado do iOS possui uma lista com cerca de 100 mil palavras e expressões restritas que não aparecem nas sugestões de preenchimento automático nem podem ser inseridas na digitação por gestos, de acordo com o…",
+        "link": "https://jornal24horas.com.br/?p=72190",
+        "imagem": "https://jornal24horas.com.br/wp-content/uploads/2026/11/ON5VHV4OZJA6BHQ3HAXNAYZTKQ-9nWLbs.jpg",
+        "fonte": "Jornal24horas",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "fa4a0ab70e005df2ffd8fcfa96e7c41d",
+        "titulo": "Belo Horizonte recebe evento sobre inteligência artificial e empreendedorismo 45+",
+        "resumo": "Profissionais e empreendedores com mais de 45 anos têm encontro marcado em Belo Horizonte na próxima segunda-feira (16). A capital mineira recebe a edição local do MaturiDay, evento da Maturi, plataforma dedicada à…",
+        "link": "https://diariodocomercio.com.br/variedades/bh-evento-ia-empreendedorismo-45/",
+        "imagem": "https://diariodocomercio.com.br/wp-content/uploads/2026/11/AdobeStock_571426637-1200x628-1.jpg",
+        "fonte": "Diariodocomercio Br",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "8c8c6b0ddc368314b760bd1f102f9438",
+        "titulo": "Concessões rodoviárias ampliam investimentos em tecnologia e segurança nas estradas",
+        "resumo": "Esse, da SNTR- -MT: “revolução silenciosa” na infraestrutura rodoviária Divulgação Impulsionadas por novas diretrizes regulatórias e editais mais exigentes, as rodovias brasileiras passam por um processo de…",
+        "link": "https://valor.globo.com/publicacoes/especiais/revista-infraestrutura-e-logistica/noticia/2026/11/10/concessoes-rodoviarias-ampliam-investimentos-em-tecnologia-e-seguranca-nas-estradas.ghtml",
+        "imagem": "https://s2-valor.glbimg.com/VuWUnS7JkABDahQm-U9TkgDTxdk=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/q/F/KPLu7iSom4wgOiMcgPWw/87667dfe-dcfb-4b96-bad7-8a02cb905c29.jpg",
+        "fonte": "Valor Globo",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "ace4e2f78fbcc761b35a7628df4f7bd8",
+        "titulo": "Ele mesmo, o Orelhão, vai voltar às ruas do Brasil, mas sem telefone e com muita tecnologia",
+        "resumo": "Um equipamento que marcou gerações está prestes a ganhar uma função completamente diferente nas ruas brasileiras. O tradicional orelhão vai voltar, mas sem telefone: a nova versão oferecerá água gelada e micro-ondas…",
+        "link": "https://oantagonista.com.br/ladooa/entretenimento/ele-mesmo-o-orelhao-vai-voltar-as-ruas-do-brasil-mas-sem-telefone-e-com-muita-tecnologia/",
+        "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Orelhao-vai-voltar-as-ruas-do-Brasil-mas-sem-telefone-e-com-nova-funcao-1.jpg",
+        "fonte": "O Antagonista",
+        "data": "2026-11-10"
+      },
       {
         "id": "c4e9ac760250fcc924005cdd0c7f562c",
         "titulo": "Apple Music escolhe Olivia Den como a Artista do Ano em 2026",
@@ -10,193 +64,184 @@
         "imagem": "https://www.mundoconectado.com.br/wp-content/uploads/2026/11/apple-music-escolhe-olivia-den-como-a-artista-do-ano-em-2026-cover-640x400.jpg",
         "fonte": "Mundo Conectado",
         "data": "2026-11-10"
-      },
-      {
-        "id": "82d8a08957884e28aaa6ce0d71b74421",
-        "titulo": "Apple planeja grande mudança na Siri para 2027",
-        "resumo": "A Apple continua ampliando os recursos de inteligência artificial da Siri, mas já avalia uma ...",
-        "link": "https://www.terra.com.br/byte/apple-planeja-grande-mudanca-na-siri-para-2027,4f8d12186fbef9eba3cf4d1f1176ae794caq47ky.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/10/1520766817-applelogo4988859889.jpg",
-        "fonte": "Terra",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "5c803f51a597c4aa437c79192ce052e5",
-        "titulo": "Razr Flex: Motorola confirma sem querer novo celular dobrável para 2027",
-        "resumo": "Saiba como o Razr Flex, dobrável largo da Motorola, aparece em página de suporte com lançamento previsto para 2027 e detalhes do projeto!",
-        "link": "https://www.mundoconectado.com.br/smartphones/razr-flex-motorola-confirma-sem-querer-novo-celular-dobravel-para-2027/",
-        "imagem": "https://www.mundoconectado.com.br/wp-content/uploads/2026/11/razr-flex-motorola-confirma-sem-querer-novo-celular-dobravel-para-2027-cover-640x400.jpg",
-        "fonte": "Mundo Conectado",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "5d7a131502e9a4ed4cef6198f3c121d3",
-        "titulo": "Estudantes do IFMT de Lucas do Rio Verde criam óculos com inteligência artificial para pessoas com deficiência",
-        "resumo": "Quatro estudantes do Instituto Federal de Mato Grosso (IFMT) do curso técnico integrado em biotecnologia, participam do Projeto Oiva – See Beyond, com a orientação do professor de Engenharia da Computação, Vigner…",
-        "link": "https://www.sonoticias.com.br/geral/estudantes-do-ifmt-de-lucas-do-rio-verde-criam-oculos-com-inteligencia-artificial-para-auxiliar-pessoas-com-deficiencia-visual/",
-        "imagem": "https://www.sonoticias.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-29-at-16.26.14.jpeg",
-        "fonte": "So Noticias",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "c4aba6c0b85bcd878d5deb21e90cecca",
-        "titulo": "Caso extraconjugal levanta suspeita de espionagem na disputa pela inteligência artificial entre Estados Unidos e China; entenda",
-        "resumo": "CEO da maior empresa de chips do mundo admite caso extraconjugal com empresária suspeita de espionagem para a China A maior produtora de chips do mundo, a americana Nvidia, abriu uma investigação contra o próprio…",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/caso-extraconjugal-levanta-suspeita-de-espionagem-na-disputa-pela-inteligencia-artificial-entre-estados-unidos-e-china-entenda.ghtml",
-        "imagem": "https://s2-g1.glbimg.com/MexWhQ3oLrvLVWJkba444a6yVMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/B/NDT9MiQ0C6HAb9avvV8A/globo-canal-4-20261109-2000-frame-89524.jpeg",
-        "fonte": "G1 - O Portal",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "ff117f59bb3c9ea181663cdb39970695",
-        "titulo": "Effect Sport leva AWS ao REC’n’Play 2026 e amplia atuação no mercado de tecnologia",
-        "resumo": "Agência de marketing esportivo assina experiência da marca no evento e desenvolve campanha nacional que alcança mais de 200 universidades brasileiras",
-        "link": "https://veja.abril.com.br/tecnologia/effect-sport-leva-aws-ao-recnplay-2026-e-amplia-atuacao-no-mercado-de-tecnologia/",
-        "imagem": "https://veja.abril.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-19.31.33.jpeg",
-        "fonte": "Veja",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "6cea989e631e8f5ef6de3e2f5b517b11",
-        "titulo": "Do café aos aplicativos: exposição no Rio usa inteligência artificial para contar um século de transformações do Brasil",
-        "resumo": "Da economia baseada na exportação de café ao trabalho mediado por aplicativos, as transformações que marcaram o Brasil ao longo de quase um século são o ponto de partida de uma exposição que será inaugurada nesta…",
-        "link": "https://oglobo.globo.com/rio/noticia/2026/11/09/do-cafe-aos-aplicativos-exposicao-no-rio-usa-inteligencia-artificial-para-contar-um-seculo-de-transformacoes-do-brasil.ghtml",
-        "imagem": "https://s2-oglobo.glbimg.com/xjec2EW0hREOsFE6i5pay0Do8lc=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/8/Q/oCc2AtSoqWtwfUM6BBAA/montagem-1794264393165.jpg",
-        "fonte": "O Globo",
-        "data": "2026-11-09"
       }
     ],
     "filmes": [
       {
-        "id": "24d16b907da25ff7a4a44c438e44eebc",
-        "titulo": "Como se fosse a primeira vez: cinema holandês testa hipnose para \"apagar\" filmes da memória",
-        "resumo": "Rede de cinemas na Holanda coloca em prática plano para hipnotizar espectadores. O objetivo: tentar fazê-los esquecer temporariamente filmes já vistos e recriar a sensação de assistir a uma história pela primeira…",
-        "link": "https://www.opovo.com.br/vidaearte/2026/11/10/como-se-fosse-a-primeira-vez-cinema-holandes-testa-hipnose-para-quotapagar-quot-filmes-da-memoria.html",
-        "imagem": "https://www.opovo.com.br/reboot/includes/assets/img/logo_og.webp",
-        "fonte": "O Povo",
+        "id": "3ac60d944739e732748553a65185feea",
+        "titulo": "Disney fecha acordo com Adobe para usar IA em parques e no cinema",
+        "resumo": "Disney fecha acordo com Adobe para usar IA em parques e no cinema",
+        "link": "https://www.uol.com.br/tilt/noticias/redacao/2026/11/10/disney-fecha-acordo-para-usar-ia-em-producoes-e-parques.ghtm",
+        "imagem": "https://imguol.com/c/noticias/78/2026/11/10/mickey-e-minnie-em-shanghai-disneyland-park-na-china-1794310193496_v2_450x253.jpg",
+        "fonte": "Uol",
         "data": "2026-11-10"
       },
       {
-        "id": "74047dc441d950f754994a740847a35f",
-        "titulo": "Denzel Washington e Robert Pattinson estrelam ‘O Assalto’, novo filme da Netflix dirigido por Fernando Meirelles",
-        "resumo": "A Netflix revelou, nesta segunda-feira (9), as primeiras imagens de ‘O Assalto’, filme dirigido pelo brasileiro e indicado ao Oscar Fernando Meirelles. Com um elenco estelar comandado por Denzel Washington, Robert…",
-        "link": "https://cinepop.com.br/denzel-washington-e-robert-pattinson-estrelam-o-assalto-novo-filme-da-netflix-dirigido-por-fernando-meirelles-775527/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/11/primetime-3.jpg",
-        "fonte": "Cinepop",
+        "id": "66af06f755fb7fa3a68ea1dbbf748697",
+        "titulo": "DC Studios: James Gunn e Peter Safran tinham planos de produzir mais filmes como Cara-de-Barro",
+        "resumo": "Após saída da dupla como co-CEOs, um novo plano para a franquia deve ser apresentado O post DC Studios: James Gunn e Peter Safran tinham planos de produzir mais filmes como Cara-de-Barro apareceu primeiro em O Vício.",
+        "link": "https://ovicio.com.br/dc-studios-james-gunn-e-peter-safran-tinham-planos-de-produzir-mais-filmes-como-cara-de-barro/",
+        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261110-james-gunn-e-cara-de-barro.jpg",
+        "fonte": "O Vício",
         "data": "2026-11-10"
       },
       {
-        "id": "3ebdd1025c8b7ead8ef8cb24179e8150",
-        "titulo": "Diretor confirma planos para SEQUÊNCIA de ‘Buddy’, terror que virou FENÔMENO de bilheteria",
-        "resumo": "Em entrevista ao podcast That Was Pretty Scary, o diretor Casper Kelly (‘V/H/S Halloween’) comentou sobre o futuro da franquia de terror ‘Buddy‘. O cineasta confirmou que já tem planos para futuras sequências. “Não…",
-        "link": "https://cinepop.com.br/diretor-confirma-planos-para-sequencia-de-buddy-terror-que-virou-fenomeno-de-bilheteria-775513/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/07/buddy.webp",
-        "fonte": "Cinepop",
+        "id": "5bb43550558f4c29eaa7206069ad35b2",
+        "titulo": "Skydance fará novo reboot da DC nos cinemas",
+        "resumo": "O universo de super-heróis está voltando à estaca zero mais uma vez O post Skydance fará novo reboot da DC nos cinemas apareceu primeiro em O Vício.",
+        "link": "https://ovicio.com.br/skydance-fara-novo-reboot-da-dc-nos-cinemas/",
+        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261110-novo-reboot-da-dc.jpg",
+        "fonte": "O Vício",
         "data": "2026-11-10"
       },
       {
-        "id": "9d36a837697b329d26b361fc72ff089d",
-        "titulo": "‘As Patricinhas de Beverly Hills’: Ator do filme original confirma RETORNO na série",
-        "resumo": "Em entrevista ao podcast One Question, Breckin Meyer (‘Garfield: O Filme’) confirmou que reprisará seu papel como Travis Birkenstock na série baseada no clássico ‘As Patricinhas de Beverly Hills‘ (Clueless), que está…",
-        "link": "https://cinepop.com.br/as-patricinhas-de-beverly-hills-ator-do-filme-original-confirma-retorno-na-serie-775510/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/04/as-patricinhas-de-beverly-hills-1.jpg",
-        "fonte": "Cinepop",
+        "id": "155940598dae0af0810db3cb125d3536",
+        "titulo": "Cinema negro brasileiro busca parceria com a Nigéria para ampliar espaço no mercado audiovisual",
+        "resumo": "Cofundadora do NICHO54, Fernanda Lomba defende maior acesso ao financiamento e aos espaços de decisão do setor. MERCADO N54 reúne profissionais dos dois países em São Paulo.",
+        "link": "https://www.brasil247.com/blog/cinema-negro-brasileiro-busca-parceria-com-a-nigeria-para-ampliar-espaco-no-mercado-audiovisual/",
+        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/11/photo-desk-1794303721095.jpg",
+        "fonte": "Brasil 247",
         "data": "2026-11-10"
       },
       {
-        "id": "d4576c198e644fb6381b0b4f348167eb",
-        "titulo": "'CoComelon: O Filme' ganha novo trailer e revela aventura musical de JJ no jardim de infância",
-        "resumo": "O longa ''CoComelon: O Filme'' (CoComelon: The Movie) - adaptação da animação disponível no YouTube atualmente em mais de 20 idiomas e 80 países, acaba de ganhar um novo trailer. Criado com a contribuição de…",
-        "link": "https://www.ouniversodatv.com/2026/11/cocomelon-o-filme-ganha-novo-trailer-e.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gFrxzu9snx7K2Vli_ULTktOhwZObmOjGKAfDydjcgQBIFYrKLYeDuyaZTXZpT4EQBrbzDNE0DZXMLl9dBiEIgsJ_b78UnHPNEq9oy5jTiaepSuGDaEq9agny1WlAtS1gJSDjKterrGO34oAoer7qVqtlto4RbZYqKifskgvU_8xw5Kssrun7TKX9H-6x/s72-w640-h266-c/30A79_FP_1144525U_00087384.tif",
-        "fonte": "O Universo Da Tv",
+        "id": "57cd530bc9217bbb20f2e5a73b26922f",
+        "titulo": "Demissão em massa em fábrica coreana inspira filme representante do país ao Oscar 2027",
+        "resumo": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+        "link": "https://valor.globo.com/eu-e/noticia/2026/11/10/demissao-em-massa-em-fabrica-coreana-inspira-filme-representante-do-pais-ao-oscar-2027.ghtml",
+        "imagem": "https://s2-valor.glbimg.com/X_dp__hrlmxJKU1cTAFIjEMTshA=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/b/t/ZmofSVTgWgV7VdQe7aSQ/116086-ga-neung-han-sa-rang-possible-love-official-still-1-.jpg",
+        "fonte": "Valor Globo",
         "data": "2026-11-10"
       },
       {
-        "id": "cdbcb59a6fc3f5637306e276603b79e3",
-        "titulo": "Detalhes de Uma Vida | Veja Victor Medeiros como Roberto Carlos no filme",
-        "resumo": "Detalhes de Uma Vida | Veja Victor Medeiros como Roberto Carlos no filme",
-        "link": "https://www.omelete.com.br/filmes/detalhes-de-uma-vida-victor-medeiros-como-roberto-carlos-no-filme",
-        "imagem": "https://cdn.ome.lt/0fWtb0QqhoJTffYHMYfIJRxQn7c=/970x0/smart/filters:format(webp)/extras/conteudos/img_news.php.webp",
-        "fonte": "Omelete",
+        "id": "e7c0f3018d5ecf3bab8ba1e7f066b717",
+        "titulo": "Novo filme de suspense da Netflix é opção perfeita para terça (10/11)",
+        "resumo": "Chegou a terça-feira, 10, e, em meio à correria da semana, encontrar um filme envolvente para assistir pode ser uma boa maneira de desacelerar. Para quem gosta de suspense criminal, histórias de tribunal e…",
+        "link": "https://atarde.com.br/cineinsite/novo-filme-de-suspense-da-netflix-e-opcao-perfeita-para-terca-1011-1408885",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/novo-filme-de-suspense-da-netflix-e-opcao-perfeita0140888500202611091625.jpg?xid=7398260",
+        "fonte": "A Tarde",
         "data": "2026-11-10"
       },
       {
-        "id": "54ab7870c6a85bdbebc7bb8233630644",
-        "titulo": "Filme maringaense ‘Acorda’ é premiado no 28º Festival Kinoarte de Cinema",
-        "resumo": "O trabalho de TH Fernandes e da produtora Cosmos Filmes sempre dá frutos, seja aos olhos da crítica, seja do público. Vide agora no 28º Festival Kinoarte de Cinema, o mais tradicional do Paraná. O evento foi de 30 de…",
-        "link": "https://omaringa.com.br/noticias/cultura/filme-maringaense-acorda-e-premiado-no-28o-festival-kinoarte-de-cinema/",
-        "imagem": "https://omaringa.com.br/wp-content/uploads/2026/06/filme-ACORDA.jpg",
-        "fonte": "O Maringá",
+        "id": "158dc0355174e42b4c891d27f729645f",
+        "titulo": "Caso Suzane von Richthofen já inspirou filmes e série; relembre as produções",
+        "resumo": "O assassinato de Manfred e Marísia von Richthofen, em outubro de 2022, já foi retratado em diferentes produções audiovisuais ao longo dos últimos anos. O caso, que chocou o Brasil e continua despertando interesse do…",
+        "link": "https://extra.globo.com/entretenimento/tv/noticia/2026/11/caso-suzane-von-richthofen-ja-inspirou-filmes-e-serie-relembre-as-producoes.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/MP6TYaj2H3AYHhc23WnVUriHI4A=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/I/n/AAxuniQVaW7A76YvqURA/a81b267a-6160-4b31-bf59-2e4e28966fc7.png",
+        "fonte": "Extra | Extra Online",
         "data": "2026-11-10"
       }
     ],
     "series": [
       {
-        "id": "8031704a02c0bccccd3a2c317f5be892",
-        "titulo": "'O Fim da Rua', 'O Assassinato do Galo do Ouro' e outras novidades chegam à HBO Max nesta semana",
-        "resumo": "Grandes filmes chegam na HBO Max ao longo desta semana, como O FIM DA RUA, e séries documentais baseadas em histórias reais impactantes, como o HBO Original O ASSASSINATO DO GALO DO OURO. Também chegam novas séries,…",
-        "link": "https://www.ouniversodatv.com/2026/11/o-fim-da-rua-o-assassinato-do-galo-do.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzcAIJzZRgSBYok66D0qsJYWpKQJLaVk6ILaGS8VMPC6PnM2e6tIbfKuICrmiFJRvkreZd085-tNxpVl0CBvLd1EUYUGqeal-WHc5g13pHUrxoPtzgWtJD4PUdUj9pf0i7PZpDpe42aIl7RhDXJiJUjVSSlAhhBh14SXmwtAbG4-PYFh23Hd7S2g1pROJT/s72-w640-h266-c/NBR-FP-0046_proxy_High_Res_JPEG.jpeg",
-        "fonte": "O Universo Da Tv",
+        "id": "89a00e1eda2dd7706d4ab74ad81b17ce",
+        "titulo": "Kleber Mendonça Filho chama nova novela de ‘rage bait’; Dira Paes já havia defendido visão do sertão",
+        "resumo": "Diretor de ‘Bacurau’ criticou ambientação de ‘Lá na Minha Terra’ após estreia; protagonista afirmou ao ‘Estadão’ que trama retrata realidade que ‘persiste’",
+        "link": "https://www.estadao.com.br/emais/tv/kleber-mendonca-filho-chama-nova-novela-de-rage-bait-dira-paes-ja-havia-defendido-visao-do-sertao-nprec/",
+        "imagem": "https://www.estadao.com.br/resizer/v2/U7FAFCHMNJDVJBD5F4ADF35KW4.png?quality=80&auth=0fad24a332f184bc9bb94554aeba17f1eedea9e26b934b81821ac572998fb6ab&width=1200&height=1200&focal=622,127",
+        "fonte": "Estadao Br",
         "data": "2026-11-10"
       },
       {
-        "id": "6475973dac49a05dba103c9dcab80394",
-        "titulo": "‘Harry Potter’: Daniel Radcliffe revela se vai assistir a nova série da HBO",
-        "resumo": "Em entrevista ao Associated Press, Daniel Radcliffe (‘Cidade Perdida’) comentou sobre a nova adaptação de ‘Harry Potter‘, que está sendo desenvolvida em formato de série pela HBO. Quando perguntado se planeja…",
-        "link": "https://cinepop.com.br/harry-potter-daniel-radcliffe-revela-se-vai-assistir-a-nova-serie-da-hbo-775518/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/09/harrypotterserie.jpg",
-        "fonte": "Cinepop",
+        "id": "35b56f1444cc0dd60657cfd5f0bf8b36",
+        "titulo": "Fiquei viciado em 'Bridgerton' e recomendo uma maravilhosa série de época britânica do Prime Video: apenas três episódios, baseada em um dos melhores romances de Jane Austen",
+        "resumo": "Se você gosta de ' Bridgerton ' e procura outra produção com romances, conflitos familiares e ...",
+        "link": "https://www.terra.com.br/diversao/gente/fiquei-viciado-em-bridgerton-e-recomendo-uma-maravilhosa-serie-de-epoca-britanica-do-prime-video-apenas-tres-episodios-baseada-em-um-dos-melhores-romances-de-jane-austen,1fe7116fb47bb23632db59c1c022369939qa0o8a.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/10/2049467469-388d66356d68cf14-1400x823-1.jpg",
+        "fonte": "Terra",
         "data": "2026-11-10"
       },
       {
-        "id": "d7b85abf39c80a9fe0a55bf233077c4b",
-        "titulo": "Kleber Mendonça Filho faz eco às críticas da novela 'Lá na Minha Terra'",
-        "resumo": "A nova novela das seis da Globo, \"Lá na Minha Terra\", foi recebida com críticas dos usuários de redes sociais. Vários apontaram que o folhetim se vale de estereótipos do Nordeste, retratado como uma região de pouco…",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/kleber-mendonca-filho-faz-eco-as-criticas-da-novela-la-na-minha-terra.shtml",
-        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/07/17940947656aefb6ad9a1ec_1794094765_3x2_md.jpg",
-        "fonte": "Folha",
+        "id": "55feb4d9f9ad22824c77a1a0c58e0730",
+        "titulo": "“Roque Santeiro”: saiba por que 1ª versão da novela foi descartada",
+        "resumo": "Trama de Dias Gomes e Aguinaldo Silva que está atualmente no ar era para ter sido exibida dez anos antes do período em que foi exibida pela primeira vez",
+        "link": "https://www.cnnbrasil.com.br/pop/tv/roque-santeiro-saiba-por-que-1a-versao-da-novela-foi-descartada/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/roque-santeiro-duas-versoes.jpg?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
         "data": "2026-11-10"
       },
       {
-        "id": "1c48356e10a7fb77bb53d48829fa6a7c",
-        "titulo": "HBO revela o visual das varinhas de Harry, Rony e Hermione na série 'Harry Potter e a Pedra Filosofal'",
-        "resumo": "A HBO divulgou imagens exclusivas do design das varinhas de Harry Potter, Rony Weasley e Hermione Granger para sua aguardada série original HARRY POTTER E A PEDRA FILOSOFAL, que estreia em 25 de dezembro na HBO Max.…",
-        "link": "https://www.ouniversodatv.com/2026/11/hbo-revela-o-visual-das-varinhas-de.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgxEhxg_P1LR2yxssdPHlRakz2KT02zFkSK_lubcWMUEMZ5YwGpFI4itZnXW-S1bk9puVckxg-zCU7hZgM8GQq07DuCVr1Vw76fG-EuYNEagRWzSrqRyUGt8nVQgc88Ff3nmXoMoeKpYDoysqD4uxTnlna-ABXgsxoUvh4CYp7M4ZpD6W99gsT9ldOrO-D/s72-w640-h640-c/HP-S1-Wand-Art-Harry-HO-KA-30x30-pt-BR--Pre-Premiere-Digital.jpg",
-        "fonte": "O Universo Da Tv",
+        "id": "0d75ca2abf4e9595d58d67f602113871",
+        "titulo": "De cachoeiras a paisagens de tirar o fôlego: conheça a Chapada Diamantina, cenário da nova novela das seis da TV Globo",
+        "resumo": "Serra do Sincorá, na Chapada Diamantina Reprodução/TV Globo Cachoeiras imponentes, grutas que guardam formações milenares, montanhas que parecem tocar o céu e paisagens de tirar o fôlego. Localizada no coração da…",
+        "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/10/conheca-a-chapada-diamantina-cenario-da-nova-novela-das-seis-da-tv-globo.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/moURTa_RQuQUqzclIGg8bLPYeVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/U/FI2M9JTnCR4RctFBKfTg/g0414545-frame-7317.jpeg",
+        "fonte": "G1 - O Portal",
         "data": "2026-11-10"
       },
       {
-        "id": "29c8987358f234bd571d89b5c5bdd93d",
-        "titulo": "TNT Sports transmite sorteio dos grupos do Paulistão 2027 nesta terça-feira (10), na HBO Max e na TNT",
-        "resumo": "Foto: ReproduçãoNesta terça-feira, dia 10 de novembro, a TNT Sports realiza a cobertura completa e multiplataforma do lançamento do Paulistão 2027. A partir das 17h, a plataforma de streaming HBO Max e o canal de TV…",
-        "link": "https://www.ouniversodatv.com/2026/11/tnt-sports-transmite-sorteio-dos-grupos.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKKIiKhlQa03OEn7t_E0PwoKNZuATq7mRCubcnEx2IoOSJ8uRdJ7vXcVacpxWbEEvLmB7vQ1tapSjFKX6b5rKdtxG0Sb6b2gRk8_j6vVjfUTU-4b_kApqOwasGjHKYYrg5u2bALtzifKifPkK1MAlSRcwO8jB36IJw5f_MjbcuuIJgkE-lVdvdaFo9CW3z/s72-w640-h426-c/TNT%20Sports.png",
-        "fonte": "O Universo Da Tv",
+        "id": "f5d94c1f2a685dd15f3dee8e483a953d",
+        "titulo": "Aos 42 anos, ex de Débora Falabella é aposta de galã na nova novela das seis",
+        "resumo": "Com mais de 20 anos de carreira, só agora, aos 42 de idade, que Gustavo Vaz faz sua estreia em novelas. Desde segunda-feira, ele pode ser visto como o vilão Aluísio Fortunato, casado com Delfina, personagem de Débora…",
+        "link": "https://extra.globo.com/famosos/noticia/2026/11/aos-42-anos-ex-de-debora-falabella-e-aposta-de-gala-na-nova-novela-das-seis.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/3ITUhnkt6MDnMh4bnFLWpbsLIBc=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/F/b/clO4YYRCGriKH1DXBBxg/montagem-1794253423622.jpg",
+        "fonte": "Extra | Extra Online",
         "data": "2026-11-10"
       },
       {
-        "id": "67aa95b7ba17b0a3f8848b9b32bc8b9f",
-        "titulo": "Netflix divulga primeiras imagens de 'O Assalto', suspense de Fernando Meirelles com Denzel Washington e Robert Pattinson",
-        "resumo": "Foto: Divulgação/NetflixA Netflix revelou, nesta segunda-feira (9), as primeiras imagens de O Assalto, filme dirigido pelo brasileiro e indicado ao Oscar Fernando Meirelles, que chega ao serviço de streaming em 15 de…",
-        "link": "https://www.ouniversodatv.com/2026/11/netflix-divulga-primeiras-imagens-de-o.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QpnDP1t3ZnFVlJOVpExNkUv86d2Fbx2V9QqHYgLEd7vjZME_J8qTKaUJEpZ0LZ_Xm6ww8_k_sMCxXWqQ9edWDcBZDa2RPrt75C3B8N8cFH_8dhoBd6wtrTOE06EFe-pLjpkQ6tiDc149meg6Cp4goyaORi-GT9uhF_DKMuTFwaNS3m2lGinLeHRr7XJa/s72-w640-h426-c/HCTF_20251211_15176_R.jpg",
-        "fonte": "O Universo Da Tv",
+        "id": "fb9fb220d3175efdcef9592635719414",
+        "titulo": "Doença falciforme: o que é a doença retratada em nova série da Netflix",
+        "resumo": "Supacell, Netflix Reprodução/Netflix A série britânica Supacell, da Netflix, parte da doença falciforme para contar uma história de super-heróis. Lançada em 2024 com grande sucesso, a segunda temporada está em fase…",
+        "link": "https://g1.globo.com/saude/noticia/2026/11/10/doenca-falciforme-o-que-e-a-doenca-retratada-em-nova-serie-da-netflix.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/xeSdvA0rqUwUzp8hcVnp3qnTf8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/s/sUi2UpSE2QkY0HjYOhWA/hx4h4xsqmbmtnmu5zd3bppru6e.jpeg",
+        "fonte": "G1 - O Portal",
         "data": "2026-11-10"
       },
       {
-        "id": "d40c08051ce6de74961522342cbac479",
-        "titulo": "Suzane von Richthofen revisita o caso que marcou sua vida em novo documentário da Netflix",
-        "resumo": "Foto: Divulgação/NetflixO documentário Suzane von Richthofen: O que o Tempo Não Apaga estreia nesta quarta-feira (11) na Netflix. A produção, que tem o trailer divulgado hoje, traz entrevistas inéditas de Suzane,…",
-        "link": "https://www.ouniversodatv.com/2026/11/suzane-von-richthofen-revisita-o-caso.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGdKnq1TES7UG0ozKDWrVOrpO9fSbWpsNwNn8RUY75bOBEyb85YuamOPan5wiU2shGaUrQiv5QMnXjQhtsjI-PqW207qhPtwZjdkL9P_qfjvCvv8vyEdgWXXgXgiSVfeFt3tmCQlshjP6_zMuHXUo1WuJHIdI1NeJtpZ8MaSGRNVq3olIPDVXWHBclCM7g/s72-w640-h320-c/Suzane_von_Richthofen__O_que_o_Tempo_Nao_Apaga_n_01_24_27_05.jpg",
-        "fonte": "O Universo Da Tv",
+        "id": "81057453a4cdb3d0465bc72190c7ce7c",
+        "titulo": "Depois de 'A nobreza do amor', João Pedro Zappa fará a série 'Emergência 53'",
+        "resumo": "Visto recentemente como Mr. Jones em “A nobreza do amor”, João Pedro Zappa estará na segunda temporada de “Emergência 53”, no Globoplay. Ele interpretará um homem com transtornos mentais. A nova leva de episódios…",
+        "link": "https://oglobo.globo.com/play/series/noticia/2026/11/10/depois-de-a-nobreza-do-amor-joao-pedro-zappa-fara-a-serie-emergencia-53.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/5ebXC8WjjInLYx_VsvDkFbHmeQw=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/y/O/B8Rd0kRBq8Tv2sDJOyJA/joao.jpg",
+        "fonte": "O Globo",
         "data": "2026-11-10"
       }
     ],
     "shows": [
+      {
+        "id": "a3a8b7fcaf3e5ea53d94d873c1ab02d8",
+        "titulo": "Governo Lula quer show de Roger Waters em posse de 4º mandato e estima recorde de público",
+        "resumo": "O governo federal estima recorde de público e espera reunir mais de 500 mil pessoas na cerimônia de posse do quarto e último mandato do presidente Luiz",
+        "link": "https://www.nsctotal.com.br/politica/governo-lula-quer-show-de-roger-waters-em-posse-de-4o-mandato-e-estima-recorde-de-publico",
+        "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/Lula-no-pronunciamento.jpg",
+        "fonte": "Nsc Total",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "500b55072a224438ba5b7838eb3cbee4",
+        "titulo": "Áudio de Erasmo Carlos expõe falta de pagamento de shows e acirra briga por herança",
+        "resumo": "Em gravação levada à Justiça e obtida com exclusividade pela coluna GENTE, cantor cobrou prestação de contas de suas apresentações dois anos antes de morrer",
+        "link": "https://veja.abril.com.br/cultura/audio-de-erasmo-carlos-expoe-falta-de-pagamento-de-shows-e-acirra-briga-por-heranca/",
+        "imagem": "https://veja.abril.com.br/wp-content/uploads/2022/11/ERASMO-CARLOS-1531552-by-Divulgac%CC%A7a%CC%83o.jpg",
+        "fonte": "Veja",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "cb7a7aca21e3c9fc9b32c7c4701a85bf",
+        "titulo": "Com Janja na coordenação, governo prevê público recorde na posse de Lula e quer show de Roger Waters",
+        "resumo": "Governo prevê público recorde em posse de Lula e quer show de Roger Waters",
+        "link": "https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-preve-publico-recorde-em-posse-de-lula-e-quer-show-de-roger-waters.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2023/01/10/167337133363bd9ec5142ca_1673371333_3x2_md.jpg",
+        "fonte": "Uol",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "5e6bedee119fd5407aabe240a0c421dc",
+        "titulo": "Festival de Violão de Teresina terá tributo aos Gipsy Kings e prêmio de R$ 14 mil; veja a programação",
+        "resumo": "Festival de Violão de Teresina (imagem ilustrativa) Freepik Um violão artesanal, avaliado em R$ 14 mil, será entregue ao vencedor do Concurso de Violão de Teresina, uma das atrações da sétima edição do Festival de…",
+        "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/10/festival-violao-teresina.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/yS3d9sA7VVFlEHosTJhP3j-K-vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/o/S5YjrcS3yLqopv4681OA/compositor-habilidoso-produzindo-e-gravando-uma-nova-faixa-na-guitarra.jpg",
+        "fonte": "G1 - O Portal",
+        "data": "2026-11-10"
+      },
+      {
+        "id": "828348c93504d33884d046b229bb7e2c",
+        "titulo": "De Revelação a Chico César: veja shows para curtir no meio da semana",
+        "resumo": "Quem diz que não dá para curtir no meio da semana certamente não está no Rio de Janeiro. A cidade está recheada de shows, que invadem até as terças e as quartas-feiras. Só hoje (10) é possível sambar no Jongo da…",
+        "link": "https://extra.globo.com/entretenimento/programacao/noticia/2026/11/de-revelacao-a-chico-cesar-veja-shows-para-curtir-no-meio-da-semana.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/-b74hwXu5GCfGu19RhwMEvBzR3o=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/p/t/ZntiKiSpqrrTB8KAAmsw/arte-19-.png",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-11-10"
+      },
       {
         "id": "09a78fa3ef54b0ecf5001b72119802e1",
         "titulo": "Criança é atingida por drone durante show de Maiara e Maraisa",
@@ -213,51 +258,6 @@
         "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/09/thiaguinho-e-ze-neto-and-cristiano-estao-confirmados-no-festival-de-verao-em-juiz-de-fora.ghtml",
         "imagem": "https://s2-g1.glbimg.com/lqAeD4m8ecfia7t2v2sxsmbjXB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/i/AVQeFDSwCD4AKH4d5BgQ/design-sem-nome-1-.jpg",
         "fonte": "G1 - O Portal",
-        "data": "2026-11-09"
-      },
-      {
-        "id": "71fb2244af80ef295a5dd021cc4d0ca7",
-        "titulo": "CPM 22 traz sucessos dos anos 2000 a Campo Grande em show de 30 anos",
-        "resumo": "Quem viveu os anos 2000 provavelmente já cantou a plenos pulmões músicas como “Dias Atrás”, “Um Minuto para o Fim do Mundo” e “Tarde de Outubro”.",
-        "link": "https://correiodoestado.com.br/cidades/2026/11/09/cpm-22-traz-sucessos-dos-anos-2000-a-campo-grande-em-show-de-30-anos.html",
-        "imagem": "https://cdn1.correiodoestado.com.br/Folder/2026/11/bc93a6ea-055f-4291-b151-faed2de513cc/conversions/img-69032-large.webp",
-        "fonte": "Correiodoestado Br",
-        "data": "2026-11-09"
-      },
-      {
-        "id": "2e96ee3f820bcb0bde8b17721adf5d01",
-        "titulo": "''Ainda Gosto de Você'' inicia filmagens durante show do Sorriso Maroto para 30 mil pessoas",
-        "resumo": "Foto: Aline ArrudaA Floresta, produtora da Sony Pictures Entertainment no Brasil, anuncia o início das filmagens e o elenco de \"Ainda Gosto de Você\", seu primeiro projeto para o cinema, uma comédia romântica embalada…",
-        "link": "https://www.ouniversodatv.com/2026/11/ainda-gosto-de-voce-inicia-filmagens.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcii564sdjyDc-Qklxig_3_bzrk2q9K4a6fSpjaWc7M5phS5JVXhFNGVpY3_OLj3UplCVNKm2Zhj4gNT54h9_eLSlliOgvEMFG3ReducboqyIx80NBaxXMuLy5h8nQBX2Td-zEtASigy8eomiqKsyOXq2TH6StEYQiiQbxX17pKwpjFiS4IHldo73bqT8z/s72-w426-h640-c/C%C3%B3pia%20de%20C%C3%B3pia%20de%20AGV-Show_006.JPG",
-        "fonte": "O Universo Da Tv",
-        "data": "2026-11-09"
-      },
-      {
-        "id": "4b523e4978e823e1dead95816f36569a",
-        "titulo": "Show gratuito de Seu Jorge é confirmado no Festival Elos 2026",
-        "resumo": "Informação foi confirmada com exclusividade ao O POVO. Juliana Linhares também está entre as atrações já anunciadas",
-        "link": "https://www.opovo.com.br/vidaearte/agenda/2026/11/09/show-gratuito-de-seu-jorge-e-confirmado-no-festival-elos-2026.html",
-        "imagem": "https://www.opovo.com.br/_midias/jpg/2026/05/11/seu_jorge-40613657.jpeg",
-        "fonte": "O Povo",
-        "data": "2026-11-09"
-      },
-      {
-        "id": "db600c8faa735f6b1a451a5add43fcab",
-        "titulo": "Pagode da Ofensa chega ao ES com shows em Vila Velha, Vitória e Serra; veja preços",
-        "resumo": "Comandado por Eros Prado, espetáculo mistura stand-up, música, rimas improvisadas e interação com o público",
-        "link": "https://www.folhavitoria.com.br/agenda-de-eventos/pagode-da-ofensa-chega-ao-es-com-shows-em-vila-velha-vitoria-e-serra-veja-precos/",
-        "imagem": "https://uploads.folhavitoria.com.br/imagens/2026/11/pagode-da-ofensa.jpg",
-        "fonte": "Folha Vitória",
-        "data": "2026-11-09"
-      },
-      {
-        "id": "0a0e191c5e907a89363725535a12519a",
-        "titulo": "Do rádio ao vinil: Balanço do Rock celebra 36 anos com festival em Belém",
-        "resumo": "Segunda edição do Festival Balanço do Rock acontece em 21 de novembro, no Píer das 11 Janelas, em Belém, e celebra os 36 anos do programa da Rádio Cultura FM. O post Do rádio ao vinil: Balanço do Rock celebra 36 anos…",
-        "link": "https://diariodopara.com.br/entretenimento/do-radio-ao-vinil-balanco-do-rock-celebra-36-anos-com-festival-em-belem/",
-        "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/social-whatsapp-image-2026-11-09-at-16-03-56-714272.jpg",
-        "fonte": "Diário Do Pará",
         "data": "2026-11-09"
       }
     ]
