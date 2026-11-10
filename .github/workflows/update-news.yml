@@ -1,13 +1,17 @@
 name: Atualizar notícias diariamente
 
+# Robô das notícias de JOGOS (IGN e GameSpot, traduzidas).
+# Grava o news.json no repositório. Quem manda o site pra HostGator é o
+# workflow "Enviar site para a HostGator" (deploy-hostgator.yml).
+
 on:
   schedule:
-    # roda todo dia às 08:00 (horário de Brasília = 11:00 UTC)
-    - cron: "0 11 * * *"
-  workflow_dispatch: # permite rodar manualmente pelo botão "Run workflow" no GitHub
+    # a cada 3 horas, no minuto 17 (horário UTC). Evita o minuto :00, que o GitHub atrasa.
+    - cron: "17 */3 * * *"
+  workflow_dispatch: # permite rodar na mão pelo botão "Run workflow"
 
 permissions:
-  contents: write # necessário pra o próprio workflow poder commitar o news.json atualizado
+  contents: write # necessário pro robô poder salvar o news.json
 
 jobs:
   atualizar:
@@ -29,10 +33,11 @@ jobs:
         working-directory: ./ingest
         run: node fetch-news.js
 
-      - name: Commitar o news.json atualizado (se mudou algo)
+      - name: Salvar o news.json (se mudou algo)
         run: |
           git config user.name "reynventando-bot"
           git config user.email "bot@reynventando.tv"
           git add public/data/news.json
           git diff --quiet --cached || git commit -m "chore: atualiza notícias automaticamente"
+          git pull --rebase origin main
           git push
