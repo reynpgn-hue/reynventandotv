@@ -1,200 +1,264 @@
 {
-  "atualizadoEm": "2026-11-03T00:03:31.508Z",
+  "atualizadoEm": "2026-11-10T01:24:23.758Z",
   "categorias": {
     "tecnologia": [
       {
-        "id": "fc6b5cfd6223e6fd3df0687349524ff6",
-        "titulo": "JBL Endurance Zone é bom? Testamos o fone que não cai da orelha",
-        "resumo": "O JBL Endurance Zone é um fone de ouvido sem fio pensado principalmente para atividades físicas. Em vez de entrar no canal auditivo, ele usa um formato aberto, com um gancho que envolve a orelha e mantém o…",
-        "link": "https://canaltech.com.br/fone-de-ouvido/jbl-endurance-zone-e-bom-testamos-o-fone-que-nao-cai-da-orelha/",
-        "imagem": "https://tl.ctcdn.com.br/hLiM9-YXzZ15dgNdYUKhqr1Vd5c=/320x180/smart/filters:format(webp):quality(85)/941cc89d-0013-41bd-b53c-d10b4d1c2b96.png",
+        "id": "743e39206c8f48f9420ecaad58d50d60",
+        "titulo": "Google lança novos chips de IA para aumentar segurança e poder computacional",
+        "resumo": "O Google Cloud anunciou dois novos TPUs para a infraestrutura de IA nesta segunda-feira (09). De olho nos impactos dos agentes de IA no uso computacional, a empresa traz soluções para aumentar a segurança de dados e…",
+        "link": "https://canaltech.com.br/hardware/google-lanca-novos-chips-de-ia-para-aumentar-seguranca-e-poder-computacional/",
+        "imagem": "https://tl.ctcdn.com.br/m4Ok7DbI3H8USbz6ditTTJIBZ44=/320x180/smart/filters:format(webp):quality(85)/d0b95335-c24f-4193-b615-68d3b8e7677a.png",
         "fonte": "Canaltech",
-        "data": "2026-11-02"
+        "data": "2026-11-09"
       },
       {
-        "id": "1e48c9d9ea4bdb4c5f9a65cfb90ad939",
-        "titulo": "Inteligência Artificial prepara edifícios para o fim da escala 6x1",
-        "resumo": "Ferramenta pode analisar folhas de pagamento e simular novas jornadas nos condomínios",
-        "link": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/11/7317914-inteligencia-artificial-prepara-edificios-para-o-fim-da-escala-6x1.html",
-        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/10/30/gemini_generated_image_ibati9ibati9ibat-39652761.jpg",
-        "fonte": "Odia Ig Br",
-        "data": "2026-11-02"
+        "id": "a46eab4456388ddcd605fb5c3e8fbdb2",
+        "titulo": "IA nos estudos: 5 formas de usar a tecnologia sem prejudicar o aprendizado",
+        "resumo": "A inteligência artificial já é presença constante na rotina de estudos dos brasileiros: segundo um levantamento da Opera com mais de 2.400 estudantes do país, 78% afirmam recorrer à tecnologia para estudar. O mesmo…",
+        "link": "https://www.techtudo.com.br/noticias/2026/11/ia-nos-estudos-5-formas-de-usar-a-tecnologia-sem-prejudicar-o-aprendizado-edsoftwares.ghtml",
+        "imagem": "https://s2-techtudo.glbimg.com/HyUQdjY-pq1EKXYJyJG19JlsnSo=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/M/8/AqCzyoTuWWJxAKRCHPcw/notas-de-educacao-feminina-estudando-ambiente-de-trabalho-natural-1418-88.avif",
+        "fonte": "Techtudo",
+        "data": "2026-11-09"
       },
       {
-        "id": "3f22963e3c3ac6ac3ef755639c4e72b0",
-        "titulo": "Toyota Corolla 2028: nova geração terá motor 1.5 turbo e sistema híbrido",
-        "resumo": "Nova geração do Corolla combinará um propulsor de quatro cilindros, sistema híbrido mais compacto e arquitetura preparada para diferentes tipos de eletrificação",
-        "link": "https://www.cnnbrasil.com.br/auto/toyota-corolla-2028-nova-geracao-tera-motor-1-5-turbo-e-sistema-hibrido/",
-        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Corolla-conceito.jpeg?w=1200&h=1200&crop=1",
-        "fonte": "Cnn Brasil",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "40cf425926c6f412f3d12f5f63392b03",
-        "titulo": "Governo Lula acelera pautas prioritárias antes de renovação no Congresso",
-        "resumo": "Articulação governista tenta votar PEC da Segurança, indicação ao STF e marco da inteligência artificial",
-        "link": "https://www.brasil247.com/brasilia/governo-lula-acelera-pautas-prioritarias-antes-de-renovacao-no-congresso/",
-        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-19.12.03.jpeg",
-        "fonte": "Brasil 247",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "ea264bafb887c22f4468b2c471f231cd",
-        "titulo": "Fort Technology anuncia saída da Bolsa de Valores TSX",
+        "id": "5496b484b85d44900642d86c854d968c",
+        "titulo": "Queda nas ações de tecnologia parece exagerada, diz HSBC",
         "resumo": "",
-        "link": "https://br.investing.com/news/company-news/fort-technology-anuncia-saida-da-bolsa-de-valores-tsx-93CH-2111234",
-        "imagem": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+        "link": "https://br.investing.com/news/stock-market-news/queda-nas-acoes-de-tecnologia-parece-exagerada-diz-hsbc-93CH-2120405",
+        "imagem": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
         "fonte": "Investing Brasil",
-        "data": "2026-11-02"
+        "data": "2026-11-09"
       },
       {
-        "id": "f116c586e86d8f26bdbb83956339fd22",
-        "titulo": "Empresas passam a ser obrigadas a oferecer atendimento humano no SAC; entenda",
-        "resumo": "Empresas passam a ser obrigadas a oferecer atendimento humano no SAC; entenda. Foto: Divulgação Empresas que oferecem serviços regulados pelo governo passam a ser obrigadas a disponibilizar atendimento humano nos…",
-        "link": "https://jornaldaparaiba.com.br/cotidiano/empresas-passam-a-ser-obrigadas-a-oferecer-atendimento-humano-no-sac-entenda",
-        "imagem": "https://cdn.jornaldaparaiba.com.br/img/inline/170000/Quase-40-das-denuncias-do-Disque-100-ou-180-na-PB-0017461400202408111214.jpg?xid=1241512",
-        "fonte": "Jornal Da Paraíba",
-        "data": "2026-11-02"
+        "id": "f8549f7c9903c4eceaa1af0bcfe7a0bc",
+        "titulo": "Celular pós-pago tem salto no Brasil embalado por streaming, redes sociais e PIB",
+        "resumo": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+        "link": "https://oglobo.globo.com/blogs/capital/post/2026/11/celular-pos-pago-tem-salto-no-brasil-embalado-por-streaming-redes-sociais-e-pib.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/vfqmhRZ5HhHWik4yZD_0b2DSXaA=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/F/J/uzv2zcRGufgcQBa0S9pQ/img-0322-grande.jpeg",
+        "fonte": "O Globo",
+        "data": "2026-11-09"
       },
       {
-        "id": "f4ffac56e53d00371906b1f417a27078",
-        "titulo": "Nagoshi Studio, de Gang of Dragon, está oficialmente morto",
-        "resumo": "Após meses de incertezas, o Nagoshi Studio foi liquidado oficialmente no dia 31 de outubro deste ano",
-        "link": "https://www.adrenaline.com.br/games/nagoshi-studio-de-gang-of-dragon-esta-oficialmente-morto/",
-        "imagem": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Nagoshi-Studio-Gang-Dragon-640x400.jpeg",
-        "fonte": "Adrenaline",
-        "data": "2026-11-02"
+        "id": "bb52eb78efb7173c57ad331b7901bb25",
+        "titulo": "AtlasIntel: 90% dos paranaenses querem mais inteligência artificial na segurança pública",
+        "resumo": "Pesquisa AtlasIntel indica que 90% dos paranaenses querem mais inteligência artificial na segurança pública. Leia mais na Gazeta do Povo.",
+        "link": "https://www.gazetadopovo.com.br/parana/atlasintel-paranaenses-querem-mais-inteligencia-artificial-seguranca-publica/",
+        "imagem": "https://media.gazetadopovo.com.br/2026/11/09070421/whatsapp_image_2026-10-23_at_13.48.47-960x540.jpg",
+        "fonte": "Gazeta Do Povo",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "d3bb85741587532ef552b1a15f617371",
+        "titulo": "Big techs procuram nas religiões respostas para a inteligência artificial",
+        "resumo": "",
+        "link": "https://www.estadao.com.br/brasil/macaco-eletrico/big-techs-procuram-nas-religioes-respostas-para-a-inteligencia-artificial/",
+        "imagem": "https://www.estadao.com.br/resizer/v2/DSD44RBSYJJIJCYBGJA276XZII.jpg?auth=0228ea87aa4c5858fab26720b9b3316e9b704cda4b11a5a98bcaab33bf0fef74&smart=true&width=700&height=400",
+        "fonte": "Estadao Br",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "d99966cb28fa650c5bacd8e72f262edc",
+        "titulo": "Nova carteira de identidade pode ser solicitada pelo celular e entregue em casa; veja como emitir",
+        "resumo": "A nova Carteira de Identidade Nacional já pode ser solicitada pelo celular, mas ainda exige atendimento presencial. O RG antigo segue válido até 2032. O post Nova carteira de identidade pode ser solicitada pelo…",
+        "link": "https://diariodopara.com.br/noticias/nova-carteira-de-identidade-pode-ser-solicitada-pelo-celular-e-entregue-em-casa-veja-como-emitir/",
+        "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/Identidade-digital-no-atendimento-publico.png",
+        "fonte": "Diário Do Pará",
+        "data": "2026-11-09"
       }
     ],
     "filmes": [
       {
-        "id": "d5a38c97e8188b00edac31229e601819",
-        "titulo": "Vila Velha abre inscrições para festival de dança gratuito",
-        "resumo": "Vila Fest Dance será realizado de 13 a 15, no Parque Urbano Duque de Caxias, com aulas, batalhas e apresentações abertas ao público",
-        "link": "https://www.folhavitoria.com.br/cultura/vila-velha-abre-inscricoes-para-festival-de-danca-gratuito/",
-        "imagem": "https://uploads.folhavitoria.com.br/imagens/2026/11/Danca-dancarina-break-dance.jpg",
-        "fonte": "Folha Vitória",
-        "data": "2026-11-02"
+        "id": "22270dc40c133a3fb2ee77ce20943ac9",
+        "titulo": "Documentário sobre Suzane von Richthofen ganha trailer e data de ESTREIA na Netflix",
+        "resumo": "A Netflix divulgou o trailer oficial do documentário ‘Suzane von Richthofen: O que o Tempo Não Apaga’, que estreia nesta quarta-feira (11) em sua grade de programação. A produção traz entrevistas inéditas de Suzane…",
+        "link": "https://cinepop.com.br/documentario-sobre-suzane-von-richthofen-ganha-trailer-e-data-de-estreia-na-netflix-775428/",
+        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/11/Suzane_von_Richthofen__O_que_o_Tempo_Nao_Apaga_n_00_38_31_16.jpg",
+        "fonte": "Cinepop",
+        "data": "2026-11-09"
       },
       {
-        "id": "f3d4c129fec4d36bf0272c6b1f8c0c51",
-        "titulo": "Cinema em Fortaleza: Filmes em cartaz de hoje, 02 de novembro(02/11)",
-        "resumo": "Veja programação - com estreia, horários de hoje, segunda, 02 de novembro(02/11), dos cinemas de Fortaleza.",
-        "link": "https://www.opovo.com.br/vidaearte/cinema/2026/11/02/cinema-em-fortaleza-filmes-em-cartaz-de-hoje-02-de-novembro-02-11.html",
-        "imagem": "https://www.opovo.com.br/reboot/includes/assets/img/logo_og.webp",
-        "fonte": "opovo",
-        "data": "2026-11-02"
+        "id": "bd88695a4c1321c8ef80e52250359c54",
+        "titulo": "Kleber Mendonça Filho dá detalhes de novo filme, 'O correspondente estrangeiro', que pode ter Wagner Moura",
+        "resumo": "O diretor pernambucano Kleber Mendonça Filho foi homenageado ao lado da esposa, a produtora francesa Emilie Lesclaux, na abertura do 36º Cine Ceará — Festival Ibero-Americano de Cinema, neste sábado (7), em…",
+        "link": "https://oglobo.globo.com/cultura/filmes/noticia/2026/11/09/kleber-mendonca-filho-da-detalhes-de-novo-filme-o-correspondente-estrangeiro-que-pode-ter-wagner-moura.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/hFlb0N8mfVohxqt6ls1pER7aY4c=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/Q/Z/l8e15zT5CFlVffBsSLdQ/09-oas300624-fotovictorjuca-dsc-0014.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-09"
       },
       {
-        "id": "72fdbdb988bba257fabfb05ffc92e171",
-        "titulo": "Taylor Swift revela hábito curioso que mantém com melhor amiga desde a adolescência: \"Nossos maridos têm que aguentar\"",
-        "resumo": "Taylor Swift, de 36 anos, revelou uma curiosidade sobre sua amizade de longa data com Abigail Anderson. Durante uma sessão especial de perguntas e respostas sobre o filme Toy Story 5, realizada no domingo (01º.11),…",
-        "link": "https://vogue.globo.com/celebridades/noticia/2026/11/taylor-swift-revela-habito-curioso-que-mantem-com-melhor-amiga-desde-a-adolescencia.ghtml",
-        "imagem": "https://s2-vogue.glbimg.com/R2DIOG0Jzt_Qj8E82YQuuMCpjQg=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/E/4/EfPPuORh6LX4BdEaQrGg/contigo-4-.jpg",
-        "fonte": "Vogue",
-        "data": "2026-11-02"
+        "id": "d3ef892d390c4f50e31cb1f569c2d003",
+        "titulo": "Macapá recebe a 17ª edição do Festival de Cinema Francês do Brasil com sessões gratuitas",
+        "resumo": "Programação acontece no Cineteatro Territorial, de 9 a 18 de novembro, com cinco produções entre clássicos do cinema francês e filmes premiados internacionalmente",
+        "link": "https://www.diariodoamapa.com.br/cadernos/nota-10/macapa-recebe-a-17a-edicao-do-festival-de-cinema-frances-do-brasil-com-sessoes-gratuitas/",
+        "imagem": "https://www.diariodoamapa.com.br/wp-content/uploads/2026/11/cinema.jpeg",
+        "fonte": "Diário Do Amapá",
+        "data": "2026-11-09"
       },
       {
-        "id": "cfbd964d693ab78a7bd493b416678f5d",
-        "titulo": "Abby Ryder Fortson destaca como Scooby-Doo: A Origem se diferencia das demais adaptações da franquia",
-        "resumo": "Atriz do MCU será responsável por dar vida à próxima iteração de Velma Dinkley O post Abby Ryder Fortson destaca como Scooby-Doo: A Origem se diferencia das demais adaptações da franquia apareceu primeiro em O Vício.",
-        "link": "https://ovicio.com.br/abby-ryder-fortson-destaca-como-scooby-doo-a-origem-se-diferencia-das-demais-adaptacoes-da-franquia/",
-        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261102-scooby-doo-a-origem-com-abby-ryder-fortson.jpg",
+        "id": "212fa2adac5db0e1e5b405548fc55b23",
+        "titulo": "Depois de 'O Agente Secreto', Kleber Mendonça Filho anuncia filme ambientado nos anos 1930",
+        "resumo": "Depois de O Agente Secreto, que foi indicado em quatro categorias na última edição do Oscar, ...",
+        "link": "https://www.terra.com.br/diversao/entre-telas/depois-de-o-agente-secreto-kleber-mendonca-filho-anuncia-filme-ambientado-nos-anos-1930,c2cd4aabc8fb9482fe4349d6557852696zol687b.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/09/1038778394-neon-libera-curtas-de-kleber-mendonca-filho-gratuitamente2260603035.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "e3a3ed93d2c6d908eca63a28afcf8d45",
+        "titulo": "Com 100% da crítica, filme LGBTQIA+ surpreende na corrida pelo Oscar",
+        "resumo": "'Club Kid', da A24, ganha elogios da crítica e surpreende na corrida pelo Oscar",
+        "link": "https://tangerina.uol.com.br/filmes-series/com-100-da-critica-filme-lgbtqia-surpreende-na-corrida-pelo-oscar/",
+        "imagem": "https://feira.tangerina.news/wp-content/uploads/2026/11/Jordan-Firstman-club-kid.jpg",
+        "fonte": "Uol",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "f34f6cdb5a87c6c085a8d7f33721ae43",
+        "titulo": "Spy X Family tem 4ª temporada confirmada e novo filme para 2027",
+        "resumo": "Datas exatas de cada estreia não foram anunciadas A Toho confirmou ontem que Spy X Family ganhará não só uma 4ª temporada, mas também mais um filme para 2027. Enquanto datas exatas para cada lançamento não forem…",
+        "link": "https://br.ign.com/spy-x-family/157443/spy-x-family-tem-4a-temporada-confirmada-e-novo-filme-para-2027",
+        "imagem": "https://sm.ign.com/ign_br/screenshot/default/s1-1_gd2p.jpg",
+        "fonte": "Ign Brasile",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "d5fd85164dd63a22a870a2f386607218",
+        "titulo": "DC Studios: Após Homem do Amanhã, novo filme de James Gunn para o DCU pode ter sido revelado",
+        "resumo": "Diretor revelou há um mês que já havia iniciado a escrita de um novo roteiro O post DC Studios: Após Homem do Amanhã, novo filme de James Gunn para o DCU pode ter sido revelado apareceu primeiro em O Vício.",
+        "link": "https://ovicio.com.br/dc-studios-apos-homem-do-amanha-novo-filme-de-james-gunn-para-o-dcu-pode-ter-sido-revelado/",
+        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261109-james-gunn-e-seu-novo-filme-para-a-dc-studios.jpg",
         "fonte": "O Vício",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "5df6e9286fc6cec32a19030857f4026d",
-        "titulo": "Oscar 2027: Lázaro Ramos vai a Los Angeles para exibição de “Feito Pipa”",
-        "resumo": "Filme é o representante do Brasil na premiação e participa esta semana do Brazilian Film Festival, nos EUA",
-        "link": "https://www.cnnbrasil.com.br/pop/cinema/oscar-2027-lazaro-ramos-vai-a-los-angeles-para-exibicao-de-feito-pipa/",
-        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Filme-cearense-Feito-Pipa-Gugus-World.jpg?w=1200&h=1200&crop=1",
-        "fonte": "Cnn Brasil",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "06adba797fe92e40513671cbd9ac6f09",
-        "titulo": "Danni Suzuki une arte e neurociência no primeiro livro como escritora",
-        "resumo": "Reconhecida por notória trajetória na televisão e no cinema, Danni Suzuki vem expandindo os horizontes para a vida acadêmica como docente e autora. Com pós-graduação em Neurociência e Comportamento pela PUCRS, a…",
-        "link": "https://atarde.com.br/entretenimento/danni-suzuki-une-arte-e-neurociencia-no-primeiro-livro-como-escritora-1407986",
-        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/danni-suzuki-une-arte-e-neurociencia-no-primeiro-l0140798600202611020847.jpg?xid=7382431",
-        "fonte": "A Tarde",
-        "data": "2026-11-02"
-      },
-      {
-        "id": "85dd0bc2d2bd79fad47fa716d1ae9897",
-        "titulo": "Jujutsu Kaisen revela novos cartazes de personagens",
-        "resumo": "Destacando visuais na primeira parte do Arco do Jogo do Abate/Migração à Extinção O post Jujutsu Kaisen revela novos cartazes de personagens apareceu primeiro em O Vício.",
-        "link": "https://ovicio.com.br/jujutsu-kaisen-revela-novos-cartazes-de-personagens/",
-        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261102-jujutsu-kaisen-arco-do-jogo-do-abate-parte-1-cartazes-ovicio.webp",
-        "fonte": "O Vício",
-        "data": "2026-11-02"
+        "data": "2026-11-09"
       }
     ],
-    "series": [],
+    "series": [
+      {
+        "id": "c25484b0d118bf2acfa99c13a4c58a93",
+        "titulo": "Resumo de Por Você: confira os capítulos da novela de 9 a 14/11",
+        "resumo": "Por Você é a atual novela das 7 da noite da Globo . A produção vai ao ar após o telejornal local ...",
+        "link": "https://www.terra.com.br/diversao/tv/novelas/resumo-de-por-voce-confira-os-capitulos-da-novela-de-9-a-1411,9d704d95319292761b5dc218e673e3adip0wmqfz.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/09/1239390491-25cd58a1por-voce.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "17700d252aa33b84037549a2f96b8e33",
+        "titulo": "Crepúsculo | Site diz que Netflix já definiu atores de Edward e Bella no reboot, veja nomes",
+        "resumo": "Crepúsculo | Site diz que Netflix já definiu atores de Edward e Bella no reboot, veja nomes",
+        "link": "https://www.omelete.com.br/series-tv/crepusculo-reboot-animacao-netflix-novos-edward-bella-diz-site",
+        "imagem": "https://cdn.ome.lt/BMw62VTb419P-NzeVCKLYy8cLKA=/970x0/smart/filters:format(webp)/extras/conteudos/images_84.webp",
+        "fonte": "Omelete",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "fc98debb511cd3a15fff769a5e25034f",
+        "titulo": "Nicolas Cage ficou ALIVIADO com o cancelamento da série ‘Spider-Noir’; Entenda!",
+        "resumo": "Apesar da ótima recepção do público e da crítica, a elogiada série ‘Spider-Noir’, estrelada por Nicolas Cage, foi oficialmente cancelada pelo Prime Video depois de apenas uma temporada – mas parece que a inesperada…",
+        "link": "https://cinepop.com.br/nicolas-cage-ficou-aliviado-com-o-cancelamento-da-serie-spider-noir-entenda-775426/",
+        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/04/spider-noir-7.jpg",
+        "fonte": "Cinepop",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "16757fd1d764a3a7dadc7dbb237fdcb0",
+        "titulo": "Nova série de terror da Netflix transforma ritual escolar em pesadelo",
+        "resumo": "Análise: Nova série de terror da Netflix transforma ritual escolar em pesadelo",
+        "link": "https://tangerina.uol.com.br/filmes-series/nova-serie-de-terror-da-netflix-transforma-ritual-escolar-em-pesadelo/",
+        "imagem": "https://imguol.com/c/parceiros/40/2026/11/09/geena-meszaros-em-cena-de-o-corpo-1794222882114_v2_300x225.jpg",
+        "fonte": "Uol",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "75ea5f4a68b9c3c2a358cf54c5b79abd",
+        "titulo": "Stranger Things: Outros Mundos terá retorno dos personagens da série original? Irmãos Duffer respondem",
+        "resumo": "Stranger Things: Outros Mundos terá retorno dos personagens da série original? Irmãos Duffer respondem",
+        "link": "https://www.omelete.com.br/series-tv/stranger-things-outros-mundos-spin-off-irmaos-duffer-o-que-esperar",
+        "imagem": "https://cdn.ome.lt/DgM7jqmj4-PnpqNUdMi9_9fnIzo=/970x0/smart/filters:format(webp)/extras/conteudos/unnamed_7_24PttSN.jpg",
+        "fonte": "Omelete",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "943fa9dada7eff0020fe8d6b343f928f",
+        "titulo": "Nova série de TERROR teen da Netflix ganha imagens inéditas; Confira!",
+        "resumo": "A Netflix divulgou imagens inéditas da ambiciosa série de terror adolescente ‘O Corpo‘ (The Body). Na trama… Um grupo de amigas que constantemente vai contra as regras da escola onde estudam resolve fazer um ritual…",
+        "link": "https://cinepop.com.br/nova-serie-de-terror-teen-da-netflix-ganha-imagens-ineditas-confira-775424/",
+        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/10/o-corpo-the-body.webp",
+        "fonte": "Cinepop",
+        "data": "2026-11-09"
+      },
+      {
+        "id": "c7d31c5ba5bb16e4e9b1faa2f2d76579",
+        "titulo": "JENNIE lança música original para ‘Tipo Irmãs’, animação da Netflix inspirada em ‘Cinderela’",
+        "resumo": "JENNIE, popular cantora que integra o grupo de K-pop BLACKPINK, lançou recentemente uma canção inédita para a trilha sonora de ‘Tipo Irmãs’, reimaginação da Netflix para o clássico conto ‘Cinderela’. Intitulada…",
+        "link": "https://cinepop.com.br/jennie-lanca-musica-original-para-tipo-irmas-animacao-da-netflix-inspirada-em-cinderela-775421/",
+        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/06/steps.jpg",
+        "fonte": "Cinepop",
+        "data": "2026-11-09"
+      }
+    ],
     "shows": [
       {
-        "id": "40e9571335c96f90f35dce449cea5c51",
-        "titulo": "Jonatha Calixto: A batalha de um cantor gospel contra o câncer agressivo",
-        "resumo": "A música sempre foi a linguagem da alma de Jonatha Calixto. Cada nota, cada letra, ecoava suas ...",
-        "link": "https://www.terra.com.br/noticias/jonatha-calixto-a-batalha-de-um-cantor-gospel-contra-o-cancer-agressivo,d8c6dbe1464c7739d94925f03f6fd2143hty849o.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/02/1764815196-cover-jonatha-calixto.jpg",
-        "fonte": "Terra",
-        "data": "2026-11-02"
+        "id": "626e5425053e080e0107d242fd0e0aa4",
+        "titulo": "Bono, do U2, fala de shows no Brasil e música inspirada no Rio: 'Mal posso esperar'",
+        "resumo": "'Mal posso esperar', diz Bono, do U2, sobre próximos shows no Brasil",
+        "link": "https://www1.folha.uol.com.br/ilustrada/2026/11/bono-do-u2-fala-sobre-shows-no-brasil-e-musica-inspirada-no-rio-mal-posso-esperar.shtml",
+        "imagem": "https://imguol.com/c/home/c4/2026/11/09/show-da-banda-irlandesa-u2-no-estadio-do-morumbi-em-sao-paulo-em-2017-u2-faz-turne-comemorativa-dos-30-anos-do-album-the-joshua-tree-1794227919262_v2_450x337.jpg",
+        "fonte": "Uol",
+        "data": "2026-11-09"
       },
       {
-        "id": "5a0dd38ea96cdcc18d86dfe1c84a053b",
-        "titulo": "Canarinhos de Petrópolis e Orquestra Sinfônica da UFRJ se unem em concerto de Bach e Mozart",
-        "resumo": "O Coral dos Canarinhos de Petrópolis, o Coral das Meninas dos Canarinhos de Petrópolis e a Orquestra Sinfônica da Universidade Federal do Rio de Janeiro (UFRJ) se unem em um concerto especial de música sacra, com…",
-        "link": "https://tribunadepetropolis.com.br/noticias/canarinhos-de-petropolis-e-orquestra-sinfonica-da-ufrj-se-unem-em-concerto-de-bach-e-mozart/",
-        "imagem": "https://arquivos.tribunadepetropolis.com.br/media/2026/10/28104436/Concerto-de-Finados-1-900x505.jpg",
-        "fonte": "Tribuna De Petr",
-        "data": "2026-11-02"
+        "id": "bc2306853c5417f7e7f05d68f499bb03",
+        "titulo": "Iza anuncia data de lançamento de novo álbum e fãs brincam: ‘Finalmente’",
+        "resumo": "Neste domingo (8), a cantora Iza anunciou a data de lançamento de seu novo álbum, ZAZA. O sucessor de Afrodhit (2023), seu segundo disco de estúdio, de 2023, entrará em todas as plataformas digitais no próximo 20 de…",
+        "link": "https://www.alagoas24horas.com.br/1773488/iza-anuncia-data-de-lancamento-de-novo-album-e-fas-brincam-finalmente/",
+        "imagem": "https://www.alagoas24horas.com.br/wp-content/uploads/2026/11/Iz.avif",
+        "fonte": "Alagoas 24 Horas",
+        "data": "2026-11-09"
       },
       {
-        "id": "353312489acedda1f58bdd7155f7b35b",
-        "titulo": "Com shows de Tomate e Tony Salles, Corrida do Bahêa Sunset leva mais de 12 mil tricolores à orla de Salvador",
-        "resumo": "Após a corrida, a festa continuou com os shows de Tony Salles e Tomate.",
-        "link": "https://www.bahianoticias.com.br/esportes/bahia/34245-com-shows-de-tomate-e-tony-salles-corrida-do-bahea-sunset-leva-mais-de-12-mil-tricolores-a-orla-de-salvador",
-        "imagem": "https://www.bahianoticias.com.br/fotos/esportes_bahias/34245/IMAGEM_BAHIA_original.jpg",
+        "id": "b08f386b31661ed485d21ad729dff945",
+        "titulo": "Blog do Marrom: Festival Pelourinho Cultural reúne Motumbá e SOTEROPAGOTRAP",
+        "resumo": "A banda Motumbá comandada por Alexandre Guedes e o SOTEROPAGOTRAP projeto liderado pelo cantor, compositor e produtor musical GUEDEZ se apresentam no próximo sábado (14 de novembro) a partir das 19h, na Praça Quincas…",
+        "link": "https://www.bahianoticias.com.br/holofote/coluna/1103-blog-do-marrom-festival-pelourinho-cultural-reune-motumba-e-soteropagotrap",
+        "imagem": "https://www.bahianoticias.com.br/fotos/holofote_colunas/1103/IMAGEM_COLUNA_original.jpg",
         "fonte": "Bahia Notícias",
-        "data": "2026-11-02"
+        "data": "2026-11-09"
       },
       {
-        "id": "10cc92246e55f11d98a0c6fa447fb416",
-        "titulo": "Xanddy e É o Tchan animam última noite de Folianópolis",
-        "resumo": "Depois de duas noites de muita farra, o Folianópolis chegou ao fim na noite deste domingo, 1º. A ...",
-        "link": "https://www.terra.com.br/diversao/xanddy-e-e-o-tchan-animam-ultima-noite-de-folianopolis,12c803d9828fb46497b7909bdfd5907egmc11ei1.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/02/whatsapp-image-2026-11-02-at-05-14-56-1iaveuxunqm3o.jpeg",
-        "fonte": "Terra",
-        "data": "2026-11-02"
+        "id": "fe315d9cdde8cb218e24ffc955488939",
+        "titulo": "GTA VI terá festival de lançamento com Travis Scott e Cardi B em Miami",
+        "resumo": "Evento promovido pela Rockstar Games e PlayStation será realizado em 21 de novembro, com dois palcos e apresentações de artistas ligados ao universo musical de Vice City e Leonida",
+        "link": "https://www.em.com.br/tecnologia/2026/11/7535455-gta-vi-tera-festival-de-lancamento-com-travis-scott-e-cardi-b-em-miami.html",
+        "imagem": "https://midias.em.com.br/_midias/jpg/2026/11/09/7535455-4b98404189244cdc8ca17f79dcf144b0-68176101.jpg",
+        "fonte": "Jornal Estado De Minas",
+        "data": "2026-11-09"
       },
       {
-        "id": "2c5ea8b0e4beef0c9b6ba2bf258c5f8a",
-        "titulo": "Fotos! Famosos curtem terceiro dia de festival",
-        "resumo": "Paolla Oliveira, Jennifer Nascimento, Renato Goés, Giovanna Lancellotti e Gabriel David curtiram o Rock The Mountain, neste domingo (1º)",
-        "link": "https://odia.ig.com.br/diversao/celebridades/2026/11/7318443-fotos-famosos-curtem-terceiro-dia-de-festival.html",
-        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/11/02/paolla_oliveira__5-39662051.jpg",
-        "fonte": "Odia Ig Br",
-        "data": "2026-11-02"
+        "id": "65d4e828640c6bca58075d1950919cda",
+        "titulo": "Cleitinho defende proibição de verba estadual e emendas para shows em MG: 'Acabou'",
+        "resumo": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), anunciou pelas redes sociais que, a partir da posse, vai proibir a alocação de verba pública estadual na realização de festas e shows em todas as…",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/11/09/cleitinho-defende-proibicao-de-verba-estadual-e-emendas-para-shows-em-mg-acabou.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/IZp8GykarhC23x4802JPuoiTZl0=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/0/J/y9k1mASQAPnxfTfBMSKA/estadobancarcleitinho.png",
+        "fonte": "O Globo",
+        "data": "2026-11-09"
       },
       {
-        "id": "f9c1fb293511d9c50b2ae421408f577d",
-        "titulo": "'A Fazenda 18': Adriane Galisteu choca ao revelar nova dinâmica com o dono do lampião",
-        "resumo": "Neste domingo (1), A Fazenda 18 realizou a Prova de Fogo. Daniel, Mayk, Renata, Duda e Ariela ...",
-        "link": "https://www.terra.com.br/diversao/tv/a-fazenda/a-fazenda-18-adriane-galisteu-choca-ao-revelar-nova-dinamica-com-o-dono-do-lampiao,b8cec45d88d132f5ea46150be60ecd4660sgh4yl.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/02/1448241874-adriane-galisteu-em-a-fazenda-18.jpg",
-        "fonte": "Terra",
-        "data": "2026-11-02"
+        "id": "840b2d38aba85303b825ac87efd8f4c1",
+        "titulo": "Mariah Carey chega ao Brasil e atende fãs antes de shows de Natal; veja",
+        "resumo": "A cantora norte-americana tem duas apresentações marcadas no país: 17 de novembro, no Nubank Parque, em São Paulo, e 21, na Farmasi Arena, no Rio de Janeiro",
+        "link": "https://www.cnnbrasil.com.br/pop/celebridades/mariah-carey-chega-ao-brasil-e-atende-fas-antes-de-shows-de-natal-veja/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/mariah-carey.jpg?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
+        "data": "2026-11-09"
       },
       {
-        "id": "22ab968e92e329dbb9e449657900da14",
-        "titulo": "Um final de semana de muitos registros",
-        "resumo": "A segunda traz festa à fantasia, cinema com as amigas, aniversário, ensaios de Natal e novas conquistas profissionais. Também tem lançamento de livro e documentário, Semana de Inovação do TJRR e destaque para o show…",
-        "link": "https://www.folhabv.com.br/colunas/um-final-de-semana-de-muitos-registros/",
-        "imagem": "https://uploads.folhabv.com.br/2026/11/thiane-catao-e-bruno-padilha.jpg",
-        "fonte": "Folha Bv",
-        "data": "2026-11-02"
+        "id": "9bb04e3c3d692ba76ba357278fbfa567",
+        "titulo": "Bono, do U2, fala sobre shows no Brasil e música inspirada no Rio: 'Mal posso esperar'",
+        "resumo": "Bono, da banda U2, falou ao Fantástico, da TV Globo deste domingo (8), sobre suas expectativas, ao lado dos colegas do grupo, em relação aos próximos shows que farão em São Paulo, em março de 2027. O vocalista disse…",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/bono-do-u2-fala-sobre-shows-no-brasil-e-musica-inspirada-no-rio-mal-posso-esperar.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2019/09/18/15688105445d822630bd2c9_1568810544_3x2_md.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-09"
       }
     ]
   }
