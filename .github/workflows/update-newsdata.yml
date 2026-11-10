@@ -1,39 +1,39 @@
-name: Atualizar noticias
+name: Atualizar notícias de tecnologia, filmes e shows
+
+# Robô das notícias de TECNOLOGIA, FILMES, SÉRIES e SHOWS (API NewsData.io).
+# Precisa do segredo NEWSDATA_API_KEY (GitHub > Settings > Secrets and variables > Actions).
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # a cada 3 horas (horário UTC)
-  workflow_dispatch:         # permite rodar manualmente
+    # a cada 6 horas, no minuto 43 (horário UTC): uns 40 créditos por dia, de 200 que o plano grátis dá
+    - cron: "43 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  ingest:
+  atualizar:
     runs-on: ubuntu-latest
     steps:
-      - name: Baixar o código
+      - name: Baixar o repositório
         uses: actions/checkout@v4
 
-      - name: Instalar Node
+      - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: "20"
 
-      - name: Instalar dependências
+      - name: Buscar notícias na NewsData.io
+        env:
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+        run: node ingest/fetch-newsdata.js
+
+      - name: Salvar o noticias-extra.json (se mudou algo)
         run: |
-          if [ -f ingest/package.json ]; then
-            cd ingest && npm install
-          else
-            npm install
-            npm install rss-parser
-          fi
-
-      - name: Rodar o robô de notícias
-        run: node ingest/fetch-news.js
-
-      - name: Enviar public/data/ para a HostGator
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ftp.reynventando.com.br
-          username: ${{ secrets.FTP_USER }}
-          password: ${{ secrets.FTP_PASS }}
-          local-dir: ./public/data/
-          server-dir: ./data/
+          git config user.name "reynventando-bot"
+          git config user.email "bot@reynventando.tv"
+          git add public/data/noticias-extra.json
+          git diff --quiet --cached || git commit -m "chore: atualiza noticias de tecnologia, filmes e shows"
+          git pull --rebase origin main
+          git push
