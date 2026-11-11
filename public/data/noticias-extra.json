@@ -1,263 +1,263 @@
 {
-  "atualizadoEm": "2026-11-11T07:07:32.359Z",
+  "atualizadoEm": "2026-11-11T19:51:35.814Z",
   "categorias": {
     "tecnologia": [
       {
-        "id": "86cf10e79fc4fbc239eb6a9d154e7c43",
-        "titulo": "Google libera Gemini 4 Carbon, nova IA de ponta para usuários pagantes",
-        "resumo": "Novo modelo de inteligência artificial (IA) de ponta do Google, o Gemini 4 Carbon começou a ser disponibilizado para o público nesta terça-feira (10). Anunciada no final de outubro, a plataforma estava restrita, até…",
-        "link": "https://jornal24horas.com.br/?p=72240",
-        "imagem": "https://jornal24horas.com.br/wp-content/uploads/2026/11/NKL6P4UXABAL7MYSYBBDB4DF5I-mKMbeE.jpg",
-        "fonte": "Jornal24horas",
-        "data": "2026-11-10"
+        "id": "a0970e7bc9703f846dc159e00d1a28df",
+        "titulo": "Nintendo encerra login pelo Google ou conta Apple",
+        "resumo": "Nintendo encerra o login via Google e Apple em 26 de janeiro de 2027. Saiba como acessar sua conta após o fim da vinculação e o que muda!",
+        "link": "https://www.adrenaline.com.br/games/nintendo/nintendo-encerra-login-pelo-google-ou-conta-apple/",
+        "imagem": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/nintendo-encerra-login-pelo-google-ou-conta-apple-nintendo-encerra-login-pelo-google-ou-conta-apple-cover-640x400.jpg",
+        "fonte": "Adrenaline",
+        "data": "2026-11-11"
       },
       {
-        "id": "fe234b680873d1453c349e807ed2ba4a",
-        "titulo": "Microsoft pressiona Trump contra veto a equipamentos chineses para inteligência artificial",
-        "resumo": "Empresa alerta que restrições à importação de componentes ópticos da China podem atrasar a construção de data centers e comprometer a liderança dos EUA no setor",
-        "link": "https://www.brasil247.com/mundo/microsoft-pressiona-trump-contra-veto-a-equipamentos-chineses-para-inteligencia-artificial/",
-        "imagem": "https://www.brasil247.com/wp-content/uploads/2025/09/20250925140920_b78efe309772ea3c5e48c3f3e6af5e3719931eb00b73da2d9a5f4d44db7d5471.jpg",
+        "id": "be6d156f176caa1cf8f0227ec916c09c",
+        "titulo": "Space Week Nordeste discute ciência e tecnologia",
+        "resumo": "Apesar de parecer distante, o desenvolvimento aeroespacial possui impacto direto na vida cotidiana e conta com a entrada de empresas privadas para ser ampliado no Brasil e no RN. Com o objetivo de impulsionar…",
+        "link": "https://tribunadonorte.com.br/natal/space-week-nordeste-discute-ciencia-e-tecnologia/",
+        "imagem": "https://storage.tribunadonorte.com.br/2026/08/20260818_9NT1_FT_Magnus-Nascimento-e1787019623645.jpg",
+        "fonte": "Tribuna Do Norte",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "81ff10075d322d757bb62382ac33b334",
+        "titulo": "Etiópia traça plano para se tornar polo de Inteligência Artificial da África até 2030",
+        "resumo": "O país está focado no desenvolvimento de talentos locais",
+        "link": "https://www.brasil247.com/tv-brics/etiopia-traca-plano-para-se-tornar-polo-de-inteligencia-artificial-da-africa-ate-2030/",
+        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/11/0176a080-ac76-484c-b37a-0c981a80507f.png",
         "fonte": "Brasil 247",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "c78dbef085a9b9695874575cf4ca1087",
+        "titulo": "“Tecnologia permite ver alunos de forma individual”, diz Paulo Schmidt",
+        "resumo": "Secretário municipal destaca avanço dos índices escolares em evento e reforça papel da inovação no ensino",
+        "link": "https://www.cnnbrasil.com.br/educacao/tecnologia-permite-ver-alunos-de-forma-individual-diz-paulo-schmidt/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/CNN-Talk-Educacao-29.jpg?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "33e8e6d87bfe890c11ea86b7e05a8563",
+        "titulo": "LG apresenta TVs de até 115 polegadas com tecnologia Mini RGB evo e cores aprimoradas",
+        "resumo": "LG detalha tecnologias de brilho e cor das Smart TVs 2026, com Cores Dinâmicas Pro e Mini RGB evo para imagens fiéis em telas de até 100\"",
+        "link": "https://www.mundoconectado.com.br/audio-e-video/lg-apresenta-tvs-de-ate-115-polegadas-com-tecnologia-mini-rgb-evo-e-cores-aprimoradas/",
+        "imagem": "https://www.mundoconectado.com.br/wp-content/uploads/2026/11/lg-apresenta-tvs-de-ate-115-polegadas-com-tecnologia-mini-rgb-evo-e-cores-aprimoradas-cover-640x400.jpg",
+        "fonte": "Mundo Conectado",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "096d399cbb68975d175f72f8fc40013b",
+        "titulo": "Toshiba apresenta nova geração de TVs com MiniLED Pro, inteligência artificial e telas de até 100 polegadas",
+        "resumo": "Conheça as quatro novas linhas de TVs Toshiba no Brasil, com telas de 32 a 100 polegadas, inteligência artificial e até 144 Hz nativos!",
+        "link": "https://www.mundoconectado.com.br/smart-tvs/toshiba-apresenta-nova-geracao-de-tvs-com-miniled-pro-inteligencia-artificial-e-telas-de-ate-100-polegadas/",
+        "imagem": "https://www.mundoconectado.com.br/wp-content/uploads/2026/11/toshiba-apresenta-nova-geracao-de-tvs-com-miniled-pro-inteligencia-artificial-e-telas-de-ate-100-polegadas-cover-640x400.jpg",
+        "fonte": "Mundo Conectado",
         "data": "2026-11-10"
       },
       {
-        "id": "f51a98d4474d636670bfa4ad62714575",
-        "titulo": "Inscrições abertas para curso gratuito de inteligência artificial em Queimados",
-        "resumo": "Formação profissional com vagas ilimitadas será on-line e alunos receberão certificação internacional",
-        "link": "https://odia.ig.com.br/queimados/2026/11/7321051-inscricoes-abertas-para-curso-gratuito-de-inteligencia-artificial-em-queimados.html",
-        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/11/10/img_6882-39697290.jpg",
-        "fonte": "Odia Ig Br",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "e515e808192849e7dc1b8e94fe234b55",
-        "titulo": "Adobe amplia parceria com Google para integrar ferramentas e modelos de IA aos aplicativos",
-        "resumo": "A Adobe ampliou sua parceria com o Google, levando as ferramentas da empresa para mais produtos do Google e os modelos de inteligência artificial do Google para mais aplicativos da Adobe. Matéria exclusiva para…",
-        "link": "https://valor.globo.com/empresas/noticia/2026/11/10/adobe-amplia-parceria-com-google-para-integrar-ferramentas-e-modelos-de-ia-aos-aplicativos.ghtml",
-        "imagem": "https://s2-valor.glbimg.com/B6mx2j6B8DFuGiCEUAIihV8ht8w=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/A/t/bDL8qMTRA1ac4zTMI30w/448988768.jpg",
-        "fonte": "Valor Globo",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "8a76bc0e7353760a6f94c44f1e633681",
-        "titulo": "Da gestão no agro à inteligência artificial: Victor Menegon aposta na tecnologia para transformar a comunicação no campo",
-        "resumo": "Após 12 anos de carreira na Raízen, engenheiro agrônomo encontra na inteligência artificial um novo caminho para conectar conhecimento, inovação e extensão rural",
-        "link": "https://www.uai.com.br/networking-e-negocios/2026/11/10/da-gestao-no-agro-a-inteligencia-artificial-victor-menegon-aposta-na-tecnologia-para-transformar-a-comunicacao-no-campo/",
-        "imagem": "https://www.uai.com.br/wp-content/uploads/2026/11/72fa5a8d-a3a0-4328-94f9-1d3de171ce78.jpeg",
-        "fonte": "Portal Uai",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "e941270ad78e42ac6d38caf33c84fc16",
-        "titulo": "Há muito mais do que a tecnologia por trás da transformação digital",
-        "resumo": "Pessoas, cultura, modelo operacional e competências de IT Transformation são fatores decisivos para que os investimentos em tecnologia gerem valor real e resultados sustentáveis nas empresas",
-        "link": "https://www.correiobraziliense.com.br/revista-do-correio/2026/11/7536127-ha-muito-mais-do-que-a-tecnologia-por-tras-da-transformacao-digital.html",
-        "imagem": "https://midias.correiobraziliense.com.br/_midias/png/2026/11/10/transformacao-digital-nas-empresas-68187198.png",
-        "fonte": "Correio Braziliense",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "f3a6f0c3a2247c0ed06f11989a442fbc",
-        "titulo": "MEC cria regras para uso de inteligência artificial na educação brasileira",
-        "resumo": "Como fazer redação sobre Inteligência Artificial e mercado de trabalho para o ENEM. Reprodução / Freepik O uso da inteligência artificial (IA) em escolas e universidades brasileiras passa a contar com regras…",
-        "link": "https://jornaldaparaiba.com.br/educacao/mec-cria-regras-para-uso-de-inteligencia-artificial-na-educacao-brasileira",
-        "imagem": "https://cdn.jornaldaparaiba.com.br/img/inline/210000/Como-fazer-redacao-sobre-inteligencia-artificial-e0021319300202509220613.jpg?xid=1242645",
-        "fonte": "Jornal Da Paraíba",
+        "id": "091ed31d1f74b0a9b569d7dd9114c4b5",
+        "titulo": "Maratona de Curitiba terá tecnologia para monitorar clima e reforçar segurança dos corredores",
+        "resumo": "A Santander Maratona de Curitiba 2026, marcada para 15 de novembro, contará com um sistema de inteligência climática para reforçar... O post Maratona de Curitiba terá tecnologia para monitorar clima e reforçar…",
+        "link": "https://www.bemparana.com.br/noticias/parana/maratona-de-curitiba-tera-tecnologia-para-monitorar-clima-e-reforcar-seguranca-dos-corredores/",
+        "imagem": "https://www.bemparana.com.br/wp-content/uploads/2026/11/maratona-curitiba-1.png",
+        "fonte": "Bemparana Br",
         "data": "2026-11-10"
       }
     ],
     "filmes": [
       {
-        "id": "9e5b20dd0668cdf9f6e99057f7deee38",
-        "titulo": "'Rosebush Pruning', polêmico filme de Karim Aïnouz, ganha data de estreia no streaming",
-        "resumo": "Segundo filme internacional de Karim Aïnouz ( A Vida Invisível ), Rosebush Pruning já tem data ...",
-        "link": "https://www.terra.com.br/diversao/entre-telas/rosebush-pruning-polemico-filme-de-karim-ainouz-ganha-data-de-estreia-no-streaming,b342d37a348cafabaa1262b934741043irvlep9j.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/10/2018189427-rosebush-pruning-polemico-filme-de-karim-ainouz-ganha-data-de-estreia-no-streaming.jpg",
-        "fonte": "Terra",
-        "data": "2026-11-10"
+        "id": "2167689ad099f96a85397fa7f1b37454",
+        "titulo": "Aos 28 anos, filha de deputado segue carreira de atriz e faz sua estreia no cinema",
+        "resumo": "Quando Marcelo Freixo fez sua primeira campanha para deputado estadual, em 2006, ela tinha apenas 8 anos. Mas a pouco idade não impediu que Isadora Freixo acompanhasse o pai de perto e até distribuísse panfletos. Foi…",
+        "link": "https://extra.globo.com/famosos/noticia/2026/11/aos-28-anos-filha-de-deputado-segue-carreira-de-atriz-e-faz-sua-estreia-no-cinema.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/7jiTH7B3cz-YHQdHwcR38bI_ocM=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/C/J/0gTmysTTy0KN37BDpYfA/montagem-1794343485996.jpg",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-11-11"
       },
       {
-        "id": "f51907c9b1e7acd10ab34b8e433bbebe",
-        "titulo": "Equipe da SWAT e festa em barco: o novo trailer oficial de GTA 6",
-        "resumo": "Vídeo de 29 segundos antecipa cenas inéditas de Lucia e Jason e marca o início do pré-carregamento antes da estreia, em 19 de novembro",
-        "link": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/equipe-da-swat-e-festa-em-barco-o-novo-trailer-oficial-de-gta-6/",
-        "imagem": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/10154601/WhatsApp-Image-2026-11-10-at-15.28.19.jpeg",
-        "fonte": "Jornal De Brasília",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "046eff2fd0d301d820e5c03f7b0886bb",
-        "titulo": "Dark Horse foi censurado no Brasil? Distribuidor do filme responde",
-        "resumo": "Dark Horse foi censurado no Brasil? Distribuidor do filme responde",
-        "link": "https://www.omelete.com.br/filmes/dark-horse-foi-censurado-no-brasil-distribuidor-do-filme-responde",
-        "imagem": "https://cdn.ome.lt/9qGv18r5l7ezCfR2yNujYfQx-os=/970x0/smart/filters:format(webp)/extras/conteudos/imagem_2026-11-10_153423079.png",
-        "fonte": "Omelete",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "9caa14de5bbaadefa2712936b0b21f80",
-        "titulo": "Festival Fluxo Fixo de Cinema leva cinema independente ao MUNCAB",
-        "resumo": "A 3ª edição do Festival Fluxo Fixo de Cinema começa nesta quinta-feira, 12, e segue até sexta-feira, 13, no Museu Nacional da Cultura Afro-Brasileira (MUNCAB), em Salvador. Com entrada gratuita, a programação…",
-        "link": "https://atarde.com.br/cultura/festival-fluxo-fixo-de-cinema-leva-cinema-independente-ao-muncab-1409010",
-        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/festival-fluxo-fixo-de-cinema-leva-cinema-independ0140901000202611101534.jpg?xid=7400403",
+        "id": "70bd6b8d27823850516e11381b9a630b",
+        "titulo": "Filme de romance com 83% de aprovação alcança TOP 10 do Prime Video",
+        "resumo": "Nem todo filme precisa de uma longa duração para deixar uma marca. Para quem procura uma história capaz de despertar diferentes emoções sem comprometer muitas horas do dia, o Prime Video acaba de ganhar uma opção que…",
+        "link": "https://atarde.com.br/cineinsite/filme-de-romance-com-83-de-aprovacao-alcanca-top-10-do-prime-video-1409028",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/filme-de-romance-com-83-de-aprovacao-alcanca-top-10140902800202611101654.jpg?xid=7400683",
         "fonte": "A Tarde",
-        "data": "2026-11-10"
+        "data": "2026-11-11"
       },
       {
-        "id": "e97ac22c87db5daa248d59b32a1906c3",
-        "titulo": "Após oito anos longe de grandes produções de Hollywood, Johnny Depp quebra o silêncio sobre retorno ao cinema",
-        "resumo": "Johnny Depp, de 63 anos, está de volta aos holofotes de Hollywood após oito anos longe das grandes produções dos estúdios americanos. O ator, conhecido por interpretar personagens marcantes no cinema, comentou o…",
-        "link": "https://vogue.globo.com/celebridades/noticia/2026/11/apos-oito-anos-longe-de-grandes-producoes-de-hollywood-johnny-depp-quebra-o-silencio-sobre-retorno-ao-cinema.ghtml",
-        "imagem": "https://s2-vogue.glbimg.com/Bouh0REdPquUBIqZxjjxQS6pkUQ=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2023/Z/f/35BVXhT2KNeKyTTAipsw/johnny-depp.jpg",
+        "id": "8f5b9221b699b36e9ef0640d01ffaacb",
+        "titulo": "O que assistir no Festival MixBrasil 2026: filmes e séries em destaque",
+        "resumo": "Começa nesta quarta-feira (11.11) a 34ª edição do Festival MixBrasil, que toma conta de São Paulo até o dia 22 de novembro com uma maratona essencial dedicada à cultura LGBTQIA+. Sob o tema “Todos os Futuros…",
+        "link": "https://vogue.globo.com/cultura/noticia/2026/11/o-que-assistir-no-festival-mixbrasil-2026-filmes-e-series-em-destaque.ghtml",
+        "imagem": "https://s2-vogue.glbimg.com/BINB7hszS2kb7-Jlkw0hQZGV93o=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/Y/m/fz0NlQTb2ZRmTxr3ILKg/copia-de-aae-contexto-leticia-e-emira-02-tc02073113.jpg",
         "fonte": "Vogue",
-        "data": "2026-11-10"
+        "data": "2026-11-11"
       },
       {
-        "id": "21ea9550181dd1fc828c728d2b2fa461",
-        "titulo": "Filme brasileiro chega ao top 3 mundial da Netflix em apenas 7 dias",
-        "resumo": "'Minha Melhor Amiga' chega ao top 3 mundial da Netflix em apenas sete dias",
-        "link": "https://tangerina.uol.com.br/filmes-series/filme-brasileiro-chega-ao-top-3-mundial-da-netflix-em-apenas-7-dias/",
-        "imagem": "https://imguol.com/c/parceiros/9a/2026/11/10/monica-martelli-e-ingrid-guimaraes-em-minha-melhor-amiga-1794302382365_v2_450x337.jpg",
-        "fonte": "Uol",
-        "data": "2026-11-10"
+        "id": "f79f333bd1c4b37f113ff6d3f33c18b7",
+        "titulo": "Filme brasileiro entra no TOP 3 mundial da Netflix em apenas 7 dias",
+        "resumo": "O cinema brasileiro acaba de conquistar mais um resultado expressivo na Netflix. Apenas sete dias após chegar ao catálogo, em 2 de novembro, uma comédia nacional estrelada por Ingrid Guimarães e Mônica Martelli…",
+        "link": "https://atarde.com.br/cineinsite/filme-brasileiro-entra-no-top-3-mundial-da-netflix-em-apenas-7-dias-1409014",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/filme-brasileiro-entra-no-top-3-mundial-da-netflix0140901400202611101553.jpg?xid=7400426",
+        "fonte": "A Tarde",
+        "data": "2026-11-11"
       },
       {
-        "id": "e159162b854b9fe206fcc7f75d65fe4f",
-        "titulo": "Após perder a mãe em fuga do Congo, refugiado vê sua história virar filme",
-        "resumo": "Aos 23 anos, Felly Bazibuhe Zihalirwa precisou deixar tudo para trás para sobreviver. Fugiu da República Democrática do Congo acompanhado da mãe e de 2 irmãs, mas a família se separou durante a viagem e ele perdeu a…",
-        "link": "https://www.campograndenews.com.br/lado-b/diversao/apos-perder-a-mae-em-fuga-do-congo-refugiado-ve-sua-historia-virar-filme",
-        "imagem": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/11/10/6af3567c223eb.jpeg",
-        "fonte": "Campo Grande News",
-        "data": "2026-11-10"
+        "id": "7b4eb9db93b3f4405b35c2328094b345",
+        "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 11/11/2026",
+        "resumo": "Um filme de comédia vai passar na Sessão da Tarde hoje, quarta,11 de novembro de 2026, (11/11/2026) às 15h35 (horário de Brasília), na TV Globo",
+        "link": "https://www.opovo.com.br/vidaearte/2026/11/11/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quarta-11-11-2026.html",
+        "imagem": "https://www.opovo.com.br/_midias/jpg/2026/11/10/materias__28_-43093358.jpg",
+        "fonte": "O Povo",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "229418175dd6c7dc006d08e98bfa1d37",
+        "titulo": "52 anos de Leonardo DiCaprio: relembre filmes que renderam Oscar e Globo de Ouro ao ator",
+        "resumo": "Leonardo DiCaprio chega aos 52 anos nesta quarta-feira com uma bagagem extensa de sucessos no cinema. O artista é vencedor de um Oscar de melhor ator, pela interpretação do explorador Hugh Glass, no filme \"O…",
+        "link": "https://extra.globo.com/entretenimento/noticia/2026/11/52-anos-de-leonardo-dicaprio-relembre-filmes-que-renderam-oscar-e-globo-de-ouro-ao-ator.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/Ldhhtto6DMqPm2dGICprnyk2jGY=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/B/0/7AAAYvTQSnCCRLszNwvA/arte-22-.png",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "0e9ffb5335b18c475431938970afd68d",
+        "titulo": "\"Os anéis de poder\" ainda busca identidade própria e o prestígio do cinema",
+        "resumo": "Terceira temporada da série estreia nesta quarta-feira (11/11), com o objetivo de alcançar na TV o prestígio que a obra de Tolkien conquistou na telona",
+        "link": "https://www.em.com.br/cultura/2026/11/7536361-os-aneis-de-poder-ainda-busca-identidade-propria-e-o-prestigio-do-cinema.html",
+        "imagem": "https://midias.em.com.br/_midias/jpg/2026/11/10/wmc4aneis-68191475.jpg",
+        "fonte": "Jornal Estado De Minas",
+        "data": "2026-11-11"
       }
     ],
     "series": [
       {
-        "id": "de62495e48f08fb4115adb156410c7f1",
-        "titulo": "'Minha Melhor Amiga' alcança segundo lugar global na Netflix",
-        "resumo": "Uma semana após estrear na Netflix, a comédia \"Minha Melhor Amiga\", estrelada por Ingrid Guimarães e Mônica Martelli, alcançou a segunda posição no ranking mundial de filmes da plataforma. Leia mais (11/10/2026 - 16h04)",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/minha-melhor-amiga-alcanca-segundo-lugar-global-na-netflix.shtml",
-        "imagem": "https://f.i.uol.com.br/fotografia/2026/08/28/17879454976a91e21937a00_1787945497_3x2_md.jpg",
-        "fonte": "Folha",
-        "data": "2026-11-10"
+        "id": "e470a1db26d116424cd24b6f3e95e465",
+        "titulo": "'A clínica': relembrado em série, Ryan Gracie enfrentou drogas e desafio de 'se provar o tempo inteiro'",
+        "resumo": "O primeiro episódio da série “A clínica”, na TV Globo, jogou luz sobre a história do lutador Ryan Gracie e sua relação com a Clínica Maxwell, em Atibaia, no interior de São Paulo. O caso terminou com a morte do…",
+        "link": "https://oglobo.globo.com/cultura/televisao/noticia/2026/11/11/a-clinica-relembrado-em-serie-ryan-gracie-enfrentou-drogas-e-desafio-de-se-provar-o-tempo-inteiro.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/-l8KTRi4xH5S6BPOYOkk70FWdEs=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/r/R/AmY63lSUOm8bjB2bEsLg/no-dia-14-de-agosto-de-1974-nascia-ryan-gracie-hoje-o-nosso-salve-especial-vai-pra-elenascid.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-11"
       },
       {
-        "id": "0ab658a9e555f26a8538a6028fdab45c",
-        "titulo": "Onde se passa a novela Lá na Minha Terra?",
-        "resumo": "Novela é ambientada no Nordeste O post Onde se passa a novela Lá na Minha Terra? apareceu primeiro em Jornal DCI.",
-        "link": "https://www.dci.com.br/dci-mais/cinema-e-tv/onde-se-passa-a-novela-la-na-minha-terra/",
-        "imagem": "https://www.dci.com.br/wp-content/uploads/2026/11/Onde-se-passa-a-novela-La-na-Minha-Terra.jpg",
-        "fonte": "Dci",
-        "data": "2026-11-10"
+        "id": "6109e066a7c7bd314e342944da0cd5b9",
+        "titulo": "De tiro nas costas a inspiração para a TV: história pessoal de Amaury Lorenzo é contada na novela 'Por você'",
+        "resumo": "O que um dia foi motivo de vergonha e trauma reais para Amaury Lorenzo, intérprete do Lucas de “Por você”, hoje serve de inspiração para os autores Dino Cantelli e Juliana Peres e seus colaboradores escreverem a…",
+        "link": "https://extra.globo.com/entretenimento/tv/noticia/2026/11/de-tiro-nas-costas-a-inspiracao-para-a-tv-historia-pessoal-de-amaury-lorenzo-e-contada-na-novela-por-voce.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/jztSkXqnkcODfMSMGqwrUXErJ00=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/k/G/pKlw5eT6WU2e8z9N2c4g/arte.png",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-11-11"
       },
       {
-        "id": "9987e6f2006ce4297d953df6afed0cdd",
-        "titulo": "Campus Drivers: veja o final explicado da série do Prime Video",
-        "resumo": "A série Campus Drivers estreou recentemente no Amazon Prime Video e já vem chamando a atenção dos assinantes do streaming por conta de seu final repleto de revelações surpreendentes. Com nomes como Carmen Kassovitz…",
-        "link": "https://www.techtudo.com.br/guia/2026/11/campus-drivers-veja-o-final-explicado-da-serie-do-prime-video-streaming.ghtml",
-        "imagem": "https://s2-techtudo.glbimg.com/VPf-o41h0E0eZIoRsdJsi4CKqko=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/T/2/UswVzdSTSB2bgEZjRs4A/assets.aboutamazon.png",
-        "fonte": "Techtudo",
-        "data": "2026-11-10"
+        "id": "d59a5b5f47262ac58c33786ed62e42f8",
+        "titulo": "Após incertezas, Jaffar Bambirra é escalado para novela das 22h da Globo",
+        "resumo": "Jaffar Bambirra apareceu nas primeiras listas de elenco de “Romance em SP” e chegou a sair por incompatibilidade de agenda. Mas agora é certo: ele conseguirá gravar a novela das 22h. Falta assinar o contrato. O ator…",
+        "link": "https://oglobo.globo.com/play/novelas/noticia/2026/11/11/apos-incertezas-jaffar-bambirra-e-escalado-para-novela-das-22h-da-globo.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/0CvSY7YqtG53Y8cI3MwM3IDyVCI=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/K/n/GAqldfTBAQJ6K5XMQFyQ/jaffarbambirra.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-11"
       },
       {
-        "id": "4eaac9e9d3bfa1fd130046148a9c8a3a",
-        "titulo": "HBO Max e Paramount+ terão plano conjunto com desconto em 2027",
-        "resumo": "A junção entre a HBO Max e o Paramount+, que vinha sendo aguardada desde que a Skydance Corporation venceu a disputa para adquirir a Warner Bros. Discovery, já tem data para acontecer. O anúncio foi feito em uma…",
-        "link": "https://canaltech.com.br/apps/hbo-max-e-paramount-terao-plano-conjunto-com-desconto-em-2027/",
-        "imagem": "https://tl.ctcdn.com.br/RtUceHEbQ5Xq6KXSK17q-65Fpfk=/320x180/smart/filters:format(webp):quality(85)/9652ec44-4163-47ef-872b-49a90b10c3df.png",
-        "fonte": "Canaltech",
-        "data": "2026-11-10"
+        "id": "4b2ef4f1ffb92f6435ee3de2040aa7f0",
+        "titulo": "Escalação de Diogo Novaes para nova novela das 19h não avança, e Daniel Blanco passa a ser cogitado",
+        "resumo": "Acabou não avançando o processo de escalação de Diogo Novaes, filho mais velho de Marcello Novaes, para “Elas que lutem”, próxima novela das 19h. A direção cogita outro nome para o papel: Daniel Blanco. Longe da…",
+        "link": "https://oglobo.globo.com/play/novelas/noticia/2026/11/11/escalacao-de-diogo-novaes-para-nova-novela-das-19h-nao-avanca-e-daniel-blanco-passa-a-ser-cogitado.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/hnoGscBydm58NmDWlBhI5WafJfQ=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/l/9/LkodxCRAAywX40OrYQlA/montagem-1794330439319.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-11"
       },
       {
-        "id": "941974b61cda2f5ecc93591e682f21ae",
-        "titulo": "Cerco ao Palácio é baseado em fatos reais? Veja enredo e elenco da série da Netflix",
-        "resumo": "A série colombiana Cerco ao Palácio estreou na última quinta-feira (5) na Netflix trazendo uma história de ficção baseada em um caso real que abalou a Colômbia nos anos 1980. A obra de ação e drama histórico criada…",
-        "link": "https://www.techtudo.com.br/guia/2026/11/cerco-ao-palacio-e-baseado-em-fatos-reais-veja-enredo-e-elenco-da-serie-da-netflix-streaming.ghtml",
-        "imagem": "https://s2-techtudo.glbimg.com/OzHKC0KCxP8trQvyekEgVQle1Oc=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/m/n/TE8o1LQwK5h6DsGbjnUA/4gtqxyokpd1bbdssjoyyim8duv8.webp",
-        "fonte": "Techtudo",
-        "data": "2026-11-10"
+        "id": "a9b4f179a4fe57b605cd2de0098d9da3",
+        "titulo": "VisionQuest tem cena pós-créditos? Entenda o que acontece no final da série",
+        "resumo": "VisionQuest tem cena pós-créditos? Entenda o que acontece no final da série",
+        "link": "https://www.omelete.com.br/series-tv/visionquest-cena-pos-creditos-final-explicado",
+        "imagem": "https://cdn.ome.lt/jGtchlMxkONlAXb77x0Y-GmC8Yo=/970x0/smart/filters:format(webp)/extras/conteudos/VisionQuest-ultron-vision.webp",
+        "fonte": "Omelete",
+        "data": "2026-11-11"
       },
       {
-        "id": "9298df3ca754df66440e5a0389d3d1d6",
-        "titulo": "Dira Paes defende nova novela da Globo após críticas por estereotipar o Nordeste: \"Esse sertão existe\"",
-        "resumo": "A novela de Mário Teixeira foi criticada pelo diretor Kleber Mendonça, que ironizou a trama: \"Talvez essa novela seja mesmo um projeto caro e inútil de rage bait\".",
-        "link": "https://www.bahianoticias.com.br/holofote/noticia/86165-dira-paes-defende-nova-novela-da-globo-apos-criticas-por-estereotipar-o-nordeste-esse-sertao-existe",
-        "imagem": "https://www.bahianoticias.com.br/fotos/holofote_noticias/86165/IMAGEM_NOTICIA_original.jpg",
-        "fonte": "Bahia Notícias",
-        "data": "2026-11-10"
+        "id": "85299611c09ee05584c2d8297af1dcd6",
+        "titulo": "Mr. Catra anima série 'Verônika com K'; saiba quantos filhos o funkeiro teve",
+        "resumo": "A série Verônika com K, do Globoplay, resgatou um clássico do funk carioca em sua trilha sonora. ...",
+        "link": "https://www.terra.com.br/diversao/musica/meu-sonora/mr-catra-anima-serie-veronika-com-k-saiba-quantos-filhos-o-funkeiro-teve,6f8d8fa49b40aaccd7d3baf72301a0ee37glv1lz.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2019/03/01/1502483454154.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-11"
       },
       {
-        "id": "c75ae0967ddf43152ab5f2e7b16b6ce9",
-        "titulo": "Kleber Mendonça Filho faz eco às críticas da novela 'Lá na Minha Terra'",
-        "resumo": "A nova novela das seis da Globo, \"Lá na Minha Terra\", foi recebida com críticas dos usuários de redes sociais. Vários apontaram que o folhetim se vale de estereótipos do Nordeste, retratado como uma região de pouco…",
-        "link": "https://www.diariodecuiaba.com.br/ilustrado/kleber-mendonca-filho-faz-eco-as-criticas-da-novela-la-na-minha-terra/762671",
-        "imagem": "https://diariodecuiaba.nyc3.digitaloceanspaces.com/storage/webdisco/2026/11/08/1200x900/dd2397cb8d95de3c4c224fd171b57f11-diariodecuiaba-com-br.jpg",
-        "fonte": "Diariodecuiaba",
-        "data": "2026-11-10"
+        "id": "9d095a12aaba59d59d55ca7850403885",
+        "titulo": "Novela Quem Ama Cuida: resumo do capítulo de quarta (11/11)",
+        "resumo": "Elenice (Mariana Sena) vai ter a pior confirmação sobre o marido no capítulo desta quarta-feira (11/11) de Quem Ama Cuida. Depois de sair de casa",
+        "link": "https://www.nsctotal.com.br/entretenimento/novela-quem-ama-cuida-resumo-do-capitulo-de-quarta-11-11",
+        "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/novela-quem-ama-cuida-resumo-capitulo-quarta-11-11.jpg",
+        "fonte": "Nsc Total",
+        "data": "2026-11-11"
       }
     ],
     "shows": [
       {
-        "id": "b29fd1c5ccd97a3ea9a77ecc326984fe",
-        "titulo": "Brasil de fora? Stray Kids anuncia datas da turnê mundial “Run it”",
-        "resumo": "Shows anunciados pela JYP Entertainment começam em maio nos Estados Unidos e seguem até julho no continente europeu",
-        "link": "https://www.cnnbrasil.com.br/pop/musica/brasil-de-fora-stray-kids-anuncia-datas-da-turne-mundial-run-it/",
-        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/Rock-in-Rio-2026-Stray-Kids-11-de-setembro-no-Palco-Mundo.jpg?w=1200&h=1200&crop=1",
-        "fonte": "Cnn Brasil",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "954210279d5ad021906d06496e703f52",
-        "titulo": "Fall Out Boy anuncia 36 shows para 2027 e deixa América do Sul de fora",
-        "resumo": "Fall Out Boy anuncia 36 shows para 2027 e deixa América do Sul de fora",
-        "link": "https://www.uol.com.br/splash/noticias/2026/11/10/fall-out-boy-marca-36-shows-para-2027-e-deixa-america-do-sul-fora.ghtm",
-        "imagem": "https://imguol.com/c/splash/74/2026/11/10/a-banda-fall-out-boy-1794336529039_v2_450x253.png",
-        "fonte": "Uol",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "caa003fbc0d662dd8a1626a6ec752670",
-        "titulo": "Festival gratuito reúne balé de cegos e dança em São Caetano",
-        "resumo": "Quinta edição do Encontro Multicultural de Inclusão Social será realizada no Teatro Paulo Machado de Carvalho, com apresentações de entidades assistenciais e companhias convidadas",
-        "link": "https://www.dgabc.com.br/Noticia/4367944/festival-gratuito-reune-bale-de-cegos-e-danca-em-sao-caetano",
-        "imagem": "https://www.dgabc.com.br/Imagens/Home/Index/20261110154119.jpg?altura=100",
-        "fonte": "Diário Do Grande Abc",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "21a6ac6289086812dc3bb9e8c94ce3e6",
-        "titulo": "Cidade do Encanto: Praya lança festival gratuito no Centro do Rio com Os Garotin e Gloriosa Orquestra da Guanabara; veja detalhes",
-        "resumo": "A Praya comemora uma década com o Cidade do Encanto, um festival gratuito que vai transformar, no dia 12 de dezembro, o Centro Histórico do Rio em um circuito a pé de música, arte e gastronomia. O projeto vai…",
-        "link": "https://oglobo.globo.com/blogs/saideira/post/2026/11/cidade-do-encanto-praya-lanca-festival-gratuito-no-centro-do-rio-com-os-garotin-e-gloriosa-orquestra-da-guanabara-veja-detalhes.ghtml",
-        "imagem": "https://s2-oglobo.glbimg.com/LgbpGcjoZGiOCz0yLbIduqvOFD0=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/J/2/uptjXAT1SHGcp7pRNteg/28.jpg",
+        "id": "3991bdc64fa31b629d028ce12562fdcb",
+        "titulo": "Dez horas de churrasco, cerveja e música no BBQ Garden Festival, no Jockey",
+        "resumo": "A brasa vai acender no jardim do Jockey. No próximo sábado (14), o Hipódromo da Gávea recebe a primeira edição do BBQ Garden Festival, recebe a primeira edição do BBQ Garden Festival, com dez horas de churrasco,…",
+        "link": "https://oglobo.globo.com/rioshow/gastronomia/guia/dez-horas-de-churrasco-cerveja-e-musica-no-bbq-garden-festival-no-jockey.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/hNy_ogoSLdjjVsSoQ-VCTIopnI0=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/f/V/UDWqWES7OnERvu1Cb5Gg/montagem-1794344810692.jpg",
         "fonte": "O Globo",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "33b8a733c7686b410db33f6406e97600",
+        "titulo": "Mariah Carey e Marisa Monte fazem shows em São Paulo; veja agenda na cidade",
+        "resumo": "Marisa Monte volta à capital paulista para a despedida de sua turnê com orquestra neste sábado (14), no Nubank Parque. Já na terça (17), o estádio do Palmeiras também recebe Mariah Carey, voz de sucessos como \"All I…",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/11/mariah-carey-e-marisa-monte-fazem-shows-em-sao-paulo-veja-agenda-na-cidade.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/08/10/17863813446a7a0420c0286_1786381344_3x2_rt.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "d3d56261d18ba6f161d676b09e67714d",
+        "titulo": "Prefeito diz que seguirá decisão de Pivetta e anuncia restrição de gastos com shows e eventos no Nortão",
+        "resumo": "A prefeitura de Colíder (160 quilômetros de Sinop) anunciou hoje que vai restringir gastos com festas, shows e eventos e deixar de assumir compromissos de compensação financeira relacionados a emendas parlamentares a…",
+        "link": "https://www.sonoticias.com.br/politica/prefeito-diz-que-seguira-decisao-de-pivetta-e-anuncia-restricao-de-gastos-com-shows-e-eventos-no-nortao/",
+        "imagem": "https://www.sonoticias.com.br/wp-content/uploads/2025/01/5147.jpeg",
+        "fonte": "So Noticias",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "2308cc7db16c7aa29a8c9a4c9ba5f74f",
+        "titulo": "Trovadores de Livramento conquistam premiações no 1º Festival de Trovas de Quaraí",
+        "resumo": "Evento reuniu representantes de quatro municípios gaúchos e destacou a força da poesia improvisada em diferentes modalidades da trova tradicionalista. Quaraí realizou, no último dia 8 de novembro, o 1º...",
+        "link": "https://www.aplateia.com.br/2026/11/trovadores-de-livramento-conquistam-premiacoes-no-1o-festival-de-trovas-de-quarai/",
+        "imagem": "https://www.aplateia.com.br/wp-content/uploads/2026/11/Festival-de-Trova.jpg",
+        "fonte": "Jornal A Plateia",
+        "data": "2026-11-11"
+      },
+      {
+        "id": "0ccb2e698f51b1459d1e7d5ee6f8c732",
+        "titulo": "Estudantes de São Leopoldo mostram sua arte durante Festival Estudantil",
+        "resumo": "Evento reúne 35 escolas em uma programação com exposições, cinema, dança e música",
+        "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/vale-do-rio-dos-sinos/sao-leopoldo/estudantes-de-sao-leopoldo-mostram-sua-arte-durante-festival/",
+        "imagem": "https://midia.gruposinos.com.br/_midias/jpg/2026/11/10/whatsapp_image_2026_11_10_at_15_16_51-22961241.jpeg",
+        "fonte": "Abc+",
         "data": "2026-11-10"
       },
       {
-        "id": "a3d2cee4ca8f9b9a7287ccd1120f2ede",
-        "titulo": "Como Gilberto Gil e Carnaval na Bahia inspiraram novo álbum do U2",
-        "resumo": "A atmosfera contagiante do Carnaval brasileiro encontrou eco nos integrantes do U2 e agora, 20 ...",
-        "link": "https://www.terra.com.br/diversao/musica/como-gilberto-gil-e-carnaval-na-bahia-inspiraram-novo-album-do-u2,2ba6f9bd8edd3150a31126bc6383d82fv21h1t5v.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/10/1370119589-u2-photo-credit-viviane-sassen.jpg",
-        "fonte": "Terra",
+        "id": "3c4d0f512389fa8ca54cb9f980ee8096",
+        "titulo": "Prefeitura no Agreste baiano contrata R$ 110 mil em shows após suspender benefícios de servidores",
+        "resumo": "A prefeitura de Inhambupe, no Agreste baiano, contratou duas atrações musicais por R$ 110 mil para a Lavagem de Inhambupe 2026, dez dias após publicar um decreto que suspendeu progressões funcionais, gratificações e…",
+        "link": "https://www.bahianoticias.com.br/municipios/noticia/53308-prefeitura-no-agreste-baiano-contrata-r-110-mil-em-shows-apos-suspender-beneficios-de-servidores",
+        "imagem": "https://www.bahianoticias.com.br/fotos/municipios_noticias/53308/IMAGEM_NOTICIA_original.jpg",
+        "fonte": "Bahia Notícias",
         "data": "2026-11-10"
       },
       {
-        "id": "36012b1610f8ebc33a7ebae69d0c8eaa",
-        "titulo": "Festival Love Noronha celebra 15 anos em 2027 e anuncia datas do evento",
-        "resumo": "Love Noronha 2027 foi confirmado pelos organizadores Alan Rodrigues/Love Noronha Uma semana após o encerramento do festival LGBTQIA+ Love Noronha, os organizadores anunciaram que a edição de 2027 será realizada de 7…",
-        "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/10/festival-love-noronha-celebra-15-anos-em-2027-e-anuncia-datas-do-evento.ghtml",
-        "imagem": "https://s2-g1.glbimg.com/BK-5wENXO8hMY7l6cia33C0ysSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/W/rBeM2mSvWszUBDodJqRA/love-noronha-alanrodrigues.foto-lovenoronha-flutuante-31.10.26-088.jpg",
-        "fonte": "G1 - O Portal",
-        "data": "2026-11-10"
-      },
-      {
-        "id": "e4cb79d54f3172ced633a617f482a8ac",
-        "titulo": "Festa do Divino traz shows da tradição sertaneja a Planaltina",
-        "resumo": "Evento celebra a cultura popular com Daniel Beira Rio e convidados",
-        "link": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/11/7536051-festa-do-divino-traz-shows-da-tradicao-sertaneja-a-planaltina.html",
-        "imagem": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/11/10/-lorrannyv---daniel-beira-rio-5-68185844.jpg",
-        "fonte": "Correio Braziliense",
+        "id": "0660fc1e66c8472e5e038ccf0fa9176f",
+        "titulo": "Festival ABC das Artes ajusta palcos para festival em dezembro",
+        "resumo": "Evento será realizado de 4 a 6 de dezembro, em Ribeirão Pires; organização revê estrutura para reduzir impactos de possíveis chuvas",
+        "link": "https://www.dgabc.com.br/Noticia/4367987/festival-abc-das-artes-ajusta-palcos-para-festival-em-dezembro",
+        "imagem": "https://www.dgabc.com.br/Imagens/Home/Index/20261110181235.jpg?altura=100",
+        "fonte": "Diário Do Grande Abc",
         "data": "2026-11-10"
       }
     ]
