@@ -1,7 +1,35 @@
 [
   {
+    "id": "517f84cd-9bf6-490b-aa41-506c0799fd40",
+    "titulo": "Elon Musk amplia a produção da Cybertruck para \"lidar com\" a carteira de pedidos e diz que deve haver espaço para \"sentimentalismo\"",
+    "resumo": "Elon Musk estendeu a produção do Cybertruck para lidar com uma carteira de pedidos, disse o proprietário da Tesla.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-12",
+    "link": "https://www.ign.com/articles/elon-musk-extends-cybertruck-production-to-work-through-order-backlog-says-there-must-be-room-for-sentimentality",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/12/cybertruck-1794476113276.jpg",
+    "destaque": true,
+    "sigla": "EM",
+    "tema": "tema-a"
+  },
+  {
+    "id": "a6d7f33e-6108-4290-9b72-78cd1e7505b7",
+    "titulo": "A Newegg reduziu em US$ 32 o preço de um vale-presente de US$ 200 da Nintendo eShop, mas não por muito tempo",
+    "resumo": "A Newegg está oferecendo uma oferta por tempo limitado em um vale-presente de US$ 200 da Nintendo eShop, com um desconto de US$ 32 sobre o preço original, reduzindo-o para US$ 168 com a ajuda de um código promocional.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-12",
+    "link": "https://www.ign.com/articles/newegg-has-slashed-32-off-a-nintendo-eshop-200-gift-card-but-not-for-long",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/11/newegg-nintendo-eshop-gift-card-deal-1794406787702.jpg",
+    "destaque": false,
+    "sigla": "NH",
+    "tema": "tema-b"
+  },
+  {
     "id": "99024d74-8675-425d-873e-3585d1b1ae54",
-    "titulo": "Diretor de Constantine está \"otimista\" quanto a uma sequência após a reformulação da DC Studios",
+    "titulo": "Diretor de Constantine está \"otimista\" quanto a uma sequência após a reformulação dos Estúdios DC",
     "resumo": "O diretor de Constantine, Francis Lawrence, falou sobre a tão esperada sequência do filme agora que a DC Studios passou por uma mudança de comando.",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
@@ -9,14 +37,14 @@
     "data": "2026-11-12",
     "link": "https://www.ign.com/articles/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
     "imagem": "https://assets-prd.ignimgs.com/2023/02/07/constantine-reeves-1639515014334-1663368650707-1675807263764.jpg",
-    "destaque": true,
+    "destaque": false,
     "sigla": "CD",
-    "tema": "tema-a"
+    "tema": "tema-c"
   },
   {
     "id": "837991a7-5fee-4ff3-8d8a-36055edd9d48",
     "titulo": "Avaliação de Monster Hunter Outlanders",
-    "resumo": "Este spin-off para dispositivos móveis mantém o ciclo de jogabilidade e os elementos visuais de suas versões para console, com a ressalva de como as barreiras de progresso incentivam as microtransações.",
+    "resumo": "Este spin-off para dispositivos móveis mantém o ciclo de jogabilidade e os visuais de suas contrapartes para console, com a ressalva de como as barreiras de progresso incentivam as microtransações.",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
@@ -25,7 +53,21 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/10/30/monsterhunteroutlanders-blogroll-1793403161038.jpg",
     "destaque": false,
     "sigla": "MH",
-    "tema": "tema-b"
+    "tema": "tema-d"
+  },
+  {
+    "id": "1957370",
+    "titulo": "O conselho da Nvidia está avaliando o futuro de Jensen Huang após a revelação de um segundo caso extraconjugal",
+    "resumo": "A situação parece crítica para o CEO da Nvidia, Jensen Huang, já que seu futuro na empresa pode estar em risco. Recentemente, foi revelado que Huang esteve envolvido em um caso extraconjugal com uma suposta espiã chinesa e, esta semana,",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "GameSpot",
+    "data": "2026-11-12",
+    "link": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation/",
+    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jensen-Huang-CTC-2026.jpg?w=300",
+    "destaque": false,
+    "sigla": "NB",
+    "tema": "tema-f"
   },
   {
     "id": "d1d295e4-3514-4582-aac7-60ee61f704a7",
@@ -39,34 +81,6 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/11/advent-1794440291226.jpg",
     "destaque": false,
     "sigla": "T2",
-    "tema": "tema-c"
-  },
-  {
-    "id": "fcdcd28c-95cb-4232-af61-ed47a8959f7e",
-    "titulo": "Marvel 1943: Rise of Hydra está supostamente \"quase pronto\", embora ao custo de reduzir o conteúdo e a duração",
-    "resumo": "O Marvel 1943: Rise of Hydra, o jogo do Capitão América/Pantera Negra de Amy Hennig, está supostamente perto de ser concluído, mas parece que pode estar extremamente comprometido.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-11",
-    "link": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
-    "imagem": "https://assets-prd.ignimgs.com/2026/06/04/marvel-1780614544087.jpg",
-    "destaque": false,
-    "sigla": "M1",
-    "tema": "tema-d"
-  },
-  {
-    "id": "2bc6403b-56b7-401e-a9c9-c4731ddd0c88",
-    "titulo": "O aplicativo da AMC sofre uma desaceleração enquanto os fãs da Marvel correm para comprar ingressos para Doomsday após o final de VisionQuest",
-    "resumo": "Tantos fãs da Marvel tentaram conseguir seus ingressos para Vingadores: Dia do Juízo Final depois de assistir ao final da temporada de VisionQuest que eles literalmente derrubaram o aplicativo da AMC Theaters.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-11",
-    "link": "https://www.ign.com/articles/amc-app-crashes-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale",
-    "imagem": "https://assets-prd.ignimgs.com/2023/09/04/wanda-scarlet-witch-1652812067682-1693811666564.jpg",
-    "destaque": false,
-    "sigla": "AA",
     "tema": "tema-e"
   },
   {
@@ -81,12 +95,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/4230001-1.webp?w=300",
     "destaque": false,
     "sigla": "GT",
-    "tema": "tema-f"
+    "tema": "tema-a"
   },
   {
     "id": "1956310",
     "titulo": "O crescente backlog de avaliações da Steam fez com que outro jogo perdesse sua data de lançamento",
-    "resumo": "O crescente acúmulo de aprovações de builds de jogos na Steam parece estar piorando, já que o jogo de mais um estúdio está preso no purgatório do programa de análises da plataforma. A Austrália conseguiu: Defesa Ferroviária do Fim do Mundo B",
+    "resumo": "O crescente acúmulo de aprovações de builds de jogos na Steam parece estar piorando, já que o jogo de mais um estúdio está preso no purgatório do programa de avaliação da plataforma. A Austrália conseguiu: Defesa Ferroviária do Fim do Mundo B",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -95,12 +109,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Australia-Did-It.jpg?w=300",
     "destaque": false,
     "sigla": "SG",
-    "tema": "tema-a"
+    "tema": "tema-b"
   },
   {
     "id": "1956365",
     "titulo": "O primeiro Aeon jogável de Honkai Star Rail não é um deus do dano, e isso é bom",
-    "resumo": "Os Eons de Honkai: Star Rail sempre estiveram muito além dos mortais comuns. Eles são divindades conceituais cujas ações têm o potencial de remodelar galáxias inteiras — portanto, colocar um deles na equipe de quatro pessoas de um jogador sempre foi...",
+    "resumo": "Os Aeons de Honkai: Star Rail sempre estiveram muito além dos mortais comuns. São divindades conceituais cujas ações têm o potencial de remodelar galáxias inteiras — portanto, colocar uma delas na equipe de quatro pessoas de um jogador sempre foi...",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -109,12 +123,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/honkai-event.jpg?w=300",
     "destaque": false,
     "sigla": "HS",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "1952629",
     "titulo": "Melhores equipamentos no Call of Duty: Warzone para a 1ª temporada do MW4",
-    "resumo": "O Modern Warfare 4 se integrou ao Warzone na Temporada 1, adicionando todo o conjunto de armas, acessórios e outros equipamentos novos do MW4 ao battle royale. Isso significa que você vai querer atualizar seus equipamentos para esta nova temporada. Nosso guia",
+    "resumo": "O Modern Warfare 4 se integrou ao Warzone na 1ª Temporada, adicionando todo o conjunto de armas, acessórios e outros equipamentos novos do MW4 ao battle royale. Isso significa que você vai querer atualizar seus equipamentos para esta nova temporada. Nosso guia",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -123,20 +137,6 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/MW4-SEASON-1-WARZONE-001.jpg?w=300",
     "destaque": false,
     "sigla": "BL",
-    "tema": "tema-c"
-  },
-  {
-    "id": "1956361",
-    "titulo": "Como o Honkai Star Rail se inspirou em carros esportivos para algo inesperado",
-    "resumo": "Os RPGs por turnos podem enfrentar dificuldades durante o processo de design ao tentar descobrir como transmitir o impulso físico. Em um ambiente onde as ações são decididas por toques em botões e menus, em vez de pela física em tempo real, o c",
-    "categoria": "atualizacao",
-    "categoriaLabel": "Atualização",
-    "fonte": "GameSpot",
-    "data": "2026-11-11",
-    "link": "https://www.gamespot.com/articles/how-honkai-star-rail-took-inspiration-from-sports-cars-for-something-unexpected/",
-    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/maxresdefault.jpg?w=300",
-    "destaque": false,
-    "sigla": "HH",
     "tema": "tema-d"
   }
 ]
