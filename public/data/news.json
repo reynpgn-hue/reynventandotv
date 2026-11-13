@@ -1,5 +1,19 @@
 [
   {
+    "id": "314fea5d-b4ff-4d40-923c-600969d57584",
+    "titulo": "A Microsoft está tendo dificuldades para corrigir a falha global do sistema que afetou os sistemas de e-mail e outros serviços e admite que os reparos iniciais \"não estão ocorrendo como esperado\"",
+    "resumo": "A Microsoft está tendo dificuldades para corrigir uma interrupção prolongada dos sistemas que impediu o acesso a serviços online, incluindo o Outlook e o Teams.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-13",
+    "link": "https://www.ign.com/articles/microsoft-struggling-to-fix-global-system-outage-impacting-email-systems-and-more-admits-initial-repairs-not-taking-as-expected",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/13/outlook-1794564801846.jpg",
+    "destaque": true,
+    "sigla": "MS",
+    "tema": "tema-a"
+  },
+  {
     "id": "55cdcfbc-6a6b-467b-b7a9-0ff80ffc2364",
     "titulo": "O restaurante Burger Shot do GTA 6 está se expandindo pela Flórida com refeições reais inspiradas no jogo",
     "resumo": "A rede de fast-food de hambúrgueres do GTA 6, Burger Shot, está se expandindo com novas unidades na Flórida a partir deste fim de semana, graças a uma colaboração com Skinny Louie.",
@@ -9,9 +23,9 @@
     "data": "2026-11-13",
     "link": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
     "imagem": "https://assets-prd.ignimgs.com/2026/11/12/burger-shot-skinny-louie-1794518104838.jpg",
-    "destaque": true,
+    "destaque": false,
     "sigla": "G6",
-    "tema": "tema-a"
+    "tema": "tema-b"
   },
   {
     "id": "644d19d4-221b-4722-8af9-272a22f92e0b",
@@ -25,7 +39,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/13/monsters-1794530102237.jpg",
     "destaque": false,
     "sigla": "TW",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "f6e15868-867a-4342-8b74-7842d1810e83",
@@ -39,7 +53,35 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/10/image-2-1794348771186.png",
     "destaque": false,
     "sigla": "WC",
-    "tema": "tema-c"
+    "tema": "tema-d"
+  },
+  {
+    "id": "1958606",
+    "titulo": "Fable está muito mais sombrio do que esperávamos",
+    "resumo": "Em meio a uma modesta celebração de 25 anos, o Xbox lançou uma nova prévia do reboot de Fable. Este trecho — com menos de quatro minutos de duração — oferece bastante gameplay e um olhar mais atento a alguns dos inimigos macabros e",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "GameSpot",
+    "data": "2026-11-13",
+    "link": "https://www.gamespot.com/articles/fable-is-looking-a-lot-darker-than-we-expected/",
+    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Fable-Red_bba8eb.jpg?w=300",
+    "destaque": false,
+    "sigla": "FL",
+    "tema": "tema-f"
+  },
+  {
+    "id": "1958535",
+    "titulo": "Wolfenstein 3 está oficialmente em produção na MachineGames",
+    "resumo": "O tão comentado Wolfenstein 3 foi oficialmente confirmado como estando em desenvolvimento na MachineGames. A notícia vem após muitas pistas e rumores sobre um terceiro jogo na trilogia Wolfenstein planejada pela MachineGames, a primeira da franquia.",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "GameSpot",
+    "data": "2026-11-13",
+    "link": "https://www.gamespot.com/articles/wolfenstein-3-is-officially-in-production-at-machinegames/",
+    "imagem": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4283452-wolfenstein.jpg?w=300",
+    "destaque": false,
+    "sigla": "WO",
+    "tema": "tema-a"
   },
   {
     "id": "aa5ba302-5cbb-4e07-8b82-e80e624dfd58",
@@ -53,20 +95,6 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/10/09/dungeon-crawler-carl-deal-ign-1791541768751.png",
     "destaque": false,
     "sigla": "TD",
-    "tema": "tema-d"
-  },
-  {
-    "id": "a4b1d8bb-f24f-4f20-959d-4ddb991157b0",
-    "titulo": "Um SSD compatível com o PlayStation 5 com dissipador de calor caiu para possivelmente o preço mais baixo que veremos na Black Friday",
-    "resumo": "Só o Grand Theft Auto 6 vai consumir mais de 200 GB do seu armazenamento total.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-12",
-    "link": "https://www.ign.com/articles/ps5-ssd-deal-november-2026",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/12/verbatimps5ssd-1794525202727.jpg",
-    "destaque": false,
-    "sigla": "PC",
     "tema": "tema-e"
   },
   {
@@ -81,7 +109,7 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/ETK_GTAVI_20201112V3.jpg?w=300",
     "destaque": false,
     "sigla": "GT",
-    "tema": "tema-f"
+    "tema": "tema-b"
   },
   {
     "id": "1957739",
@@ -95,12 +123,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/doom.png?w=300",
     "destaque": false,
     "sigla": "CC",
-    "tema": "tema-a"
+    "tema": "tema-c"
   },
   {
     "id": "1957751",
     "titulo": "Novo jogo de Doom aparentemente anunciado da maneira mais estranha depois que metade do estúdio foi demitida",
-    "resumo": "A CEO do Xbox, Asha Sharma, anunciou que a id Software está oficialmente trabalhando em um novo jogo, que acredita-se ser outro título da franquia Doom. Isso está acontecendo depois que Sharma supervisionou a id Software perdendo metade de sua equipe em demissões que foram",
+    "resumo": "A CEO do Xbox, Asha Sharma, anunciou que a id Software está oficialmente trabalhando em um novo jogo, que se acredita ser outro título da franquia Doom. Isso está acontecendo depois que Sharma supervisionou a id Software perdendo metade de sua equipe em demissões que foram",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -109,34 +137,6 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/DoomGame.jpg?w=300",
     "destaque": false,
     "sigla": "ND",
-    "tema": "tema-b"
-  },
-  {
-    "id": "1957753",
-    "titulo": "Minha viagem pela história do Xbox deveria ser comemorativa, mas, em vez disso, é apenas deprimente",
-    "resumo": "Assim como os outros fabricantes de consoles (sem mencionar todas as outras empresas que imitam o Spotify), o Xbox normalmente lança um resumo anual personalizado, permitindo que você relembre o que aquele ano significou para você. Com este mês marcando",
-    "categoria": "atualizacao",
-    "categoriaLabel": "Atualização",
-    "fonte": "GameSpot",
-    "data": "2026-11-12",
-    "link": "https://www.gamespot.com/articles/my-trip-down-xbox-memory-lane-should-be-celebratory-but-instead-its-just-depressing/",
-    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/chatpad.webp?w=300",
-    "destaque": false,
-    "sigla": "TD",
-    "tema": "tema-c"
-  },
-  {
-    "id": "1957717",
-    "titulo": "Os jogos terão uma presença física para sempre, diz o chefe da Take-Two, mas ela será \"muito pequena\"",
-    "resumo": "Não é segredo que o mercado de videogames físicos está se esgotando, mas não espere que as mídias físicas para jogos desapareçam completamente tão cedo, ou nunca, de acordo com Strauss Zelnick, da Take-Two.\nEle disse ao The Game Business",
-    "categoria": "atualizacao",
-    "categoriaLabel": "Atualização",
-    "fonte": "GameSpot",
-    "data": "2026-11-12",
-    "link": "https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small/",
-    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.jpg?w=300",
-    "destaque": false,
-    "sigla": "GW",
     "tema": "tema-d"
   }
 ]
