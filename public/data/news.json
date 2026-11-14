@@ -1,5 +1,33 @@
 [
   {
+    "id": "eee7a029-05b7-4929-a86c-2da4bddadd32",
+    "titulo": "Analisando o momento chocante de Theo em O Senhor dos Anéis: Os Anéis do Poder, 3ª temporada, e o mistério de seu pai com o ator Tyroe Muhafidin",
+    "resumo": "Uma entrevista cheia de spoilers da 3ª temporada de O Senhor dos Anéis: Os Anéis do Poder com Tyroe Muhafidin, o ator que interpreta Theo.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-14",
+    "link": "https://www.ign.com/articles/breaking-down-theos-shock-moment-in-the-lord-of-the-rings-the-rings-of-power-season-3-and-the-mystery-of-his-father-with-actor-tyroe-muhafidin",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/14/theo-main-1794649994673.jpg",
+    "destaque": true,
+    "sigla": "BD",
+    "tema": "tema-a"
+  },
+  {
+    "id": "de806beb-e949-43cf-8717-715716449c62",
+    "titulo": "James Gunn acaba com os rumores de que a Skydance está se intrometendo em \"Man of Tomorrow\"",
+    "resumo": "James Gunn negou os rumores de que os novos supervisores da DC na Skydance interferiram em sua versão de \"Man of Tomorrow\" após sua saída chocante da DC Studios.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-14",
+    "link": "https://www.ign.com/articles/james-gunn-shuts-down-rumors-that-skydance-is-meddling-with-man-of-tomorrow",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/14/james-gunn-rumors-1794623291199.png",
+    "destaque": false,
+    "sigla": "JG",
+    "tema": "tema-b"
+  },
+  {
     "id": "bf1423c1-6243-460a-83d2-f3e2599abcd4",
     "titulo": "Sunrise on the Reaping está recebendo várias ofertas de Black Friday antes do seu lançamento nos cinemas",
     "resumo": "",
@@ -9,9 +37,9 @@
     "data": "2026-11-14",
     "link": "https://www.ign.com/articles/sunrise-on-the-reaping-book-and-audiobook-black-friday-deal-2026",
     "imagem": "https://assets-prd.ignimgs.com/2026/11/13/sunrise-1794610557275.jpg",
-    "destaque": true,
+    "destaque": false,
     "sigla": "ST",
-    "tema": "tema-a"
+    "tema": "tema-c"
   },
   {
     "id": "f2624c77-56cf-46b8-a0a3-5243ed9ca3ae",
@@ -25,7 +53,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/11/bfstreamingdeals-1794428813659.jpg",
     "destaque": false,
     "sigla": "AA",
-    "tema": "tema-b"
+    "tema": "tema-d"
   },
   {
     "id": "56efffda-53c6-4b24-a0fd-4f431cfd92f8",
@@ -39,34 +67,6 @@
     "imagem": "https://assets-prd.ignimgs.com/2022/09/15/blade-runner-2099-1663254300147.jpg",
     "destaque": false,
     "sigla": "BR",
-    "tema": "tema-c"
-  },
-  {
-    "id": "cd87cbf1-24d4-4899-aadd-1351f99c1fb0",
-    "titulo": "Atualizações do QSSR do PS5 reveladas para Marvel's Spider-Man 2, Arc Raiders e muito mais",
-    "resumo": "A Sony confirmou que Marvel's Spider-Man 2, Arc Raiders e mais quatro jogos receberão suporte ao QSSR nos PS5s básicos.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-13",
-    "link": "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
-    "imagem": "https://assets-prd.ignimgs.com/2025/01/30/pc-first-mins-br-1738277933414.jpg",
-    "destaque": false,
-    "sigla": "PQ",
-    "tema": "tema-d"
-  },
-  {
-    "id": "108094b2-3b02-471a-aaf4-ba84f49c11ec",
-    "titulo": "Antes de dirigir o maior sucesso de sua carreira, Steven Spielberg quase fez um filme de terror sobre alienígenas",
-    "resumo": "Antes de dirigir E.T., Steven Spielberg quase fez um filme de terror sobre alienígenas chamado Night Skies.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-13",
-    "link": "https://www.ign.com/articles/steven-spielberg-night-skies-et-almost-made-an-alien-horror-movie-instead",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/13/steven-spielberg-filming-1280-1794609786087.jpg",
-    "destaque": false,
-    "sigla": "BD",
     "tema": "tema-e"
   },
   {
@@ -114,7 +114,7 @@
   {
     "id": "1958801",
     "titulo": "Mais 23 coisas que você AINDA não sabia sobre o remake de Ocarina of Time",
-    "resumo": "No remake de Ocarina of Time, há uma grande quantidade de segredos antigos e novos, e descobrimos muitos deles, incluindo recursos sonoros ocultos bem na palma da sua mão, algumas falhas absolutamente incríveis e algumas referências.",
+    "resumo": "No remake de Ocarina of Time, há uma grande quantidade de segredos antigos e novos, e descobrimos muitos deles, incluindo recursos de som ocultos bem na palma da sua mão, algumas falhas absolutamente incríveis e algumas referências.",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
