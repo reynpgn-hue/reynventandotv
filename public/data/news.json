@@ -1,22 +1,50 @@
 [
   {
+    "id": "12e77390-cfed-4cf2-9574-360326ff37c4",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-14",
+    "link": "https://www.ign.com/articles/daggerheart-hope-fear-expansion-ttrpg-review",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/13/hopeandfear-thumb-1794603742410.jpg",
+    "destaque": true,
+    "sigla": "DH",
+    "tema": "tema-a"
+  },
+  {
+    "id": "b5b02e21-01c6-47da-be0e-0c43186a6f15",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-14",
+    "link": "https://www.ign.com/articles/when-gta-5-took-on-zuckerberg-and-hit-peak-satire",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/10/gta-5-aotl-blog-1794325834932.jpg",
+    "destaque": false,
+    "sigla": "WG",
+    "tema": "tema-b"
+  },
+  {
     "id": "eee7a029-05b7-4929-a86c-2da4bddadd32",
-    "titulo": "Analisando o momento chocante de Theo em O Senhor dos Anéis: Os Anéis do Poder, 3ª temporada, e o mistério de seu pai com o ator Tyroe Muhafidin",
-    "resumo": "Uma entrevista cheia de spoilers da 3ª temporada de O Senhor dos Anéis: Os Anéis do Poder com Tyroe Muhafidin, o ator que interpreta Theo.",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
     "data": "2026-11-14",
     "link": "https://www.ign.com/articles/breaking-down-theos-shock-moment-in-the-lord-of-the-rings-the-rings-of-power-season-3-and-the-mystery-of-his-father-with-actor-tyroe-muhafidin",
     "imagem": "https://assets-prd.ignimgs.com/2026/11/14/theo-main-1794649994673.jpg",
-    "destaque": true,
+    "destaque": false,
     "sigla": "BD",
-    "tema": "tema-a"
+    "tema": "tema-c"
   },
   {
     "id": "de806beb-e949-43cf-8717-715716449c62",
-    "titulo": "James Gunn acaba com os rumores de que a Skydance está se intrometendo em \"Man of Tomorrow\"",
-    "resumo": "James Gunn negou os rumores de que os novos supervisores da DC na Skydance interferiram em sua versão de \"Man of Tomorrow\" após sua saída chocante da DC Studios.",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
@@ -25,11 +53,11 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/14/james-gunn-rumors-1794623291199.png",
     "destaque": false,
     "sigla": "JG",
-    "tema": "tema-b"
+    "tema": "tema-d"
   },
   {
     "id": "bf1423c1-6243-460a-83d2-f3e2599abcd4",
-    "titulo": "Sunrise on the Reaping está recebendo várias ofertas de Black Friday antes do seu lançamento nos cinemas",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
     "resumo": "",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
@@ -39,40 +67,26 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/13/sunrise-1794610557275.jpg",
     "destaque": false,
     "sigla": "ST",
-    "tema": "tema-c"
-  },
-  {
-    "id": "f2624c77-56cf-46b8-a0a3-5243ed9ca3ae",
-    "titulo": "Depois de mais um ano de aumentos de preços, quais ofertas de streaming teremos na Black Friday de 2026?",
-    "resumo": "",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-14",
-    "link": "https://www.ign.com/articles/black-friday-streaming-deal-predictions-2026",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/11/bfstreamingdeals-1794428813659.jpg",
-    "destaque": false,
-    "sigla": "AA",
-    "tema": "tema-d"
-  },
-  {
-    "id": "56efffda-53c6-4b24-a0fd-4f431cfd92f8",
-    "titulo": "Os produtores executivos de Blade Runner 2099 confirmam que os proprietários da franquia estão em negociações para uma adaptação em um videogame AAA",
-    "resumo": "Andrew Kosove e Broderick Johnson, produtores executivos de Blade Runner 2099 e co-CEOs da Alcon Entertainment, confirmaram que estão em negociações para criar um videogame AAA baseado na icônica franquia cyberpunk.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-13",
-    "link": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
-    "imagem": "https://assets-prd.ignimgs.com/2022/09/15/blade-runner-2099-1663254300147.jpg",
-    "destaque": false,
-    "sigla": "BR",
     "tema": "tema-e"
   },
   {
+    "id": "1956366",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "GameSpot",
+    "data": "2026-11-14",
+    "link": "https://www.gamespot.com/articles/casualties-unknown-is-a-brutal-97-rated-survival-game-that-will-make-you-realize-your-mortality-and-at-a-cheap-price-too/",
+    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-casualties-unknown-deal.jpg?w=300",
+    "destaque": false,
+    "sigla": "CU",
+    "tema": "tema-f"
+  },
+  {
     "id": "1958823",
-    "titulo": "Adoro como a música faz Soulframe parecer um conto popular",
-    "resumo": "O Soulframe ainda não foi lançado, mas seus Prelúdios finalmente foram abertos ao público em 6 de novembro, dando-me a minha primeira chance de testá-lo. Eu esperava \"Warframe, mas no estilo fantasia\" e, para ser justo, grande parte do Soulframe é assim.",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -81,12 +95,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-131948.png?w=300",
     "destaque": false,
     "sigla": "LH",
-    "tema": "tema-f"
+    "tema": "tema-a"
   },
   {
     "id": "1958814",
-    "titulo": "As cópias \"físicas\" do GTA 6 podem ser vulneráveis a um truque muito estúpido, mas sério",
-    "resumo": "O Grand Theft Auto 6 abandonou os discos tradicionais para seu lançamento \"físico\", com o jogo da Rockstar sendo vendido como um código digital na caixa nas lojas a partir desta semana. No entanto, parece que uma escolha de embalagem pode ter sido acidental.",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -95,12 +109,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6-1.webp?w=300",
     "destaque": false,
     "sigla": "“G",
-    "tema": "tema-a"
+    "tema": "tema-b"
   },
   {
     "id": "1958800",
-    "titulo": "A Take-Two, proprietária do GTA 6, não tem interesse em se vender depois que a EA se tornou uma empresa privada por US$ 55 bilhões",
-    "resumo": "Recentemente, a gigante dos jogos Electronic Arts foi privatizada em uma venda de US$ 55 bilhões para um consórcio de investidores liderado pelo Fundo de Investimento Público da Arábia Saudita. A Take-Two, proprietária do GTA 6, pode ser a próxima grande empresa a ser adquirida?",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -109,12 +123,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2-1.jpg?w=300",
     "destaque": false,
     "sigla": "GO",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "1958801",
-    "titulo": "Mais 23 coisas que você AINDA não sabia sobre o remake de Ocarina of Time",
-    "resumo": "No remake de Ocarina of Time, há uma grande quantidade de segredos antigos e novos, e descobrimos muitos deles, incluindo recursos de som ocultos bem na palma da sua mão, algumas falhas absolutamente incríveis e algumas referências.",
+    "titulo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "resumo": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 46 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -123,20 +137,6 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/OOTRXThings2_ThumbSITE.jpg?w=300",
     "destaque": false,
     "sigla": "MT",
-    "tema": "tema-c"
-  },
-  {
-    "id": "1958766",
-    "titulo": "O GTA 6 pode vender 55 milhões de cópias até o início do próximo ano, segundo um relatório, e o preço médio de venda pode ser de US$ 90",
-    "resumo": "O Grand Theft Auto 6 da Rockstar será lançado no dia 19 de novembro e espera-se que seja um sucesso comercial gigantesco, mas quão grande será o lançamento? O Investor's Business Daily compilou dados de uma série de relatórios de analistas",
-    "categoria": "atualizacao",
-    "categoriaLabel": "Atualização",
-    "fonte": "GameSpot",
-    "data": "2026-11-13",
-    "link": "https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/",
-    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Ambrosia_06_6fdec7.jpg?w=300",
-    "destaque": false,
-    "sigla": "GC",
     "tema": "tema-d"
   }
 ]
