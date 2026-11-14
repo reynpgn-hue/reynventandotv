@@ -1,7 +1,25 @@
 {
-  "atualizadoEm": "2026-11-14T18:29:17.317Z",
+  "atualizadoEm": "2026-11-14T22:44:25.207Z",
   "categorias": {
     "tecnologia": [
+      {
+        "id": "be62eb3504cc2bc69aa204c675fa8e95",
+        "titulo": "Como a inteligência artificial está reinventando a criação de perfumes sem substituir narizes humanos",
+        "resumo": "A inteligência artificial já chegou a um dos universos mais tradicionais da indústria do luxo: a ...",
+        "link": "https://www.terra.com.br/noticias/mundo/europa/como-a-inteligencia-artificial-esta-reinventando-a-criacao-de-perfumes-sem-substituir-narizes-humanos,becbf92bec0bab66f064b68bef4c3756bitcp7bt.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/1933608258-museeduparfum-collectiondesmatierespremieres-2.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "0035d366249cabd15715fab76b4bb881",
+        "titulo": "Governo Trump atribui pane em aeroportos dos EUA a tecnologia antiga",
+        "resumo": "Governo Trump atribui pane em aeroportos dos EUA a tecnologia antiga",
+        "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/13/governo-trump-atribui-pane-em-aeroportos-dos-eua-a-tecnologia-antiga.ghtm",
+        "imagem": "https://imguol.com/c/noticias/c2/2026/11/13/aeroporto-nacional-ronald-reagan-na-virginia-eua-suspendem-decolagens-em-todos-os-aeroportos-do-pais-em-13-de-novembro-de-2026-1794607798832_v2_300x225.jpg",
+        "fonte": "Uol",
+        "data": "2026-11-14"
+      },
       {
         "id": "a24f71f27f5deeeb3fddedc16f9a6206",
         "titulo": "Esqueci meu celular no Uber, 99 ou Indrive: o que fazer? Veja",
@@ -46,27 +64,63 @@
         "imagem": "https://www.mixvale.com.br/wp-content/uploads/2026/10/mulher-com-celular-freshsplash-istockphoto-com.jpg",
         "fonte": "Mix Vale",
         "data": "2026-11-13"
-      },
-      {
-        "id": "176fdc4ca527f0d7a38424c389e84583",
-        "titulo": "Analista cita que problema no espaço aéreo dos EUA pode estar ligado à tecnologia ultrapassada",
-        "resumo": "O ex-piloto da United Airlines e especialista em aviação Steve Arroyo disse que o problema que levou ao fechamento do espaço aéreo nos EUA nesta sexta-feira, 13, parecia semelhante a uma interrupção regional das…",
-        "link": "https://tribunadepetropolis.com.br/noticias/analista-cita-que-problema-no-espaco-aereo-dos-eua-pode-estar-ligado-a-tecnologia-ultrapassada/",
-        "imagem": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "fonte": "Tribuna De Petr",
-        "data": "2026-11-13"
-      },
-      {
-        "id": "fb2cfa5ac20edf838333c37e544caae7",
-        "titulo": "Prefeitura de Salvador utiliza inteligência artificial para planejar ciclovia no Rio Vermelho",
-        "resumo": "A Semob e a Ufba utilizam inteligência artificial para analisar o fluxo de pessoas e planejar uma nova conexão cicloviária na região do Rio Vermelho.",
-        "link": "https://www.bahianoticias.com.br/noticia/323635-prefeitura-de-salvador-utiliza-inteligencia-artificial-para-planejar-ciclovia-no-rio-vermelho",
-        "imagem": "https://www.bahianoticias.com.br/fotos/principal_noticias/323635/IMAGEM_NOTICIA_original.jpg",
-        "fonte": "Bahia Notícias",
-        "data": "2026-11-13"
       }
     ],
     "filmes": [
+      {
+        "id": "2376e1e3fc5a0bd0f9e02ebca5f46870",
+        "titulo": "\"Não pude aceitar\": há 50 anos, Robert De Niro recusou um dos maiores filmes da história do cinema",
+        "resumo": "Negativa fez De Niro evitar um tufão, cenário de guerrilha e outros problemas No mesmo momento do convite, De Niro estava em reunião com Martin Scorsese para estrelar um outro grande sucesso do cinema.",
+        "link": "https://br.ign.com/robert-de-niro/157519/nao-pude-aceitar-ha-50-anos-robert-de-niro-recusou-um-dos-maiores-filmes-da-historia-do-cinema",
+        "imagem": "https://sm.ign.com/ign_br/screenshot/default/imagem_am2g.jpg",
+        "fonte": "Ign Brasile",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "c6af7e62817452fd641dbef538917ae6",
+        "titulo": "TV com 60 Hz ou 120 Hz na Black Friday: como a taxa de atualização interfere em esportes, filmes e jogos de videogame",
+        "resumo": "Na Black Friday, confira a taxa nativa do painel: receber jogos em 4K a 120 Hz também exige conexão e conteúdo compatíveis. O post TV com 60 Hz ou 120 Hz na Black Friday: como a taxa de atualização interfere em…",
+        "link": "https://www.folhabv.com.br/comportamento/curiosidades/tv-com-60-hz-ou-120-hz-na-black-friday-como-a-taxa-de-atualizacao-interfere-em-esportes-filmes-e-jogos-de-videogame/",
+        "imagem": "https://uploads.folhabv.com.br/2026/11/TV-com-60-Hz-ou-120-Hz-na-Black-Friday.webp",
+        "fonte": "Folha Bv",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "bf223f7cbf426b338d92c14e3cf49bb0",
+        "titulo": "Eu Sou Rocky: um filme à altura do mito",
+        "resumo": "Quando Rocky – Um Lutador ganhou as telas em 76, Jimmy Carter estreava na Casa Branca embalado pela promessa de dias melhores. O filme virou lenda; a promessa, fumaça. Com as instituições ainda na lona pelo escândalo…",
+        "link": "https://diariodocomercio.com.br/opiniao/coluna/plano-geral/eu-sou-rocky-filme-altura-mito/",
+        "imagem": "https://diariodocomercio.com.br/wp-content/uploads/2026/11/rocky.jpg",
+        "fonte": "Diariodocomercio Br",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "c37f4115494b04ed87cf4606ee0673d0",
+        "titulo": "Novo filme de suspense da Netflix promete agitar este sábado (14/11)",
+        "resumo": "Chegou o sábado, 14, e nada melhor do que aproveitar o tempo livre para assistir a um bom filme sem precisar interromper a maratona por causa da rotina. Para quem gosta de histórias cheias de mistério, personagens…",
+        "link": "https://atarde.com.br/cineinsite/novo-filme-de-suspense-da-netflix-promete-agitar-este-sabado-1411-1408996",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/novo-filme-de-suspense-da-netflix-promete-agitar-e0140899600202611101405.jpg?xid=7400277",
+        "fonte": "A Tarde",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "3a48cb564936f70089760f8e88b02e18",
+        "titulo": "Roteirista revela por que galã de novelas desistiu de participar do filme 'Tropa de elite'",
+        "resumo": "Um bastidor ainda inédito de \"Tropa de elite\" veio a público quase 20 anos depois do lançamento do primeiro filme. Rodrigo Pimentel, um dos roteiristas, entregou por que um conhecido galã de novelas desistiu de…",
+        "link": "https://extra.globo.com/famosos/noticia/2026/11/roteirista-revela-por-que-gala-de-novelas-desistiu-de-participar-do-filme-tropa-de-elite.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/gbnDm0FVrsPAOajO9Ol9fVPGWSQ=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/N/v/svI5XIQBScFk5y9zukKw/37885742-2908.2007-divulgacao-e-mail-sc-tropa-de-elite.jpg",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "938b7a790c605021633e4f9eedb525df",
+        "titulo": "“Obsessão”: sucesso de bilheteria chega ao streaming de forma gratuita",
+        "resumo": "Nos primeiros dois meses de exibição, o filme chegou a arrecadar mais de 400 vezes seu orçamento total",
+        "link": "https://www.cnnbrasil.com.br/pop/streaming/obsessao-sucesso-de-bilheteria-chega-ao-streaming-de-forma-gratuita/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/obsessao-filme-2026.png?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
+        "data": "2026-11-14"
+      },
       {
         "id": "502986b170cfed76b2f6c5b815eea0f1",
         "titulo": "João Pedro Zappa viverá cineasta em filme sobre Glauber Rocha",
@@ -75,63 +129,27 @@
         "imagem": "https://s2-oglobo.glbimg.com/9AGWR7EWu6BgHvZsOzn21N2gupM=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/m/j/7dFQBDSeGIycRnwsjTmQ/montagem-ig-1794585718590.jpg",
         "fonte": "O Globo",
         "data": "2026-11-14"
-      },
-      {
-        "id": "10efe1a58d6bca2cb7020c14cb4cb53f",
-        "titulo": "12 filmes com plot twists que são pouco conhecidos, mas valem a pena assistir",
-        "resumo": "Nem todos os filmes com plot twists surpreendentes recebem a atenção que merecem, mesmo quando as histórias são capazes de prender o espectador até os últimos minutos. É o caso de produções como o suspense…",
-        "link": "https://www.techtudo.com.br/listas/2026/11/12-filmes-com-plot-twists-que-sao-pouco-conhecidos-mas-valem-a-pena-assistir-streaming.ghtml",
-        "imagem": "https://s2-techtudo.glbimg.com/5fM0IbRVQBXMhIwZhFzQqhGvsHs=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/B/6/Ed1B1PSTO2lILY7leWsw/image-w1280.jpg",
-        "fonte": "Techtudo",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "0f31159d9d67708a772a2236a5da58af",
-        "titulo": "Filme de terror chega ao Prime Video após faturar R$ 2 bilhões em 2026",
-        "resumo": "Nada como aproveitar o sábado, 14, para encontrar um bom filme e escapar da rotina com uma história capaz de prender a atenção do início ao fim. Para quem gosta de suspense, tensão psicológica e acontecimentos que…",
-        "link": "https://atarde.com.br/cineinsite/filme-de-terror-chega-ao-prime-video-apos-faturar-r-2-bilhoes-em-2026-1409404",
-        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/filme-de-terror-chega-ao-prime-video-apos-faturar-0140940400202611131931.jpg?xid=7406676",
-        "fonte": "A Tarde",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "63bb252c85b0ce4c66a013ef8917e82f",
-        "titulo": "Johnny Depp volta a Hollywood em filme natalino sobre sovina",
-        "resumo": "\"Ă‰ bom estar de volta.\" \"NĂŁo sou mais o homem que eu era.\" As duas frases sĂŁo pronunciadas por Johnny Depp, no papel de Ebenezer Scrooge, em dois trailers de \"Ebenezer e os Fantasmas do Natal\", que estreia nesta…",
-        "link": "https://www.diariodecuiaba.com.br/ilustrado/johnny-depp-volta-a-hollywood-em-filme-natalino-sobre-sovina/763382",
-        "imagem": "https://diariodecuiaba.nyc3.digitaloceanspaces.com/storage/webdisco/2026/11/11/1200x900/005ce57883236eb45aac70aeefa5e200-diariodecuiaba-com-br.jpg",
-        "fonte": "Diariodecuiaba",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "747234fe1be59940fb9e4fe60db34f8b",
-        "titulo": "Logan Lerman se junta ao elenco de ‘Playmates’, filme sobre as Coelhinhas da Playboy",
-        "resumo": "De acordo com o Deadline, Logan Lerman (‘Percy Jackson’) foi confirmado no elenco de ‘Playmates‘, filme inspirado nas experiências da cineasta Lorraine Nicholson crescendo na Mansão da Playboy. Sem muitos detalhes, o…",
-        "link": "https://cinepop.com.br/logan-lerman-se-junta-ao-elenco-de-playmates-filme-sobre-as-coelhinhas-da-playboy-776147/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/11/Logan-Lerman.webp",
-        "fonte": "Cinepop",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "ada81d8a39c664b569d7a3cd66ff435f",
-        "titulo": "Luiz Melodia ganha sessão especial no Canal Brasil com exibição de dois filmes sobre sua trajetória",
-        "resumo": "No mês da Consciência Negra, o Canal Brasil celebra Luiz Melodia, o artista que fez da música um espaço de afirmação da cultura negra brasileira ao misturar samba, soul, rock e blues. O cantor e compositor é o…",
-        "link": "https://www.ouniversodatv.com/2026/11/luiz-melodia-ganha-sessao-especial-no.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVuPnKyv12AQDd3OOC_KZc9t0BaytAO8nqItL9LU0lpEcrYfe3HzCBXJVgcctGDa_bQVOhHpQHCxtvl2OtZJPSu98jpP3liagp7wz5GCI3htYLqa8YG1RlmrBTe9vK8Q8upfhB_7nvM1m1p2mTvNVQQx0uRndtp2gNIt1n0wEs9l48yYZePGZF7sADffmu/s72-w640-h468-c/3.jpeg",
-        "fonte": "O Universo Da Tv",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "e083285d9cc7e087d3415e6eaef20558",
-        "titulo": "Novo trailer cinematográfico de Vindictus: Defying Fate",
-        "resumo": "A NEXON divulgou o trailer completo cinematográfico do RPG de ação e fantasia medieval Vindictus: Defying Fate, o qual foi confirmado para PS5 e PC via Steam ontem (12). Veja uma breve descrição do jogo, via NEXON:…",
-        "link": "https://psxbrasil.com.br/novo-trailer-cinematografico-de-vindictus-defying-fate/",
-        "imagem": "https://psxbrasil.com.br/wp-content/uploads/2026/11/cWiq_5Mh8dk_maxres.jpg",
-        "fonte": "Psx Br",
-        "data": "2026-11-14"
       }
     ],
     "series": [
+      {
+        "id": "5272c88cbf64440cf04e595f46e1438c",
+        "titulo": "Paapa Essiedu, o Snape da série de 'Harry Potter', fala sobre Alan Rickman: 'Sinto que ele está comigo'",
+        "resumo": "Escalado para interpretar Severo Snape na nova adaptação de Harry Potter, produzida pela HBO, ...",
+        "link": "https://www.terra.com.br/diversao/paapa-essiedu-o-snape-da-serie-de-harry-potter-fala-sobre-alan-rickman-sinto-que-ele-esta-comigo,74aa087d752b788b7c8c6dd1aed677983ibiuh80.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/209974062-paapa-essiedu-o-snape-da-serie-de-harry-potter-fala-sobre-alan-rickman-sinto-que-ele-esta-comigo.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "9d56268fdfb458377e94eba615c9bd5d",
+        "titulo": "Membro da equipe de 'Dept. Q', série da Netflix, morre no set de filmagens",
+        "resumo": "Um membro da equipe de Dept. Q, série policial da Netflix estrelada por Matthew Goode ( ...",
+        "link": "https://www.terra.com.br/diversao/membro-da-equipe-de-dept-q-serie-da-netflix-morre-no-set-de-filmagens,084489e497a95ef223fc97e0d4d10b81tv6gv6jl.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/1375861649-membro-da-equipe-de-dept-q-serie-da-netflix-morre-no-set-de-filmagens.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-14"
+      },
       {
         "id": "013f60579b7a5121b189ee687f6e2fad",
         "titulo": "Após o casal Loquinha de 'Três Graças', Gabriela Medvedovsky fará par com Dandara Queiroz em nova série",
@@ -176,27 +194,36 @@
         "imagem": "https://cinepop.com.br/wp-content/uploads/2026/11/Magic-the-Gathering-Netlfix-Planeswalker.webp",
         "fonte": "Cinepop",
         "data": "2026-11-14"
-      },
+      }
+    ],
+    "shows": [
       {
-        "id": "d9363bdcade36dd319b4602008559f45",
-        "titulo": "América-MG x Avaí: onde assistir ao vivo, horário e escalações pela 38ª rodada da Série B",
-        "resumo": "Antes de mais nada, na tarde deste sábado (14) reserva um dos capítulos mais dramáticos do ...",
-        "link": "https://www.terra.com.br/esportes/futebol/america-mg-x-avai-onde-assistir-ao-vivo-horario-e-escalacoes-pela-38-rodada-da-serie-b,e1ea3ded54665d512ca41efdffb6279ccn7z85yu.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/1727816793-america-mg-x-avai-onde-assistir-horario-escalacoes-serie-b.jpg",
+        "id": "f5f46f5834df11e683e51847a5a79075",
+        "titulo": "'Guerreiras do K-Pop' anunciam turnê mundial para 2027, incluindo a América Latina",
+        "resumo": "A Netflix anunciou a KPop Demon Hunters Golden World Tour, turnê mundial inspirada na animação ...",
+        "link": "https://www.terra.com.br/diversao/musica/guerreiras-do-k-pop-anunciam-turne-mundial-para-2027-incluindo-a-america-latina,f658d87b2ebc79acf946b77c474da070gb45s7v6.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/2108217421-guerreiras-do-k-pop-anunciam-turne-mundial-para-2027-incluindo-a-america-latina.jpg",
         "fonte": "Terra",
         "data": "2026-11-14"
       },
       {
-        "id": "79e2d7cc98c0899a16dd014fb1cddfd7",
-        "titulo": "‘VisionQuest’ registra o final de série MAIS ASSISTIDO da Marvel em 3 anos",
-        "resumo": "Sucesso! O último episódio de ‘VisionQuest‘ alcançou 3.7 milhões de visualizações mundialmente em seu primeiro dia no serviço de streaming do Disney+. Os números representam o final de série mais assistido da Marvel…",
-        "link": "https://cinepop.com.br/visionquest-registra-o-final-de-serie-mais-assistido-da-marvel-em-3-anos-776131/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/10/vision-ultron-visionquest.avif",
-        "fonte": "Cinepop",
+        "id": "dd14831cd974d3a85411dbb97be3f1a2",
+        "titulo": "Show de Xande de Pilares e Grupo Revelação em Curitiba é adiado",
+        "resumo": "O show da turnê “Tava Escrito: O Reencontro Histórico”, de Xande de Pilares e Grupo Revelação, que aconteceria neste sábado […]",
+        "link": "https://www.tribunapr.com.br/viva/show-de-xande-de-pilares-grupo-revelacao-em-curitiba-adiado/",
+        "imagem": "https://www.tribunapr.com.br/wp-content/uploads/2026/11/14090651/CAPA-NOVA-2026-11-14T090352.469.png",
+        "fonte": "Tribuna Pr",
         "data": "2026-11-14"
-      }
-    ],
-    "shows": [
+      },
+      {
+        "id": "7244c454dbab7e73c0b9cfd99688d179",
+        "titulo": "Réveillon 2027: veja festas pagas no Rio com open bar e shows de Belo, Ferrugem, João Gomes e Pabllo Vittar",
+        "resumo": "O Rio conta com variadas opções de festas pagas para quem deseja celebrar o revéillon e a chegada de 2027 em grande estilo. Os eventos acontecem em diferentes pontos da cidade, de Copacabana à Barra da Tijuca, e…",
+        "link": "https://g1.globo.com/guia/guia-rj/noticia/2026/11/14/reveillon-2027-veja-festas-pagas-no-rio-com-open-bar-e-shows-de-belo-ferrugem-joao-gomes-e-pabllo-vittar.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/k_Yqcuk8o-34rbhcd-gvq4rGfVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/W/K7dWfPR3amgOpTW50nVQ/reveillon4.jpg",
+        "fonte": "G1 - O Portal",
+        "data": "2026-11-14"
+      },
       {
         "id": "0ea58338723f1433ec2980d2246430c8",
         "titulo": "Imagens mostram última aparição pública de Claudette Soares em audição de novo álbum em SP",
@@ -231,33 +258,6 @@
         "link": "https://www.opovo.com.br/vidaearte/agenda/2026/11/13/rapper-ajulliacosta-e-confirmada-no-festival-elos-2026.html",
         "imagem": "https://www.opovo.com.br/_midias/jpg/2026/11/13/materias__33_-43121509.jpg",
         "fonte": "O Povo",
-        "data": "2026-11-13"
-      },
-      {
-        "id": "30cd5afcd7a04a8c617bc8e422a91d41",
-        "titulo": "Guerreiras do K-Pop anuncia turnê mundial com América Latina; saiba tudo",
-        "resumo": "Turnê de shows terá 150 apresentações em quase 50 cidades ao redor do mundo com início em junho de 2027",
-        "link": "https://www.cnnbrasil.com.br/pop/streaming/guerreiras-do-k-pop-anuncia-turne-mundial-com-america-latina-saiba-tudo/",
-        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-062ad21ed2264e5abdc0a53d4d10aa69.jpg?w=1200&h=1200&crop=1",
-        "fonte": "Cnn Brasil",
-        "data": "2026-11-13"
-      },
-      {
-        "id": "6c89d46dd0452894b49eb1c4f71c30bf",
-        "titulo": "Sesc-DF abre Festival Consciência Negra com mais de 20 atrações",
-        "resumo": "Programação gratuita ocorre até 26 de novembro em quatro unidades e traz show do rapper Rincon Sapiência",
-        "link": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538414-sesc-df-abre-festival-consciencia-negra-com-mais-de-20-atracoes.html",
-        "imagem": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/11/13/capturar-consc-negra-68219336.jpg",
-        "fonte": "Correio Braziliense",
-        "data": "2026-11-13"
-      },
-      {
-        "id": "55a9ae71c8292a09905e2bf59ac9541c",
-        "titulo": "Festival de GTA VI em Miami reúne Cardi B, Travis Scott e Metro Boomin no Mana Wynwood em 21 de novembro",
-        "resumo": "A Rockstar Games confirmou a realização do Grand Theft Auto VI: The Festival para 21 de novembro de 2026, no espaço Mana Wynwood, em Miami, nos Estados Unidos, com shows de Cardi B, Travis Scott e outras 11 atrações…",
-        "link": "https://www.mixvale.com.br/2026/11/13/festival-de-gta-vi-em-miami-reune-cardi-b-travis-scott-e-metro-boomin-no-mana-wynwood-em-21-de-novembro/",
-        "imagem": "https://www.mixvale.com.br/wp-content/uploads/2026/11/gta-vi-lucia-e-jason-divulgacao.jpg",
-        "fonte": "Mix Vale",
         "data": "2026-11-13"
       }
     ]
