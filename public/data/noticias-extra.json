@@ -1,7 +1,61 @@
 {
-  "atualizadoEm": "2026-11-15T07:11:42.373Z",
+  "atualizadoEm": "2026-11-15T19:06:25.066Z",
   "categorias": {
     "tecnologia": [
+      {
+        "id": "47d948632a7f14c967d73af59ef6cf97",
+        "titulo": "A receita piauiense para ganhar relevância no mercado de tecnologia",
+        "resumo": "Investimento em educação, digitalização e parcerias internacionais fazem parte da programa desenvolvido pelo estado nordestino. Iniciativas se refletem no crescimento econômico acima da média",
+        "link": "https://www.correiobraziliense.com.br/economia/2026/11/7538775-a-receita-piauiense-para-ganhar-relevancia-no-mercado-de-tecnologia.html",
+        "imagem": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/11/14/675x450/1_img-3224-68224703.jpg",
+        "fonte": "Correio Braziliense",
+        "data": "2026-11-15"
+      },
+      {
+        "id": "e0d762d261264cb9dca25a4206c027fe",
+        "titulo": "6 acessórios para notebook que parecem dispensáveis, até você usar",
+        "resumo": "Os acessórios para notebook podem melhorar bastante a experiência de uso do aparelho, seja durante o transporte, nas horas de estudo ou na organização da mesa de trabalho. E o melhor é que nem sempre é preciso gastar…",
+        "link": "https://www.techtudo.com.br/listas/2026/11/acessorios-para-notebook-que-parecem-dispensaveis-ate-voce-usar-edqualcomprarie.ghtml",
+        "imagem": "https://s2-techtudo.glbimg.com/jJEHcNM9iaMGYn_Cj_rdqQ7p9wI=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/0/W/OmCtI5SQWyXr3yfFLEEQ/21460.jpg",
+        "fonte": "Techtudo",
+        "data": "2026-11-15"
+      },
+      {
+        "id": "c819fddc49d55d825d246ddd7f7b3836",
+        "titulo": "Quase 60% dos brasileiros entre 50 e 60 anos já utilizam inteligência artificial",
+        "resumo": "Pesquisa aponta avanço da tecnologia entre pessoas mais velhas, com destaque para atividades profissionais, pesquisas de preços e organização pessoal O post Quase 60% dos brasileiros entre 50 e 60 anos já utilizam…",
+        "link": "https://www.folhabv.com.br/cotidiano/quase-60-dos-brasileiros-entre-50-e-60-anos-ja-utilizam-inteligencia-artificial/",
+        "imagem": "https://www.folhabv.com.br/wp-content/uploads/2026/01/task_01kdwycsz6fywa6f8y0dj9yd35_1767276730_img_0.webp",
+        "fonte": "Folha Bv",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "57e1c6c8a880898d67721509c9cd95d2",
+        "titulo": "Viajar para o exterior ficou mais fácil: internet e \"Pix\" no celular",
+        "resumo": "Viajar para o exterior já foi sinônimo de duas pequenas aflições. A primeira: desembarcar sem ...",
+        "link": "https://www.terra.com.br/byte/viajar-para-o-exterior-ficou-mais-facil-internet-e-pix-no-celular,5044576a2dff93b2541f2a00fd93016f16fajgzy.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/1629764929-13662000.jpeg",
+        "fonte": "Terra",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "27f8c910f781f0126280fc3c1a004406",
+        "titulo": "Leve de verdade: como escolher um notebook para levar na mochila",
+        "resumo": "Como escolher o notebook ideal para levar na mochila",
+        "link": "https://www.uol.com.br/guia-de-compras/ultimas-noticias/2026/11/14/leve-de-verdade-como-escolher-um-notebook-para-levar-na-mochila.htm",
+        "imagem": "https://imguol.com/c/guia-de-compras/02/2026/11/12/mulher-estudante-com-notebook-laptop-e-mochila-1794510008131_v2_300x225.jpg",
+        "fonte": "Uol",
+        "data": "2026-11-14"
+      },
+      {
+        "id": "aba92addf65b62b6f49d5752c77edd0a",
+        "titulo": "Expoente máximo da Série 3 ‘brasileira’, BMW 320i M Sport esbanja tecnologia e sofisticação",
+        "resumo": "O número 1 da Bavária Produzida desde 1975, a Série 3 é a classe de modelos mais vendida da BMW, representando em torno de 30% das vendas globais da marca bávara – com exceção das motocicletas. Sucessora da Série 2,…",
+        "link": "https://www.gazetasp.com.br/automotor/expoente-maximo-da-serie-3-brasileira-bmw-320i-m-sport-esbanja-tecnologia-e-sofisticacao/",
+        "imagem": "https://cdn.gazetasp.com.br/uploads/2026/11/BMW-divulgacao-1-649x365.jpg",
+        "fonte": "Gazetasp Br",
+        "data": "2026-11-14"
+      },
       {
         "id": "09219b802fa9c61530f18e10aef1ce40",
         "titulo": "STF confirma preservação de dados de celular apreendido sem mandado prévio",
@@ -10,254 +64,200 @@
         "imagem": "https://conjur.com.br/wp-content/uploads/2026/11/side-view-man-using-smartphone-scaled.jpg",
         "fonte": "Consultor Jurídico",
         "data": "2026-11-14"
-      },
-      {
-        "id": "fa459f12fa8574ca7a99a90f05ae33f4",
-        "titulo": "Fórum de Inovação do IBTeC debate nanotecnologia, inteligência artificial e futuro da indústria em Novo Hamburgo",
-        "resumo": "12ª edição do evento será realizada na quarta-feira (18), no Centro de Inovação e Tecnologia, com palestras e painel sobre tendências que podem transformar o setor calçadista",
-        "link": "https://www.abcmais.com/economia/forum-de-inovacao-do-ibtec-debate-nanotecnologia-inteligencia-artificial-e-futuro-da-industria-em-novo-hamburgo/",
-        "imagem": "https://midia.gruposinos.com.br/_midias/jpg/2025/04/01/whatsapp_image_2025_04_01_at_10_45_51-22252623.jpeg",
-        "fonte": "Abc+",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "e5954fca8792e240caba61274f8ab983",
-        "titulo": "Governo Trump culpa tecnologia ultrapassada por pane aérea nos EUA",
-        "resumo": "Falha no controle de tráfego aéreo suspendeu decolagens por mais de quatro horas, afetou 10 mil voos e reacendeu debate sobre modernização do sistema",
-        "link": "https://www.brasil247.com/mundo/governo-trump-culpa-tecnologia-ultrapassada-por-pane-aerea-nos-eua/",
-        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/11/reuters-newsml_LYNXNPEMA42AL_2d218e.jpg",
-        "fonte": "Brasil 247",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "cd116d406557e15ed7565e01680fd34f",
-        "titulo": "Gigante da tecnologia dá folga para 7 mil funcionários jogarem GTA 6",
-        "resumo": "A Logitech, gigante do setor de tecnologia e fabricante de acessórios para computadores e videogames, anunciou um benefício inusitado para cerca de 7 mil funcionários ao redor do mundo: um dia de folga remunerada…",
-        "link": "https://atarde.com.br/mundo/gigante-da-tecnologia-da-folga-para-7-mil-funcionarios-jogarem-gta-6-1409466",
-        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/gigante-da-tecnologia-da-folga-para-7-mil-funciona0140946600202611141236.jpg?xid=7408218",
-        "fonte": "A Tarde",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "6037f09bd96315d0e3ab593d2921ecaf",
-        "titulo": "Amapá capta R$ 17 milhões da Finep para projetos de inteligência artificial e simulação na Margem Equatorial",
-        "resumo": "Titulares da Fieap e da Petrosoft adiantam instalação de centro de tecnologia em Macapá e repatriação de doutor de Cambridge para capacitar mão de obra local",
-        "link": "https://www.diariodoamapa.com.br/cadernos/cidades/amapa-capta-r-17-milhoes-da-finep-para-projetos-de-inteligencia-artificial-e-simulacao-na-margem-equatorial/",
-        "imagem": "https://www.diariodoamapa.com.br/wp-content/uploads/2026/11/finep04-e1794666070971.jpeg",
-        "fonte": "Diário Do Amapá",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "d11979df81f17f2fdb8cfa0a36fdbb2d",
-        "titulo": "3 perfis de usuários que NÃO devem comprar um notebook gamer",
-        "resumo": "Na hora de escolher um novo notebook, o apelo visual e os números únicos das especificações dos notebooks gamers costumam chamar a atenção de muitos consumidores. Telas com alta taxa de atualização, GPUs dedicadas de…",
-        "link": "https://canaltech.com.br/notebook/perfis-que-nao-devem-comprar-notebook-gamer/",
-        "imagem": "https://tl.ctcdn.com.br/QZXbz4ZPzU2XdV8WIjPote6s4u8=/320x180/smart/filters:format(webp):quality(85)/8d2d80aa-02bd-4879-ab5b-a24e30ed03f1.jpg",
-        "fonte": "Canaltech",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "40e8b3a77963cc5c407c88c31461b66b",
-        "titulo": "Fone do Walkman, celular de K-pop e mais: os lançamentos da semana",
-        "resumo": "Fone do Walkman clássico, nova linha de telas dvLED e até um smartphone temático de K-pop: esses foram alguns dos lançamentos da semana que podem ter passado por baixo do seu radar. O TecMundo juntou os principais…",
-        "link": "https://jornal24horas.com.br/?p=72910",
-        "imagem": "https://jornal24horas.com.br/wp-content/uploads/2026/11/ULY5YFKOUNDLZLUCAC34RPAOBE-RFOg6r.jpg",
-        "fonte": "Jornal24horas",
-        "data": "2026-11-14"
       }
     ],
     "filmes": [
       {
-        "id": "5bee9deaef88902f49577776e911560f",
-        "titulo": "Relembre a trajetória do ator Rogério Fróes no teatro e no cinema",
-        "resumo": "Nascido no interior mineiro, artista construiu longa carreira nos palcos e em filmes desde os anos 1960 após estudo em escola dramática.",
-        "link": "https://veja.abril.com.br/cultura/relembre-a-trajetoria-do-ator-rogerio-froes-no-teatro-e-no-cinema/",
-        "imagem": "https://veja.abril.com.br/wp-content/uploads/2026/11/Rogerio-Froes-2.jpg",
-        "fonte": "Veja",
-        "data": "2026-11-14"
+        "id": "3353db5053f29a68d7a9fe53acd0cf46",
+        "titulo": "Filme 'A Arte de Ser Heumann' representa mais do que emociona",
+        "resumo": "Se o cinema tem uma dívida histórica com a representação mais ampla, digna e criativa das pessoas com deficiência, \"A Arte de Ser Heumann\" paga uma parcela generosa dessa fatura. Com qualidades na direção de arte, no…",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/filme-a-arte-de-ser-heumann-representa-mais-do-que-emociona.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/14/17946655606af86c584ef1b_1794665560_3x2_md.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-15"
       },
       {
-        "id": "a3ba4dd3a43d3af4552e2133ec152266",
-        "titulo": "Com Alan Ritchson, filme de ação de 2023 supera 300 dias no Top 10 do streaming e passa produções recentes do ator",
-        "resumo": "Lançado em 2023, o filme reúne nomes conhecidos do cinema de ação, como Jason Statham, Vin Diesel e Alan Ritchson, atualmente um dos atores mais populares",
-        "link": "https://www.nsctotal.com.br/entretenimento/com-alan-ritchson-filme-de-acao-de-2023-supera-300-dias-no-top-10-do-streaming-e-passa-producoes-recentes-do-ator",
-        "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/Alan-Ritchson.jpg",
-        "fonte": "Nsc Total",
-        "data": "2026-11-14"
+        "id": "2d7cf7643cc5a98aa5c5c2d9a475476a",
+        "titulo": "Filme sobre a ativista Judy Heumann revê estereótipos de pessoas com deficiência",
+        "resumo": "Judith Heumann nunca temeu ser inconveniente. É o que demonstra o filme \"A Arte de Ser Heumann\", adaptação do livro sobre a maior defensora de pessoas com deficiência na história dos Estados Unidos. Leia mais…",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/filme-sobre-a-ativista-judy-heumann-reve-estereotipos-de-pessoas-com-deficiencia.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/09/17942317716af1cddb7592f_1794231771_3x2_md.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-15"
       },
       {
-        "id": "1b4500438656c5bad33ba0ef60d008b3",
-        "titulo": "Procurando Nemo da vida real completa 10 anos: Foi assim que um polvo da Nova Zelândia recriou o filme da Pixar",
-        "resumo": "Fala-se muito sobre a arte imitar a vida, mas quando o contrário acontece é preciso bater ...",
-        "link": "https://www.terra.com.br/diversao/entre-telas/procurando-nemo-da-vida-real-completa-10-anos-foi-assim-que-um-polvo-da-nova-zelandia-recriou-o-filme-da-pixar,cdafb5a45b81178616da3e2c8fe426b8pbbtp7xo.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/342389844-b43a43d065fee1a064cbc27c2ff3d56b.jpg",
-        "fonte": "Terra",
-        "data": "2026-11-14"
+        "id": "45b3c538f37a621c059ede1ad1768ab1",
+        "titulo": "Proclamação da República: livros, filmes e séries para viajar pela História do Brasil",
+        "resumo": "Intrigas nos bastidores do poder, disputas políticas, personagens que entraram para a História e um país prestes a mudar de regime. A Proclamação da República, que em 1889 pôs fim à monarquia e inaugurou um novo…",
+        "link": "https://oglobo.globo.com/cultura/noticia/2026/11/15/proclamacao-da-republica-livros-filmes-e-series-para-viajar-pela-historia-do-brasil.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/7Rp5zaLsTckalwTopJcenQIEbj4=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/3/n/ot93tqSgOVOm0O3EUFJg/montagem-1794697977956.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-15"
       },
       {
-        "id": "c96f2aee93ebfc0f1ef15c511a608884",
-        "titulo": "Motoqueiro Fantasma | Diretor de fotografia de novo filme espera trazer “realismo e emoção” ao longa",
-        "resumo": "Diretor de fotografia de novo Motoqueiro Fantasma espera trazer “realismo e emoção” ao longa; veja",
-        "link": "https://www.omelete.com.br/filmes/motoqueiro-fantasma-diretor-fotografia-linus-sandgren-emocao",
-        "imagem": "https://cdn.ome.lt/F_EJ63D2DrJU-QzZD_SeQUQq7qM=/970x0/smart/filters:format(webp)/extras/conteudos/motoqueirofantasma.webp",
-        "fonte": "Omelete",
-        "data": "2026-11-14"
+        "id": "5aed827be976d3923908323811bbd69f",
+        "titulo": "15 melhores filmes de ação da Netflix para assistir em 2026",
+        "resumo": "Os melhores filmes de ação da Netflix reúnem diferentes tipos de histórias, desde operações militares e perseguições até investigações policiais e missões de espionagem. Em 2026, o gênero ganhou força na plataforma,…",
+        "link": "https://www.techtudo.com.br/noticias/2026/11/15-melhores-filmes-de-acao-da-netflix-para-assistir-em-2026-streaming.ghtml",
+        "imagem": "https://s2-techtudo.glbimg.com/G0Rl1K9N6GMm7dbu9If2OQvv32Q=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/X/F/RGtvybTpyj88PP71wmRA/captura-de-tela-2026-11-12-153333.png",
+        "fonte": "Techtudo",
+        "data": "2026-11-15"
       },
       {
-        "id": "e36a34faac8e1826be7124ae652e319b",
-        "titulo": "Adam Driver diz que foi “criminoso” Disney descartar filme de Ben Solo; entenda",
-        "resumo": "Adam Driver diz que foi “criminoso” Disney descartar filme de Ben Solo; entenda",
-        "link": "https://www.omelete.com.br/filmes/adam-driver-criminoso-disney-ben-solo",
-        "imagem": "https://cdn.ome.lt/x-X412yAl1VXv7jIjmi81AyYY8k=/970x0/smart/filters:format(webp)/extras/conteudos/bensolo_4PHpssf.webp",
-        "fonte": "Omelete",
-        "data": "2026-11-14"
+        "id": "9e604b16c28ed507f76c37e7b9739917",
+        "titulo": "Livro 'Os imortais', da brasiliense Paulliny Tort, vai virar filme com produtora de 'Ainda estou aqui'",
+        "resumo": "Paulliny Tort Renato Parada/Divulgação Após vencer o Prêmio Literário Biblioteca Nacional, a escritora brasiliense Paulliny Tort vai estrear no cinema com o romance Os Imortais (2026), publicado pela Editora Fósforo.…",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/15/livro-os-imortais-da-brasiliense-paulliny-tort-vai-virar-filme-com-produtora-de-ainda-estou-aqui.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/awKL8AnsojoP9ve6_juoKJdBZLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/W/o59uGYSnafO0rFU1XjTQ/imagem-g1.png",
+        "fonte": "G1 - O Portal",
+        "data": "2026-11-15"
       },
       {
-        "id": "10e64c4ff5fa3c80eb806505f11b4f89",
-        "titulo": "Após ‘Ebenezer’, Johnny Depp já tem mais um filme engatado cheio de SUSPENSE e mistério",
-        "resumo": "‘Ebenezer e os Fantasmas do Natal‘ deve arrecadar em torno de US$ 20 milhões em seu primeiro final de semana nos EUA, e Johnny Depp já tem mais um filme no gatilho para seu grande retorno à Hollywood. O astro…",
-        "link": "https://cinepop.com.br/apos-ebenezer-johnny-depp-ja-tem-mais-um-filme-engatado-cheio-de-suspense-e-misterio-775950/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/09/sede-de-sangue-johnny-depp.jpg",
-        "fonte": "Cinepop",
-        "data": "2026-11-14"
+        "id": "8b157bd6dc02adf25bc2e54d8ed0dcfb",
+        "titulo": "Temperatura Máxima hoje (15/11/26); filme de domingo na TV Globo",
+        "resumo": "O filme \"Resistência\" será exibido neste domingo, 15 de novembro de 2026, às 12h30 horas, na Temperatura Máxima da TV Globo",
+        "link": "https://www.opovo.com.br/vidaearte/2026/11/15/temperatura-maxima-hoje-15-11-26-filme-de-domingo-na-tv-globo.html",
+        "imagem": "https://www.opovo.com.br/_midias/jpg/2026/11/13/cena_do_filme_resistencia-43118842.jpg",
+        "fonte": "O Povo",
+        "data": "2026-11-15"
       },
       {
-        "id": "13a933783fea824f517f1a077b10a67e",
-        "titulo": "‘The Chosen’: 7ª e ÚLTIMA temporada terá ressurreição de Jesus, estreia nos cinemas e despedida emocionante",
-        "resumo": "‘The Chosen’ está se preparando para encerrar sua história com um dos acontecimentos mais importantes da narrativa bíblica: a ressurreição de Jesus. A sétima e última temporada já terminou suas filmagens e terá…",
-        "link": "https://cinepop.com.br/the-chosen-7a-e-ultima-temporada-tera-ressurreicao-de-jesus-estreia-nos-cinemas-e-despedida-emocionante-776230/",
-        "imagem": "https://cinepop.com.br/wp-content/uploads/2026/11/thechoshen6.jpg",
-        "fonte": "Cinepop",
-        "data": "2026-11-14"
+        "id": "7c2e86b7be1f7d5becf49440ca93ddbf",
+        "titulo": "Supercine hoje (15/11): veja o filme Pense Como Eles Também",
+        "resumo": "Comédia romântica passa na madrugada de sábado O post Supercine hoje (15/11): veja o filme Pense Como Eles Também apareceu primeiro em Jornal DCI.",
+        "link": "https://www.dci.com.br/dci-mais/cinema-e-tv/supercine-hoje-15-11-veja-o-filme-pense-como-eles-tambem/",
+        "imagem": "https://www.dci.com.br/wp-content/uploads/2026/11/filme-Pense-Como-Eles-Tambem.jpg",
+        "fonte": "Dci",
+        "data": "2026-11-15"
       }
     ],
     "series": [
       {
-        "id": "7f3991e52347eca74b764acb6cfb64fc",
-        "titulo": "Dira Paes pede desculpas após polêmica com novela. Entenda!",
-        "resumo": "Dira Paes se retratou após críticas a declarações sobre o sertão em Lá na Minha Terra. Entenda a polêmica envolvendo a novela da Globo. O post Dira Paes pede desculpas após polêmica com novela. Entenda! apareceu…",
-        "link": "https://ofuxico.com.br/polemica/dira-paes-pede-desculpas-apos-polemica-com-novela-entenda/",
-        "imagem": "https://ofuxico.com.br/wp-content/uploads/2026/11/dira-paes-1.jpg",
-        "fonte": "Ofuxico",
-        "data": "2026-11-14"
+        "id": "ed79e8d855c27e857f56d4dca7a28a2b",
+        "titulo": "Heloisa Jorge compara personagens de séries e revela o que não levaria para a vida pessoal",
+        "resumo": "Heloisa Jorge vive personagens que têm o trabalho como parte importante de suas trajetórias em duas produções recentes do streaming. Em \"Dom de iludir\", série da Netflix, ela interpreta Elaine, uma investigadora que…",
+        "link": "https://oglobo.globo.com/ela/noticia/2026/11/15/heloisa-jorge-compara-personagens-de-series-e-revela-o-que-nao-levaria-para-a-vida-pessoal.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/gAuN0xVL2zO8h8e5YdJ2NWqtA4w=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/1/o/GWZIN9SlWsDZBkHmvMBA/116897136.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-15"
       },
       {
-        "id": "55ce88f1e61c3723c0ca488c397e2643",
-        "titulo": "Harry Potter | Série da HBO usou vegetais gigantes reais durante as gravações",
-        "resumo": "Harry Potter | Série da HBO usou vegetais gigantes reais durante as gravações; entenda",
-        "link": "https://www.omelete.com.br/series-tv/harry-potter-hbo-vegetais-gigantes-reais-producao",
-        "imagem": "https://cdn.ome.lt/UMi3706RaDp79UsAlyJl5AYUjqk=/970x0/smart/filters:format(webp)/extras/conteudos/harrypotter_f8Vdfsy.webp",
-        "fonte": "Omelete",
-        "data": "2026-11-14"
+        "id": "188973916d44d6c45cac68e6d6f61f10",
+        "titulo": "Obsessão chega ao Prime Video neste sábado com um dia de atraso",
+        "resumo": "O filme de terror Obsessão, escrito e dirigido por Curry Barker, chega à assinatura do Prime Video no Brasil no sábado, 14 de novembro de 2026. A arrecadação acumulada do longa nas bilheterias é de cerca de US$ 524…",
+        "link": "https://www.mixvale.com.br/2026/11/14/obsessao-chega-ao-prime-video-neste-sabado-com-um-dia-de-atraso/",
+        "imagem": "https://www.mixvale.com.br/wp-content/uploads/2026/11/mixvale-imagem-padrao-1200x675-1.jpg",
+        "fonte": "Mix Vale",
+        "data": "2026-11-15"
       },
       {
-        "id": "56f80d6a1da47af97e0946d793594b4d",
-        "titulo": "Criciúma x Novorizontino ao vivo: link para assistir com imagens ao jogo da Série B do Brasileiro",
-        "resumo": "Criciúma x Novorizontino jogarão na tarde deste sábado (14), às 16h30min (de Brasília), no Estádio Heriberto Hulse, em Criciúma (SC), válido pela 38ª",
-        "link": "https://www.nsctotal.com.br/esportes/criciuma-x-novorizontino-ao-vivo-link-para-assistir-com-imagens-ao-jogo-da-serie-b-do-brasileiro",
-        "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/Criciuma-x-Novorizontino-ao-vivo_-link-para-assistir-com-imagens-ao-jogo-da-Serie-B-do-Brasileiro.jpg",
-        "fonte": "Nsc Total",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "25a2bb60a0cd20d24d9b3b0d7e4d4010",
-        "titulo": "Atlético-GO x Cuiabá ao vivo: link para assistir com imagens ao jogo da Série B do Brasileiro",
-        "resumo": "Atlético-GO x Cuiabá jogarão na tarde deste sábado (14), às 16h30min (de Brasília), no Estádio Antônio Accioly, em Goiânia (GO), válido pela 38ª rodada da",
-        "link": "https://www.nsctotal.com.br/esportes/atletico-go-x-cuiaba-ao-vivo-link-para-assistir-com-imagens-ao-jogo-da-serie-b-do-brasileiro",
-        "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/Atletico-GO-x-Cuiaba-ao-vivo_-link-para-assistir-com-imagens-ao-jogo-da-Serie-B-do-Brasileiro.jpg",
-        "fonte": "Nsc Total",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "098f98b57e31a4df330805f6a531eceb",
-        "titulo": "Gary Oldman diz que nem ele sabe como acabará a série 'Slow Horses': 'Tudo em absoluto sigilo'",
-        "resumo": "Gary Oldman, 68, está acostumado a mudar sua aparência física por causa de um personagem. Foi assim quando ele viveu Winston Churchill (1874-1965) em \"O Destino de uma Nação\" (2017), papel que exigiu o uso de…",
-        "link": "https://redir.folha.com.br/redir/online/tudo/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/11/gary-oldman-diz-que-nem-ele-sabe-como-acabara-a-serie-slow-horses-tudo-em-absoluto-sigilo.shtml",
-        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/12/17945195446af631f847cc7_1794519544_3x2_md.jpg",
+        "id": "1fbca32b61f8408025c9567669f3da49",
+        "titulo": "'Novela é máquina, ou você se apaixona ou vai embora', diz Isabel Teixeira",
+        "resumo": "[RESUMO] O tempo parece correr de modo diferente para Isabel Teixeira. A atriz estreou nas novelas em 2019, com 46 anos, após sólida carreira nos palcos. Três anos depois vieram a consagração popular e os prêmios da…",
+        "link": "https://redir.folha.com.br/redir/online/televisao/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/11/novela-e-maquina-ou-voce-se-apaixona-ou-vai-embora-diz-isabel-teixeira.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/13/17946187436af7b577621f4_1794618743_3x2_md.jpg",
         "fonte": "Folha",
+        "data": "2026-11-15"
+      },
+      {
+        "id": "f02ff6ca4824e5990e3db941f886c053",
+        "titulo": "Harry Potter e a Pedra Filosofal | Nova cena da série da HBO mostra primeiro jantar de Harry em Hogwarts",
+        "resumo": "Nova cena de Harry Potter e a Pedra Filosofal da HBO mostra primeiro jantar de Harry em Hogwarts; confira",
+        "link": "https://www.omelete.com.br/series-tv/harry-potter-e-a-pedra-filosofal-nova-cena-hbo-jantar-hogwarts",
+        "imagem": "https://cdn.ome.lt/Y25H0fugNLFYEMJY_pzSrI_jzWo=/970x0/smart/filters:format(webp)/extras/conteudos/hp.webp",
+        "fonte": "Omelete",
+        "data": "2026-11-15"
+      },
+      {
+        "id": "a431a8afdb2c1586d78420e6c6f1c2aa",
+        "titulo": "Resumo Quem Ama Cuida: os capítulos da novela - 14 a 21/11",
+        "resumo": "Quem Ama Cuida é a atual novela das 9 da Globo . A trama é exibida após o Jornal Nacional e ...",
+        "link": "https://www.terra.com.br/diversao/tv/novelas/resumo-quem-ama-cuida-os-capitulos-da-novela-14-a-2111,401c6cce6ee3810757e7dcc18b6048badaci1qiv.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/1196761570-2e34f808quem-ama-cuida-leticia-colin.jpg",
+        "fonte": "Terra",
         "data": "2026-11-14"
       },
       {
-        "id": "60ffeb1dc33cde4f38f9c717991d7874",
-        "titulo": "Gabriela Medvedovsky vive novo par romântico com Dandara Queiroz em série do Disney+",
-        "resumo": "A atriz Gabriela Medvedovsky se prepara para estrear em um novo romance no streaming. Após viver par com Alanis Guillen na última novela das nove, “Três Graças”, ela assume par romântico com Dandara Queiroz. A nova…",
-        "link": "https://www.gazetasp.com.br/entretenimento/gabriela-medvedovsky-vive-novo-par-romantico-com-dandara-queiroz-em-serie-do-disney/",
-        "imagem": "https://cdn.gazetasp.com.br/uploads/2026/11/gabriela-Medvedovsky-649x365.jpg",
-        "fonte": "Gazetasp Br",
+        "id": "b1000847224f606d6a02fada5815b43b",
+        "titulo": "Resumo Por Você: confira os capítulos da novela - 14 a 21/11",
+        "resumo": "Por Você é a atual novela das 7 da Globo . A produção vai ao ar após o telejornal local e conta ...",
+        "link": "https://www.terra.com.br/diversao/tv/novelas/resumo-por-voce-confira-os-capitulos-da-novela-14-a-2111,fdad589fa54fb94197087b45a303b7dfp5rwr13j.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/14/1239390491-25cd58a1por-voce.jpg",
+        "fonte": "Terra",
         "data": "2026-11-14"
       },
       {
-        "id": "78767365c127b94245f0f32ba5ae81e9",
-        "titulo": "6 séries da Netflix muito aguardadas que estreiam ainda em 2026",
-        "resumo": "As decorações de Natal nas ruas podem até indicar que 2026 está chegando ao fim, mas a Netflix ainda não fechou as portas. A gigante do streaming tem vários lançamentos esperados programados para desembarcarem no…",
-        "link": "https://canaltech.com.br/entretenimento/netflix-series-muito-aguardadas-que-estreiam-ainda-em-2026/",
-        "imagem": "https://tl.ctcdn.com.br/Wq2E72nO7ZitHITp3eV_lQ1lstE=/320x180/smart/filters:format(webp):quality(85)/1e378bad-705d-429c-8d5a-9c6debe48a4f.png",
-        "fonte": "Canaltech",
+        "id": "15ba344a67b599e0379e2cff36e6a26f",
+        "titulo": "Série B 2026: campeão leva troféu e 50 medalhas, mas não recebe prêmio em dinheiro",
+        "resumo": "Cada uma das 20 equipes garante R$ 14,9 milhões líquidos em cotas de transmissão, aumento de até 14,6% sobre 2025 O post Série B 2026: campeão leva troféu e 50 medalhas, mas não recebe prêmio em dinheiro apareceu…",
+        "link": "https://diariodopara.com.br/bola/premiacao-serie-b-2026-quanto-cada-clube-recebe/",
+        "imagem": "https://uploads.diariodopara.com.br/imagens/2026/11/convertida_1320x768_910786574_2072951696719928_875124162275972051_n.jpg",
+        "fonte": "Diário Do Pará",
         "data": "2026-11-14"
       }
     ],
     "shows": [
       {
-        "id": "5a18d71bec913d79fdf4d7c63fdf5ce8",
-        "titulo": "'Guerreiras do K-pop' anuncia turnê mundial, com América Latina no roteiro",
-        "resumo": "Fenômeno mundial da Netflix, “Guerreiras do K-pop” vai sair das telas para ganhar os palcos. A plataforma e a produtora AEG Presents anunciaram nesta sexta-feira (13) a Golden World Tour, turnê mundial inspirada na…",
-        "link": "https://oglobo.globo.com/cultura/noticia/2026/11/14/guerreiras-do-k-pop-anuncia-turne-mundial-com-america-latina-no-roteiro.ghtml",
-        "imagem": "https://s2-oglobo.glbimg.com/nDZSYig8E5kjaTI2oUmVtrqKfs8=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/K/2/JdFFA7S9aOPTfJR3JosQ/aaaaqddbxpmthbxty71y4twjezkohlzh8cn6ubjexyxvrpqrj0uhrejz2eo20bort-jraxvctu09qcj3uawbpg6bhr8cv26i91vxet6hadoweykcnxm8xj3zk-mkoflo737awer-ng1ioidhby9z9g0xliwfrae.jpg",
+        "id": "84c62602a768b93cad4493412d00ae94",
+        "titulo": "De Madonna a Ana Castela: governadores eleitos defendem veto a shows com verba pública",
+        "resumo": "Os pouco mais de quatro mil habitantes de Santa Bárbara do Tugúrio, em Minas Gerais, já preparavam o chapéu de caubói para assistir ao show da cantora Ana Castela quando, em setembro, uma decisão judicial frustrou os…",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/11/15/de-madonna-a-ana-castela-governadores-eleitos-defendem-veto-a-shows-com-verba-publica.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/02r4-MufNxA1yQX4tvFYiEYd15Y=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/R/G/P5KNkATdSlGHMPWLzDHA/montagem-1794691476249.jpg",
         "fonte": "O Globo",
+        "data": "2026-11-15"
+      },
+      {
+        "id": "5449944629fec130a13f49ad507bb639",
+        "titulo": "Marisa Monte rege Nubank Parque lotado em último show da excelente turnê ‘Phonica’",
+        "resumo": "Cantora se apresentou neste sábado, 14, com clássicos de seu repertório em espetáculo que já figura com um dos melhores de sua carreira",
+        "link": "https://www.estadao.com.br/cultura/musica/marisa-monte-rege-nubank-parque-lotado-em-ultimo-show-da-excelente-turne-phonica/",
+        "imagem": "https://www.estadao.com.br/resizer/v2/KNCJC2DR3NA37EY33XBAGXZL4I.jpg?quality=80&auth=92ebac520a59eb11bcf8fc8a45d4240a978f1cede67f78daff7f48c4e45a5bd0&width=1200&height=1200&smart=true",
+        "fonte": "Estadao Br",
+        "data": "2026-11-15"
+      },
+      {
+        "id": "684bce4e50aef7b18e7023a35161bcef",
+        "titulo": "Simoninha, Alex Atala e Arthur Paek sobem ao palco do Folha Gourmet Festival neste domingo",
+        "resumo": "O cantor Wilson Simoninha, o chef Alex Atala e o influenciador Arthur Paek passam pelo palco do Folha Gourmet Festival neste domingo (15), no parque Villa-Lobos. Leia mais (11/14/2026 - 23h00)",
+        "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/simoninha-alex-atala-e-arthur-paek-sobem-ao-palco-do-folha-gourmet-festival-neste-domingo.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/11/17944336956af4e29fa9645_1794433695_3x2_rt.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-15"
+      },
+      {
+        "id": "03f7bdf372def01f2c40d3b97dd955d4",
+        "titulo": "Com hits de Tim Maia e Rita Lee, Paula Lima faz público dançar no Folha Gourmet Festival",
+        "resumo": "Samba, soul e clássicos da música brasileira embalaram a apresentação de Paula Lima no Folha Gourmet Festival, na noite deste sábado (14), no parque Villa-Lobos. A artista reuniu diferentes referências e fases de sua…",
+        "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://guia.folha.uol.com.br/shows/2026/11/com-hits-de-tim-maia-e-rita-lee-paula-lima-faz-publico-dancar-no-folha-gourmet-festival.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/14/17947036936af9014d6d566_1794703693_3x2_rt.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-15"
+      },
+      {
+        "id": "805feaf9e5aa7f96a30bd53965ddb7bb",
+        "titulo": "Simple Plan e Hoobastank fazem shows intimistas em avião durante caos aéreo",
+        "resumo": "Os roqueiros do The Used e a canadense Lolo também aproveitaram o tempo livre para cantar os sucessos enquanto a aeronave não podia pousar nos EUA",
+        "link": "https://www.cnnbrasil.com.br/pop/musica/simple-plan-e-hoobastank-fazem-shows-intimistas-em-aviao-durante-caos-aereo/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/simple-plain-hoobastank-the-used-lolo-show-aviao-caos-aereo-eua.jpg?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
         "data": "2026-11-14"
       },
       {
-        "id": "a8a7dd9b0028caf5fb420f8e26f935f5",
-        "titulo": "Biquíni Cavadão abre Festival Rock na Estrada em Ipiabas",
-        "resumo": "Ipiabas, Barra do Piraí — O show da banda Biquíni marcou a abertura do festival Rock na Estrada, na noite desta sexta-feira (13), em Ipiabas, distrito de Barra do Piraí.… O post Biquíni Cavadão abre Festival Rock na…",
-        "link": "https://diariodovale.com.br/cultura/biquini-cavadao-abre-festival-rock-na-estrada-em-ipiabas/",
-        "imagem": "https://diariodovale.com.br/wp-content/uploads/2026/11/bquini-cavadao-ipiabas.jpeg",
-        "fonte": "Diário Do Vale",
+        "id": "4ced4f094e21e72773018cec67d0d0f2",
+        "titulo": "Festival de Bandas e Fanfarras leva diferentes ritmos à Praça dos Brinquedos, em São Leopoldo",
+        "resumo": "Evento contou com 25 grupos, entre representantes de escolas municipais, estaduais e instituições da cidade",
+        "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/vale-do-rio-dos-sinos/sao-leopoldo/festival-de-bandas-e-fanfarras-leva-diferentes-ritmos-a-praca-dos-brinquedos-em-sao-leopoldo/",
+        "imagem": "https://midia.gruposinos.com.br/_midias/jpg/2026/11/14/whatsapp_image_2026_11_14_at_14_51_09-22966437.jpeg",
+        "fonte": "Abc+",
         "data": "2026-11-14"
       },
       {
-        "id": "bc070c5851c63a567e9f4a0a8b9575a8",
-        "titulo": "Caos aéreo: Sem poder pousar, Simple Plan e bandas de rock fazem shows intimistas para passageiros; assista",
-        "resumo": "A suspensão das decolagens nos Estados Unidos na última sexta-feira (13) provocou transtornos e mais de 12 mil voos cancelados no país. Mas teve passageiro que nem ficou tão contrariado assim com a paralisação.…",
-        "link": "https://oglobo.globo.com/cultura/musica/noticia/2026/11/14/caos-aereo-sem-poder-pousar-simple-plan-e-bandas-de-rock-fazem-show-intimistas-para-passageiros-assista.ghtml",
-        "imagem": "https://s2-oglobo.glbimg.com/5gG6nP_nhg2fIzz8uYr78cXgVJU=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/i/4/MKu9evSpSiBpkQdw8wXw/arte-6-.png",
-        "fonte": "O Globo",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "22739a68b700e4cb3aa03944a0250ef0",
-        "titulo": "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado",
-        "resumo": "Celebrando 25 anos de trajetória, a banda formada por Marcelinho da Lua e Marcio Menescal apresenta o espetáculo Uma Batida Diferente, em que revisita clássicos da bossa nova, do samba e da MPB, combinando harmonias…",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/tv-brasil-apresenta-show-do-bossacucanova-no-cena-musical-deste-sabado",
-        "imagem": "https://imagens.ebc.com.br/iKFgVoCxkR-d9V3fZBnzmpzNwV0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/13/copia-de-foto-andre-telles-24-set-2026-bndes-5a-quintas-no-bndes-bosacucanova-7177.jpg?itok=eWNlHhRY",
-        "fonte": "Agenciabrasil Ebc Br",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "17d04420d7833a70d45f3b95d868038f",
-        "titulo": "O show de rock que levou Paul Stanley a criar um truque curioso no Kiss",
-        "resumo": "Paul ficou impressionado com a apresentação que havia assistido e acabou encontrando uma solução barata para tornar o palco do Kiss mais grandioso.",
-        "link": "https://whiplash.net/materias/news_665/384879-kiss.html",
-        "imagem": "https://whiplash.net/imagens_promo_22/kiss_paul_stanley_midiorama2.jpg",
-        "fonte": "Whiplash",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "4fa92134171528721a4ea1615019564d",
-        "titulo": "Nicko McBrain relembra primeiro show do Iron Maiden no Brasil; \"Foi espetacular\"",
-        "resumo": "Já era bem tarde quando entramos no palco; lembro-me de estar atrás da bateria e ver uma onda de mãos batendo palmas na escuridão.",
-        "link": "https://whiplash.net/materias/news_665/384877-ironmaiden.html",
-        "imagem": "https://whiplash.net/imagens_promo_22/ironmaiden_promo_fear_of_the_dark.jpg",
-        "fonte": "Whiplash",
-        "data": "2026-11-14"
-      },
-      {
-        "id": "3d021773fbdd9dbdac899e130f30eb4c",
-        "titulo": "Em São Paulo, festival Melanina Acentuada tem atrações até domingo",
-        "resumo": "Neste sábado à noite, será apresentada a montagem de Black Machine",
-        "link": "https://www.dgabc.com.br/Noticia/4368835/em-sao-paulo-festival-melanina-acentuada-tem-atracoes-ate-domingo",
-        "imagem": "https://www.dgabc.com.br/Imagens/Home/Index/20261114134549.jpg?altura=100",
-        "fonte": "Diário Do Grande Abc",
+        "id": "269a094ff5c2c79465205629993618c5",
+        "titulo": "Os Tincoãs ganham homenagem musical com shows e oficina em Salvador",
+        "resumo": "A musicalidade dos tambores, a força das harmonias vocais e a espiritualidade que marcam a obra dos Tincoãs ganham uma nova interpretação no espetáculo Pra Gira Girar: uma celebração a Os Tincoãs, que chega à CAIXA…",
+        "link": "https://atarde.com.br/musica/os-tincoas-ganham-homenagem-musical-com-shows-e-oficina-em-salvador-1409412",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/os-tincoas-ganham-homenagem-musical-com-shows-e-of0140941200202611132008.jpg?xid=7406722",
+        "fonte": "A Tarde",
         "data": "2026-11-14"
       }
     ]
