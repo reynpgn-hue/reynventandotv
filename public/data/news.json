@@ -1,5 +1,47 @@
 [
   {
+    "id": "1958724",
+    "titulo": "O GTA 6 é como as Olimpíadas – \"um momento cultural raro\" com efeitos dominó gigantescos",
+    "resumo": "Depois de anos de desenvolvimento, vários atrasos e o que só pode ser considerado um dos maiores orçamentos de produção de todos os tempos, o Grand Theft Auto 6 da Rockstar será lançado no dia 19 de novembro. O jogo está prestes a \"ofuscar o sol\",",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "GameSpot",
+    "data": "2026-11-15",
+    "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17_338c4e.jpg?w=300",
+    "destaque": true,
+    "sigla": "GL",
+    "tema": "tema-f"
+  },
+  {
+    "id": "899d8a3d-5f2d-44f3-8376-ceee0d50e720",
+    "titulo": "As melhores ofertas de hoje: notebook gamer Asus TUF, Saros, promoção de Blu-ray 4K e muito mais",
+    "resumo": "",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-14",
+    "link": "https://www.ign.com/articles/best-deals-for-november-14-2026",
+    "imagem": "https://assets-prd.ignimgs.com/2026/04/29/saros5-1777427936279.jpg",
+    "destaque": false,
+    "sigla": "TB",
+    "tema": "tema-a"
+  },
+  {
+    "id": "d9bf4500-4286-4284-a34a-81b403d3ae96",
+    "titulo": "Vazamento do GTA 6 aparentemente revela a lista completa de faixas do álbum oficial dias antes do lançamento",
+    "resumo": "A lista completa de faixas de Grand Theft Auto VI: The Album parece ter vazado online poucos dias antes do lançamento do GTA 6.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-14",
+    "link": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/10/gta-6-pre-load-art-1794330386826.jpg",
+    "destaque": false,
+    "sigla": "GL",
+    "tema": "tema-b"
+  },
+  {
     "id": "14d14c4c-3a14-4478-8a0d-6be3bbf4bdc4",
     "titulo": "League of Legends: New Dawn é revelado com trailer de lançamento, e a Riot anuncia uma grande reformulação para 2027",
     "resumo": "Nas finais do Campeonato Mundial de League of Legends de 2026, a Riot Games revelou oficialmente o League of Legends: New Dawn. A atualização em grande escala está programada para 2027 e trará mudanças ao cliente do jogo, ao Summoner's Rift",
@@ -9,14 +51,14 @@
     "data": "2026-11-14",
     "link": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
     "imagem": "https://assets-prd.ignimgs.com/2026/11/14/still003-1794673734402.png",
-    "destaque": true,
+    "destaque": false,
     "sigla": "LL",
-    "tema": "tema-a"
+    "tema": "tema-c"
   },
   {
     "id": "82581172-47da-48c7-a955-12fe45919eaf",
     "titulo": "A estrela de Resident Evil Requiem, Grace Ashcroft, espera ter \"um longo caminho a percorrer\", mesmo que ela \"nunca seja uma personagem como Leon\"",
-    "resumo": "A atriz Angela Sant'Albano, que interpreta Grace Ashcroft, não acha que sua heroína de Resident Evil Requiem \"será um personagem como Leon\", mas ainda espera que \"haja um longo caminho a percorrer com ela\".",
+    "resumo": "A atriz Angela Sant'Albano, que interpreta Grace Ashcroft, não acha que sua heroína de Resident Evil Requiem \"jamais será um personagem como Leon\", mas ainda espera que \"haja um longo caminho a percorrer com ela\".",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
@@ -25,7 +67,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/03/03/puzzle-site-1772543174828.png",
     "destaque": false,
     "sigla": "RE",
-    "tema": "tema-b"
+    "tema": "tema-d"
   },
   {
     "id": "61783980-7232-44d6-b010-2ffce0fe3c55",
@@ -39,39 +81,11 @@
     "imagem": "https://assets-prd.ignimgs.com/2023/12/13/kylo-1702468119008.jpg",
     "destaque": false,
     "sigla": "'F",
-    "tema": "tema-c"
-  },
-  {
-    "id": "be642d2b-7091-4480-98b4-39425a115f11",
-    "titulo": "Chris Pratt diz que \"adoraria\" que James Gunn voltasse para Guardiões da Galáxia Vol. 4 depois de deixar a DC",
-    "resumo": "Chris Pratt disse que adoraria se reunir com James Gunn para Guardiões da Galáxia Vol. 4 depois que o diretor anunciou abruptamente que deixaria a DC Studios no início desta semana.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-14",
-    "link": "https://www.ign.com/articles/chris-pratt-says-he-would-love-james-gunn-to-return-for-guardians-of-the-galaxy-vol-4-after-leaving-dc",
-    "imagem": "https://assets-prd.ignimgs.com/2023/04/17/guardiansofthegalaxy3-1681725232159.jpg",
-    "destaque": false,
-    "sigla": "CP",
-    "tema": "tema-d"
-  },
-  {
-    "id": "eb053fec-4bb2-4795-9f5a-12850ee3f87a",
-    "titulo": "O GTA 6 fará algo que a franquia nunca fez antes: incentivar a empatia",
-    "resumo": "A Rockstar confirmou que o GTA 6 terá algo que a franquia nunca teve antes: mecanismos que incentivam a empatia.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-14",
-    "link": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/05/jason-and-lucia-14-1793891731334.jpg",
-    "destaque": false,
-    "sigla": "GW",
     "tema": "tema-e"
   },
   {
     "id": "1956366",
-    "titulo": "Casualties: Unknown é um jogo de sobrevivência brutal com uma avaliação de 97% que fará você perceber sua mortalidade, e por um preço baixo também",
+    "titulo": "Casualties: Unknown é um jogo de sobrevivência brutal com uma avaliação de 97% que fará você perceber sua própria mortalidade, e por um preço baixo também",
     "resumo": "Não há luz. O ônibus que me trouxe para as profundezas tem apenas um chuveiro, e a escuridão engole tudo ao meu redor. Cada passo é tão doloroso quanto o anterior, como andar descalço sobre peças de LEGO, enquanto eu",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
@@ -81,12 +95,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-casualties-unknown-deal.jpg?w=300",
     "destaque": false,
     "sigla": "CU",
-    "tema": "tema-f"
+    "tema": "tema-a"
   },
   {
     "id": "1958823",
     "titulo": "Adoro como a música faz Soulframe parecer um conto popular",
-    "resumo": "O Soulframe ainda não foi lançado, mas seus Prelúdios finalmente foram abertos ao público em 6 de novembro, dando-me a minha primeira chance de testá-lo. Eu esperava \"Warframe, mas em um universo de fantasia\" e, para ser justo, grande parte do Soulframe é assim.",
+    "resumo": "O Soulframe ainda não foi lançado, mas seus Prelúdios finalmente foram abertos ao público em 6 de novembro, dando-me a minha primeira chance de testá-lo. Eu esperava \"Warframe, mas no estilo fantasia\" e, para ser justo, grande parte do Soulframe é assim.",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -95,7 +109,7 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-131948.png?w=300",
     "destaque": false,
     "sigla": "LH",
-    "tema": "tema-a"
+    "tema": "tema-b"
   },
   {
     "id": "1958814",
@@ -109,12 +123,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6-1.webp?w=300",
     "destaque": false,
     "sigla": "“G",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "1958800",
     "titulo": "A Take-Two, proprietária do GTA 6, não tem interesse em se vender depois que a EA se tornou uma empresa privada por US$ 55 bilhões",
-    "resumo": "Recentemente, a gigante dos jogos Electronic Arts foi privatizada em uma venda de US$ 55 bilhões para um consórcio de investidores liderado pelo Fundo de Investimento Público da Arábia Saudita. A Take-Two, proprietária do GTA 6, poderia ser a próxima grande empresa a ser adquirida?",
+    "resumo": "Recentemente, a gigante dos jogos Electronic Arts foi privatizada em uma venda de US$ 55 bilhões para um consórcio de investidores liderado pelo Fundo de Investimento Público da Arábia Saudita. A Take-Two, proprietária do GTA 6, pode ser a próxima grande empresa a ser adquirida?",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -123,20 +137,6 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2-1.jpg?w=300",
     "destaque": false,
     "sigla": "GO",
-    "tema": "tema-c"
-  },
-  {
-    "id": "1958801",
-    "titulo": "Mais 23 coisas que você AINDA não sabia sobre o remake de Ocarina of Time",
-    "resumo": "No remake de Ocarina of Time, há uma grande quantidade de segredos antigos e novos, e descobrimos muitos deles, incluindo recursos de som ocultos bem na palma da sua mão, algumas falhas absolutamente incríveis e algumas referências.",
-    "categoria": "atualizacao",
-    "categoriaLabel": "Atualização",
-    "fonte": "GameSpot",
-    "data": "2026-11-13",
-    "link": "https://www.gamespot.com/videos/23-more-things-you-still-didnt-know-in-ocarina-of-time-remake/",
-    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/OOTRXThings2_ThumbSITE.jpg?w=300",
-    "destaque": false,
-    "sigla": "MT",
     "tema": "tema-d"
   }
 ]
