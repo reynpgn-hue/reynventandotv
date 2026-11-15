@@ -1,7 +1,35 @@
 [
   {
+    "id": "95d8666e-de75-4c0b-9786-b153ae305955",
+    "titulo": "Xbox aos 25 anos: minhas memórias de toda a (incrível) história do Xbox",
+    "resumo": "Tive a sorte de acompanhar de perto a maior parte dos 25 anos do Xbox, cobrindo os altos e baixos da incursão da Microsoft na sala de estar. Tem sido uma grande jornada desde 15 de novembro de 2001, e eu queria",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-15",
+    "link": "https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/12/xbox-25-blogroll-1794443667177.jpg",
+    "destaque": true,
+    "sigla": "X2",
+    "tema": "tema-a"
+  },
+  {
+    "id": "1958691",
+    "titulo": "Eu amava meus Xbox 360s – todos os quatro",
+    "resumo": "O Xbox está comemorando seu 25º aniversário hoje, 15 de novembro de 2026. A seguir, relembramos o excelente segundo console da Microsoft, infame por seus bugs.\nEntre meados e o final dos anos 2000, o Xbox 360 reinou supremo. Ele...",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "GameSpot",
+    "data": "2026-11-15",
+    "link": "https://www.gamespot.com/articles/i-loved-my-xbox-360s-all-four-of-them/",
+    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Xbox-360.jpg?w=300",
+    "destaque": false,
+    "sigla": "LX",
+    "tema": "tema-f"
+  },
+  {
     "id": "1958724",
-    "titulo": "O GTA 6 é como as Olimpíadas – \"um momento cultural raro\" com efeitos dominó gigantescos",
+    "titulo": "O GTA 6 é como as Olimpíadas – \"um momento cultural raro\" com enormes efeitos em cadeia",
     "resumo": "Depois de anos de desenvolvimento, vários atrasos e o que só pode ser considerado um dos maiores orçamentos de produção de todos os tempos, o Grand Theft Auto 6 da Rockstar será lançado no dia 19 de novembro. O jogo está prestes a \"ofuscar o sol\",",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
@@ -9,9 +37,9 @@
     "data": "2026-11-15",
     "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17_338c4e.jpg?w=300",
-    "destaque": true,
+    "destaque": false,
     "sigla": "GL",
-    "tema": "tema-f"
+    "tema": "tema-a"
   },
   {
     "id": "899d8a3d-5f2d-44f3-8376-ceee0d50e720",
@@ -25,7 +53,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/04/29/saros5-1777427936279.jpg",
     "destaque": false,
     "sigla": "TB",
-    "tema": "tema-a"
+    "tema": "tema-b"
   },
   {
     "id": "d9bf4500-4286-4284-a34a-81b403d3ae96",
@@ -39,7 +67,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/10/gta-6-pre-load-art-1794330386826.jpg",
     "destaque": false,
     "sigla": "GL",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "14d14c4c-3a14-4478-8a0d-6be3bbf4bdc4",
@@ -53,12 +81,12 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/14/still003-1794673734402.png",
     "destaque": false,
     "sigla": "LL",
-    "tema": "tema-c"
+    "tema": "tema-d"
   },
   {
     "id": "82581172-47da-48c7-a955-12fe45919eaf",
     "titulo": "A estrela de Resident Evil Requiem, Grace Ashcroft, espera ter \"um longo caminho a percorrer\", mesmo que ela \"nunca seja uma personagem como Leon\"",
-    "resumo": "A atriz Angela Sant'Albano, que interpreta Grace Ashcroft, não acha que sua heroína de Resident Evil Requiem \"jamais será um personagem como Leon\", mas ainda espera que \"haja um longo caminho a percorrer com ela\".",
+    "resumo": "A atriz Angela Sant'Albano, que interpreta Grace Ashcroft, não acha que sua heroína de Resident Evil Requiem \"será, alguma vez, um personagem como Leon\", mas ainda espera que \"haja um longo caminho a percorrer com ela\".",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
@@ -67,25 +95,11 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/03/03/puzzle-site-1772543174828.png",
     "destaque": false,
     "sigla": "RE",
-    "tema": "tema-d"
-  },
-  {
-    "id": "61783980-7232-44d6-b010-2ffce0fe3c55",
-    "titulo": "\"Pareceu criminoso\" — Adam Driver ainda não consegue acreditar em como a Disney lidou com o cancelamento do filme de Star Wars \"A Caça a Ben Solo\"",
-    "resumo": "Adam Driver ainda não consegue acreditar que a Disney cancelou seu filme de Star Wars, A Caça a Ben Solo, e agora chegou ao ponto de dizer que a decisão \"pareceu criminosa\".",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-14",
-    "link": "https://www.ign.com/articles/it-felt-criminal-adam-driver-still-cant-believe-how-disney-handled-canceled-star-wars-movie-the-hunt-for-ben-solo",
-    "imagem": "https://assets-prd.ignimgs.com/2023/12/13/kylo-1702468119008.jpg",
-    "destaque": false,
-    "sigla": "'F",
     "tema": "tema-e"
   },
   {
     "id": "1956366",
-    "titulo": "Casualties: Unknown é um jogo de sobrevivência brutal com uma avaliação de 97% que fará você perceber sua própria mortalidade, e por um preço baixo também",
+    "titulo": "Casualties: Unknown é um jogo de sobrevivência brutal com uma avaliação de 97% que fará você perceber sua mortalidade e, além disso, por um preço baixo",
     "resumo": "Não há luz. O ônibus que me trouxe para as profundezas tem apenas um chuveiro, e a escuridão engole tudo ao meu redor. Cada passo é tão doloroso quanto o anterior, como andar descalço sobre peças de LEGO, enquanto eu",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
@@ -95,7 +109,7 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/fanatical-casualties-unknown-deal.jpg?w=300",
     "destaque": false,
     "sigla": "CU",
-    "tema": "tema-a"
+    "tema": "tema-b"
   },
   {
     "id": "1958823",
@@ -109,12 +123,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-131948.png?w=300",
     "destaque": false,
     "sigla": "LH",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "1958814",
     "titulo": "As cópias \"físicas\" do GTA 6 podem ser vulneráveis a um truque muito estúpido, mas sério",
-    "resumo": "O Grand Theft Auto 6 abandonou os discos tradicionais para seu lançamento \"físico\", com o jogo da Rockstar sendo vendido como um código digital na caixa nas lojas a partir desta semana. No entanto, parece que uma escolha de embalagem pode ter sido acidental.",
+    "resumo": "O Grand Theft Auto 6 abandonou os discos tradicionais para o seu lançamento \"físico\", com o jogo da Rockstar sendo vendido como um código digital na caixa nas lojas a partir desta semana. No entanto, parece que a escolha da embalagem pode ter sido acidental.",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -123,20 +137,6 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6-1.webp?w=300",
     "destaque": false,
     "sigla": "“G",
-    "tema": "tema-c"
-  },
-  {
-    "id": "1958800",
-    "titulo": "A Take-Two, proprietária do GTA 6, não tem interesse em se vender depois que a EA se tornou uma empresa privada por US$ 55 bilhões",
-    "resumo": "Recentemente, a gigante dos jogos Electronic Arts foi privatizada em uma venda de US$ 55 bilhões para um consórcio de investidores liderado pelo Fundo de Investimento Público da Arábia Saudita. A Take-Two, proprietária do GTA 6, pode ser a próxima grande empresa a ser adquirida?",
-    "categoria": "atualizacao",
-    "categoriaLabel": "Atualização",
-    "fonte": "GameSpot",
-    "data": "2026-11-13",
-    "link": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
-    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2-1.jpg?w=300",
-    "destaque": false,
-    "sigla": "GO",
     "tema": "tema-d"
   }
 ]
