@@ -1,5 +1,33 @@
 [
   {
+    "id": "0d31616c-e304-4332-aec2-540ee6a91781",
+    "titulo": "Jensen Huang estaria considerando voltar a ser CEO da Nvidia com aliados",
+    "resumo": "Jensen Huang teria conversado com seus aliados sobre um possível retorno ao cargo de CEO da Nvidia poucos dias depois de notícias sobre casos com uma suposta espiã chinesa e várias funcionárias terem levado à sua renúncia.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-15",
+    "link": "https://www.ign.com/articles/jensen-huang-reportedly-weighing-return-as-nvidia-ceo-with-allies",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/15/jensen-huang-1794786327545.png",
+    "destaque": true,
+    "sigla": "JH",
+    "tema": "tema-a"
+  },
+  {
+    "id": "2caf9e3c-49ad-4b7a-9796-da1af7496b29",
+    "titulo": "O Xbox confirma que o Project Helix é \"um console capaz de rodar jogos do seu PC\"",
+    "resumo": "O Xbox confirmou que o Projeto Helix foi \"projetado para ser um console capaz de rodar jogos do seu PC\".",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-15",
+    "link": "https://www.ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc",
+    "imagem": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png",
+    "destaque": false,
+    "sigla": "XC",
+    "tema": "tema-b"
+  },
+  {
     "id": "ecac0622-4cba-42a6-beb0-3b35a44ac788",
     "titulo": "As melhores ofertas de hoje: Control Resonant, Apple AirPods Pro 3, promoções de Blu-ray 4K e muito mais",
     "resumo": "",
@@ -9,9 +37,9 @@
     "data": "2026-11-15",
     "link": "https://www.ign.com/articles/best-deals-for-november-15-2026",
     "imagem": "https://assets-prd.ignimgs.com/2026/09/18/controlresonant-review-blogroll-1789695360175.jpg",
-    "destaque": true,
+    "destaque": false,
     "sigla": "TB",
-    "tema": "tema-a"
+    "tema": "tema-c"
   },
   {
     "id": "eace17ba-b1db-4814-951e-ec4247ae04e5",
@@ -25,12 +53,12 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/15/xbox-boot-up-1794774681871.png",
     "destaque": false,
     "sigla": "XR",
-    "tema": "tema-b"
+    "tema": "tema-d"
   },
   {
     "id": "317e0379-9e4d-47ef-8e6d-321169128cf1",
-    "titulo": "Jason e Lucia do GTA 6 começarão como pequenos criminosos que terão que se esforçar para conseguir trabalhos de alto valor",
-    "resumo": "O GTA 6 permitirá que Jason e Lucia realizem trabalhos de alto valor, mas a Rockstar Games pede aos jogadores que comecem como criminosos de pouca monta.",
+    "titulo": "Jason e Lucia do GTA 6 começarão como pequenos criminosos que terão que trabalhar para conseguir empregos de alto valor",
+    "resumo": "O GTA 6 permitirá que Jason e Lucia realizem trabalhos de alto valor, mas a Rockstar Games pede aos jogadores que comecem como pequenos criminosos primeiro.",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
@@ -39,40 +67,12 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg",
     "destaque": false,
     "sigla": "G6",
-    "tema": "tema-c"
-  },
-  {
-    "id": "3594629f-7962-4b04-8edb-08b31be8aa3b",
-    "titulo": "A EA adiciona a mensagem \"Não excluir\" ao Madden NFL 27 na tentativa de impedir que os jogadores liberem espaço antes do lançamento do GTA 6",
-    "resumo": "A EA adicionou uma mensagem pop-up \"não excluir\" ao Madden NFL 27, e os jogadores não podem deixar de sentir que a empresa está implorando para que eles não abram espaço para o Grand Theft Auto 6.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-15",
-    "link": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/15/madden-nfl-27-1794762344457.png",
-    "destaque": false,
-    "sigla": "A'",
-    "tema": "tema-d"
-  },
-  {
-    "id": "95d8666e-de75-4c0b-9786-b153ae305955",
-    "titulo": "Xbox aos 25 anos: minhas memórias de toda a (e bastante incrível) história do Xbox",
-    "resumo": "Tive a sorte de estar na primeira fila durante a maior parte dos 25 anos do Xbox, cobrindo os altos e baixos da entrada da Microsoft nas salas de estar. Tem sido uma jornada e tanto desde 15 de novembro de 2001, e eu queria",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-15",
-    "link": "https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/12/xbox-25-blogroll-1794443667177.jpg",
-    "destaque": false,
-    "sigla": "X2",
     "tema": "tema-e"
   },
   {
     "id": "1942415",
     "titulo": "Todos saudam Blood Gulch, o melhor mapa multijogador de Halo",
-    "resumo": "Depois de 25 anos, Halo pode ser lembrado por muitas coisas. Está entre os melhores jogos de lançamento de todos os tempos, o que foi fundamental para tornar o Xbox um concorrente sério no mercado de consoles. Sua campanha foi projetada de forma brilhante, desde as cenas cinematográficas",
+    "resumo": "Depois de 25 anos, Halo pode ser lembrado por muitas coisas. Está entre os melhores jogos de lançamento de todos os tempos, o que foi fundamental para tornar o Xbox um concorrente sério no mercado de consoles. Sua campanha foi projetada de forma brilhante, desde as cenas de ação",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -86,7 +86,7 @@
   {
     "id": "1958691",
     "titulo": "Eu amava meus Xbox 360s – todos os quatro",
-    "resumo": "O Xbox está comemorando seu 25º aniversário hoje, 15 de novembro de 2026. A seguir, relembramos o excelente segundo console da Microsoft, infame por seus bugs.\nEntre meados e o final dos anos 2000, o Xbox 360 reinou absoluto. Ele...",
+    "resumo": "O Xbox está comemorando seu 25º aniversário hoje, 15 de novembro de 2026. A seguir, relembramos o segundo console da Microsoft, que foi excelente, mas infame por seus bugs.\nEntre meados e o final dos anos 2000, o Xbox 360 reinou supremo. Ele...",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -113,8 +113,8 @@
   },
   {
     "id": "1956366",
-    "titulo": "Casualties: Unknown é um jogo de sobrevivência brutal com uma avaliação de 97% que fará você perceber sua mortalidade e, além disso, por um preço baixo",
-    "resumo": "Não há luz. O ônibus que me trouxe para as profundezas tem apenas um chuveiro, e a escuridão engole tudo ao meu redor. Cada passo é tão doloroso quanto o anterior, como andar descalço sobre peças de LEGO, enquanto eu",
+    "titulo": "Casualties: Unknown é um jogo de sobrevivência brutal com uma avaliação de 97% que fará você perceber sua mortalidade, e por um preço baixo também",
+    "resumo": "Não há luz. O ônibus que me trouxe para as profundezas só tem um chuveiro, e a escuridão engole tudo ao meu redor. Cada passo é tão doloroso quanto o anterior, como andar descalço sobre peças de LEGO, enquanto eu",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
