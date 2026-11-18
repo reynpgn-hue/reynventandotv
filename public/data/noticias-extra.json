@@ -1,264 +1,264 @@
 {
-  "atualizadoEm": "2026-11-18T07:56:02.957Z",
+  "atualizadoEm": "2026-11-18T20:53:39.867Z",
   "categorias": {
     "tecnologia": [
       {
-        "id": "856f1e72a9322cf410ac61a2994b61d5",
-        "titulo": "Google Maps agora cria roteiros de viagem com IA e mostra todos os destinos no mapa",
-        "resumo": "O Google Maps agora cria itinerários por IA e agenda serviços com ligações automáticas. Saiba como o Ask Maps funciona no Android e no iOS!",
-        "link": "https://www.mundoconectado.com.br/google/google-maps-agora-cria-roteiros-de-viagem-com-ia-e-mostra-todos-os-destinos-no-mapa/",
-        "imagem": "https://www.mundoconectado.com.br/wp-content/uploads/2026/11/google-maps-agora-cria-roteiros-de-viagem-com-ia-e-mostra-todos-os-destinos-no-mapa-cover-640x400.jpg",
-        "fonte": "Mundo Conectado",
-        "data": "2026-11-17"
+        "id": "51b0ce2c2097379a2ee9c7f1c541d7bc",
+        "titulo": "‘Ninguém compra tecnologia, as pessoas compram funcionalidade’",
+        "resumo": "Lucia Bittar, diretora de marketing da Samsung, no 30Cast: contato direto Rogerio Vieira/Valor Em um ano de previsão de queda nas vendas de celulares, no Brasil e no mundo, o foco das grandes companhias vem sendo…",
+        "link": "https://valor.globo.com/empresas/noticia/2026/11/18/ninguem-compra-tecnologia-as-pessoas-compram-funcionalidade.ghtml",
+        "imagem": "https://s2-valor.glbimg.com/3dMKa1pMJfMBXejFM1YIE3sDT10=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/m/9/mWpJVaRryhPVSVqbecYg/foto18emp-201-cast-b8.jpg",
+        "fonte": "Valor Globo",
+        "data": "2026-11-18"
       },
       {
-        "id": "34c79fd66905e5bf68c20f56053114d7",
-        "titulo": "Apple fora do ar: o que acontece e quando volta a funcionar",
-        "resumo": "Problema acontece nesta terça-feira em todo o mundo O post Apple fora do ar: o que acontece e quando volta a funcionar apareceu primeiro em Jornal DCI.",
-        "link": "https://www.dci.com.br/tecnologia-e-games/apple-fora-do-ar-o-que-acontece-e-quando-volta-a-funcionar/",
-        "imagem": "https://www.dci.com.br/wp-content/uploads/2026/11/apple.jpg",
-        "fonte": "Dci",
-        "data": "2026-11-17"
+        "id": "db7590dab70516ec99c4fc5a88e9c0e4",
+        "titulo": "Um bafômetro para a inteligência artificial",
+        "resumo": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+        "link": "https://valor.globo.com/opiniao/marcio-garcia/coluna/um-bafometro-para-a-inteligencia-artificial.ghtml",
+        "imagem": "https://s2-valor.glbimg.com/MF0VA8saU91AuN6rxI3nU3AVf5A=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/U/m/yjAXnkSR6q4fLcBAmWWg/gettyimages-2212399264.avif",
+        "fonte": "Valor Globo",
+        "data": "2026-11-18"
       },
       {
-        "id": "aadfe26ea5809e8cacc29633e3409fd6",
-        "titulo": "Apple testa desbloqueio do iPhone Duo pela câmera frontal, como no Face ID",
-        "resumo": "A Apple liberou a segunda versão beta da atualização do sistema operacional iOS 27.3 para desenvolvedores, com novidades para o iPhone Duo, primeiro celular dobrável da companhia. Entre os recursos em teste está a…",
-        "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/17/apple-testa-desbloqueio-do-iphone-duo-pela-camera-frontal-como-no-face-id.ghtml",
-        "imagem": "https://s2-oglobo.glbimg.com/kNBhGgBCO0wAbpoOy1DdsoU5cJ0=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/V/m/pINL8QQ7Kf1d6uLNNXTA/duo.jpeg",
-        "fonte": "O Globo",
-        "data": "2026-11-17"
+        "id": "d90abcff1efd3e4770b9a793a1ba29cb",
+        "titulo": "Queijo falso ou verdadeiro? Inteligência artificial desenvolvida em MG quer ajudar a descobrir",
+        "resumo": "As telas do aplicativo mostram o resultado da análise: de um lado um queijo verdadeiro e do outro, um queijo falsificado reprodução/Aplicativo de Inspeção É queijo da Canastra mesmo ou só parece? Pesquisadores do…",
+        "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/queijo-falso-ou-verdadeiro-inteligencia-artificial-desenvolvida-em-mg-quer-ajudar-a-descobrir.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/Kr1Cl5YbNY7uHHAFAdznFzuNmMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/D/HhZ6SuRaWzBclLHQUhAA/queijo3.jpeg",
+        "fonte": "G1 - O Portal",
+        "data": "2026-11-18"
       },
       {
-        "id": "4d1601476bcd77d9f96efe0bc0ff5cb3",
-        "titulo": "Apple relata instabilidade em alguns de seus serviços",
-        "resumo": "A Apple relatou instabilidades em alguns de seus serviços nesta terça-feira (17), incluindo ...",
-        "link": "https://www.terra.com.br/noticias/mundo/apple-relata-instabilidade-em-alguns-de-seus-servicos,4114ed204ae8cf931a2eded7fef61310mzpgyb21.html",
-        "imagem": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-        "fonte": "Terra",
-        "data": "2026-11-17"
+        "id": "f5b4a529f08e751ad6f12baa84146b96",
+        "titulo": "Celular Android na Black Friday: veja como escolher um que não trava",
+        "resumo": "Celular tá caro: o que a IA tem a ver com o aumento do preço de celulares? Com a proximidade da Black Friday, comprar um celular Android intermediário exige atenção a alguns pontos da ficha técnica que fazem…",
+        "link": "https://g1.globo.com/guia/guia-de-compras/tecnologia/celulares/celular-android-na-black-friday-veja-como-escolher-um-que-nao-trava.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/KImYpauLPWwawbMsJ8x5psbqoiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/k/2qk3jUSqWPEorGEUvAZA/pexels-zeleboba-27635789.jpg",
+        "fonte": "G1 - O Portal",
+        "data": "2026-11-18"
       },
       {
-        "id": "95bcce7fad38b9e379ea70244992105b",
-        "titulo": "Inteligência artificial já está dos dois lados da pauta",
-        "resumo": "A inteligência artificial (IA) já está dos dois lados da pauta: 76% dos profissionais de relações públicas usam IA generativa e 82% dos jornalistas usam pelo menos uma ferramenta de IA, segundo pesquisas da Muck Rack…",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/17/inteligencia-artificial-ja-esta-dos-dois-lados-da-pauta-1.ghtml",
-        "imagem": "https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg",
-        "fonte": "O Globo",
-        "data": "2026-11-17"
+        "id": "962c4348288eedb905f0e9b0c473a568",
+        "titulo": "Bill Gates, fundador da Microsoft, alertou que a inteligência artificial pode se tornar a maior ferramenta de igualdade ou a pior fonte de injustiça",
+        "resumo": "Em agosto de 2026, Bill Gates avaliou que a inteligência artificial pode ampliar oportunidades ou agravar disparidades sociais. O fundador da Microsoft destacou que o impacto sobre empregos, educação e renda…",
+        "link": "https://oantagonista.com.br/ladooa/entretenimento/bill-gates-fundador-da-microsoft-alertou-que-a-inteligencia-artificial-pode-se-tornar-a-maior-ferramenta-de-igualdade-ou-a-pior-fonte-de-injustica/",
+        "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Bill-Gates-fundador-da-Microsoft-alertou-que-a-inteligencia-artificial-pode-se-tornar-a-maior-ferramenta-de-igualdade-ou-a-pior-fonte-de-injustica-1.jpg",
+        "fonte": "O Antagonista",
+        "data": "2026-11-18"
       },
       {
-        "id": "d76fc0006138708ced7702b95b5554be",
-        "titulo": "Governo do Brasil vai levar internet e sinal de celular a 30 localidades rurais de Alagoas e beneficiar 19 mil alagoanos",
-        "resumo": "Mais de 19 mil alagoanos que vivem em áreas rurais e comunidades afastadas dos grandes centros poderão passar a contar com internet e telefonia móvel. Um novo edital do Ministério das Comunicações, da Agência…",
-        "link": "https://www.alagoas24horas.com.br/1775321/governo-do-brasil-vai-levar-internet-e-sinal-de-celular-a-30-localidades-rurais-de-alagoas-e-beneficiar-19-mil-alagoanos/",
-        "imagem": "https://www.alagoas24horas.com.br/wp-content/uploads/2026/04/whatsapp-image-2025-07-16-at-202546-16.webp",
-        "fonte": "Alagoas 24 Horas",
-        "data": "2026-11-17"
-      },
-      {
-        "id": "045759b8a0ee388b060c7bb729dc8737",
-        "titulo": "Seu celular fica quente no bolso? Estes ajustes nos aplicativos podem ajudar",
-        "resumo": "O celular pode esquentar mesmo quando não está em uso. Isso acontece porque alguns aplicativos continuam executando tarefas em segundo plano, como atualizar informações, acessar a localização e enviar arquivos para a…",
-        "link": "https://www.techtudo.com.br/listas/2026/11/seu-celular-fica-quente-no-bolso-estes-ajustes-nos-aplicativos-podem-ajudar-edapps.ghtml",
-        "imagem": "https://s2-techtudo.glbimg.com/KvCEHsQ8Jrw4VFxVSlj-0L5274w=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/u/V/b1YwAfRTSv7BAAD5THvg/vivo.png",
+        "id": "ec4723a4c52982188beb52d45c82fa8c",
+        "titulo": "MacBook Pro M6 vs. M5: veja o que realmente mudou nos notebooks Apple",
+        "resumo": "O MacBook Pro M6 é superior ao MacBook Pro M5 em processamento, desempenho gráfico e conectividade sem fio, graças ao novo chip de 12 núcleos de CPU, 12 núcleos de GPU, contra 10 núcleos em comparação com a geração…",
+        "link": "https://www.techtudo.com.br/comparativo/2026/11/macbook-pro-m6-vs-m5-veja-o-que-realmente-mudou-nos-notebooks-apple-edinfoeletro.ghtml",
+        "imagem": "https://s2-techtudo.glbimg.com/b0K6Kg48M5Y5dDuzRm-1FwA4g9M=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/N/q/WhD30OQAAEWSIB5BFCaQ/image-7-.png",
         "fonte": "Techtudo",
-        "data": "2026-11-17"
+        "data": "2026-11-18"
+      },
+      {
+        "id": "d0624f63b2a98b40167f25796cb7ac4d",
+        "titulo": "Apple enfrenta falha global e deixa milhares de usuários com problemas",
+        "resumo": "Milhares de usuários da Apple foram surpreendidos por uma falha nos sistemas da empresa nesta ...",
+        "link": "https://www.terra.com.br/byte/apple-enfrenta-falha-global-e-deixa-milhares-de-usuarios-com-problemas,edd72feb5ea8bb49a11068f2278610c0vxj9p2dx.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/18/1520766817-applelogo4988859889.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-18"
       }
     ],
     "filmes": [
       {
-        "id": "ed74ee2392a11e978c9901438b5f9db5",
-        "titulo": "Filme produzido pela acreana Urânio Filmes terá pré-estreia em Rio Branco neste sábado",
-        "resumo": "O longa-metragem Yellow Cake, produzido pela acreana Urânio Filmes em parceria com a Lucinda Filmes e a Jaraguá Produções, terá uma sessão de pré-estreia em Rio Branco no próximo sábado (21), às 19h30, no Cine Teatro…",
-        "link": "https://ac24horas.com/2026/11/17/filme-produzido-pela-acreana-uranio-filmes-tera-pre-estreia-em-rio-branco-neste-sabado/",
-        "imagem": "https://ac24horas.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-14.19.22-1200x675.jpeg",
-        "fonte": "Ac24horas",
-        "data": "2026-11-17"
+        "id": "823c5a880937ab218634fe676d8125db",
+        "titulo": "Daniel Marinho fará filme sobre a vida de Roberto Carlos. Saiba o papel",
+        "resumo": "Em “Detalhes de uma vida”, filme sobre Roberto Carlos, Daniel Marinho interpretará Amaral Ribeiro, que comandava uma tradicional casa de shows no Rio. No final dos anos 1950, o cantor se apresentava no local. Leia…",
+        "link": "https://oglobo.globo.com/play/noticia/2026/11/18/daniel-marinho-fara-filme-sobre-a-vida-de-roberto-carlos-saiba-o-papel.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/fLkuD280eg7CkSUEdtd5pHForhc=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/I/c/fFlA67RDmkStlwtuOimg/saveclip.app-651798666-18572666308007965-5617363691416273728-n.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-18"
       },
       {
-        "id": "458c942645a9a8b62761a1de4d51b82c",
-        "titulo": "Netflix divulga trailer de RAULS, série sobre golpes digitais que estreia em 9 de dezembro",
-        "resumo": "Dos produtores de Sintonia, série brasileira acompanha jovens da periferia de São Paulo que entram para um grupo de estelionatários virtuais.",
-        "link": "https://www.paranashop.com.br/post/assista-ao-trailer-de-rauls-serie-brasileira-que-estreia-em-9-de-dezembro",
-        "imagem": "https://www.paranashop.com.br/uploads/2026/11/ca9e93e66d3af5d0a61a2d1d-grande-c-682511a9-corpo.webp",
-        "fonte": "Paran@shop",
-        "data": "2026-11-17"
+        "id": "65930d33b2a5f847f1d9792c14c7495e",
+        "titulo": "Jacqueline Sato amplia atuação no audiovisual e prepara retorno ao cinema",
+        "resumo": "A relação de Jacqueline Sato com o audiovisual começou cedo. Aos 12 anos, ela estreou como apresentadora do \"Sessão Super-Heróis\", programa dedicado a produções japonesas. Desde então, construiu uma trajetória que…",
+        "link": "https://oglobo.globo.com/ela/noticia/2026/11/18/jacqueline-sato-amplia-atuacao-no-audiovisual-e-prepara-retorno-ao-cinema.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/bnIKCxQiVyf_2iCK-h0gyiGTSTM=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/P/O/VVG9UzTMWA0kS2usf8xg/whatsapp-image-2026-11-17-at-11.26.10.jpeg",
+        "fonte": "O Globo",
+        "data": "2026-11-18"
       },
       {
-        "id": "fb4874a472e535b38336aa0d29204627",
-        "titulo": "Salvador terá quatro dias de cinema gratuito com produções brasileiras",
-        "resumo": "O cinema brasileiro vai transformar o envelhecimento, a ancestralidade e a memória em temas de debate em Salvador. Entre os dias 23 e 26 de novembro, a capital baiana recebe a 16ª Mostra de Cinema e Direitos Humanos,…",
-        "link": "https://atarde.com.br/cineinsite/salvador-tera-quatro-dias-de-cinema-gratuito-com-producoes-brasileiras-1409775",
-        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/salvador-tera-quatro-dias-de-cinema-gratuito-com-p0140977500202611171527.jpg?xid=7414040",
-        "fonte": "A Tarde",
-        "data": "2026-11-17"
+        "id": "24a7a5d2b45fa161d34989ae14776767",
+        "titulo": "Autobiografia de Dustin Hoffman revela histórias do ator que protagonizou filmes emblemáticos desde a década de 1960",
+        "resumo": "Autobiografia de Dustin Hoffman escrita com a jornalista Ariel Levy, “Olhem para mim” chegou esta semana às livrarias de boa parte do mundo. Aos 89 anos, ele tem currículo de respeito, estrelando filmes como “Todos…",
+        "link": "https://oglobo.globo.com/cultura/livros/noticia/2026/11/18/autobiografia-de-dustin-hoffman-revela-historias-do-ator-que-protagonizou-filmes-emblematicos-desde-a-decada-de-1960.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/I6WWgtxs_ZKbdwQtoRLgEcgrhSg=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/J/q/tqBqVRTGySYdEyETBiUQ/montagem-1794951075867.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-18"
       },
       {
-        "id": "ba6aef49a2c35eac70f98dbf98d9febb",
-        "titulo": "Sessão da Tarde hoje exibe o filme Crescendo Juntos; história é real",
-        "resumo": "Filme exibido nesta terça-feira (17) acompanha a amizade de dois garotos O post Sessão da Tarde hoje exibe o filme Crescendo Juntos; história é real apareceu primeiro em Jornal DCI.",
-        "link": "https://www.dci.com.br/dci-mais/cinema-e-tv/sessao-da-tarde-hoje-exibe-o-filme-crescendo-juntos-historia-e-real/",
-        "imagem": "https://www.dci.com.br/wp-content/uploads/2026/11/Crescendo-Juntos.jpg",
-        "fonte": "Dci",
-        "data": "2026-11-17"
+        "id": "8cc858c7a123d8acffd3d7932f6981b6",
+        "titulo": "'Amanhecer na Colheita', novo filme de 'Jogos Vorazes', tem cenas pós-créditos?",
+        "resumo": "Jogos Vorazes: Amanhecer na Colheita, novo capítulo da franquia cinematográfica baseada nos ...",
+        "link": "https://www.terra.com.br/diversao/entre-telas/amanhecer-na-colheita-novo-filme-de-jogos-vorazes-tem-cenas-pos-creditos,0437eca599cd24e340d443b2b83efe4bmieu6vn2.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/18/2110052631-amanhecer-na-colheita-novo-filme-de-jogos-vorazes-tem-cenas-pos-creditos-divulgacaoparis-filmes.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-18"
       },
       {
-        "id": "038c8c6e93ec186c52780f0eb43bc687",
-        "titulo": "Curta 8, de Curitiba, leva mostra de filmes premiados em Super 8 a Buenos Aires",
-        "resumo": "Festival curitibano apresenta Mostra Retrospectiva com títulos premiados em 21 edições no Festival Internacional de Cine Infinito Super 8, que começa no domingo (22), na Argentina",
-        "link": "https://www.paranashop.com.br/post/curta-8-festival-super-8-curitiba-leva-mostra-premiados-buenos-aires",
-        "imagem": "https://www.paranashop.com.br/uploads/2026/11/6d719cfc8bbb8919ee44698c-capa-c-e09480b0-corpo.webp",
-        "fonte": "Paran@shop",
-        "data": "2026-11-17"
+        "id": "726690179d6ed6e789283de5531531d9",
+        "titulo": "Bem Moura, filho de Wagner Moura, contracena com Marieta Severo no filme Elizabeth Costello em sua estreia como ator",
+        "resumo": "O ator Bem Moura fará sua estreia no cinema no filme Elizabeth Costello, projeto com direção de Monique Gardenberg e gravações realizadas no Brasil. Aos 20 anos, o filho mais velho de Wagner Moura e da fotógrafa…",
+        "link": "https://www.mixvale.com.br/2026/11/18/bem-moura-filho-de-wagner-moura-contracena-com-marieta-severo-no-filme-elizabeth-costello-em-sua-estreia-como-ator/",
+        "imagem": "https://www.mixvale.com.br/wp-content/uploads/2026/11/bem-moura-filho-mais-velho-de-wagner-moura-instagram.jpg",
+        "fonte": "Mix Vale",
+        "data": "2026-11-18"
       },
       {
-        "id": "ba5343450170b375bc59afad6cd33ec7",
-        "titulo": "Assine UOL e ganhe um par de ingressos para ver Feito Pipa nos cinemas",
-        "resumo": "Assine UOL e ganhe um par de ingressos para ver Feito Pipa nos cinemas",
-        "link": "https://economia.uol.com.br/noticias/redacao/2026/11/17/assine-o-uol-e-ganhe-um-par-de-ingressos-para-assistir-feito-pipa.ghtm",
-        "imagem": "https://imguol.com/c/noticias/1b/2026/11/05/lazaro-ramos-e-yuri-gomes-em-cena-de-feito-pipa-comedia-dramatica-dirigida-por-allan-deberton-1793891811370_v2_300x225.jpg",
-        "fonte": "Uol",
-        "data": "2026-11-17"
+        "id": "1356699114ca1e7b4e3a556b080e8a75",
+        "titulo": "Quem é Bem Moura? Filho de Wagner Moura estreia como ator em filme com Marieta Severo",
+        "resumo": "Filho de um dos atores brasileiros de maior reconhecimento internacional, Bem Moura começa a ...",
+        "link": "https://www.terra.com.br/diversao/gente/quem-e-bem-moura-filho-de-wagner-moura-estreia-como-ator-em-filme-com-marieta-severo,717801d977848d74a161c6cbc0bcf372vfyjq9mq.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/18/captura-de-tela-2026-11-18-003611-to1rxhwryjp2.png",
+        "fonte": "Terra",
+        "data": "2026-11-18"
       },
       {
-        "id": "bde392495ddd6728f6a80433545e4f04",
-        "titulo": "Ted: A Série Animada expande a franquia em primeiro trailer oficial; Assista",
-        "resumo": "No Brasil, a exibição fica sob responsabilidade do streaming Universal+ a partir de 18 de dezembro O post Ted: A Série Animada expande a franquia em primeiro trailer oficial; Assista apareceu primeiro em O Vício.",
-        "link": "https://ovicio.com.br/ted-a-serie-animada-expande-a-franquia-em-primeiro-trailer-oficial-assista/",
-        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261117-20261117--5ck2fxepkou.jpg",
-        "fonte": "O Vício",
-        "data": "2026-11-17"
+        "id": "dc68e905822e1ffc1142407f13485c06",
+        "titulo": "Sessão da Tarde hoje: que filme passa na TV Globo quarta, 18/11/2026",
+        "resumo": "Um filme de drama vai passar na Sessão da Tarde hoje, quarta,18 de novembro de 2026, (18/11/2026) às 15h30 (horário de Brasília), na TV Globo",
+        "link": "https://www.opovo.com.br/vidaearte/2026/11/18/sessao-da-tarde-hoje-que-filme-passa-na-tv-globo-quarta-18-11-2026.html",
+        "imagem": "https://www.opovo.com.br/_midias/jpg/2026/11/17/cynthia_erivo_harriet_focus_features-43141902.jpg",
+        "fonte": "O Povo",
+        "data": "2026-11-18"
       }
     ],
     "series": [
       {
-        "id": "59cc7a3caf017a515bc8c5d6cc348391",
-        "titulo": "Netflix demite funcionários da divisão de games em meio à reestruturação interna",
-        "resumo": "Netflix demite funcionários da divisão de games em meio a reestruturação interna",
-        "link": "https://www.omelete.com.br/games/netflix-demite-funcionarios-da-divisao-de-games-reestruturacao-interna",
-        "imagem": "https://cdn.ome.lt/h6Ly_kDqLcIEXEH2N27TkiTQF2o=/970x0/smart/filters:format(webp)/extras/conteudos/NFLX_GAMES__EVERGREEN.webp",
-        "fonte": "Omelete",
-        "data": "2026-11-17"
+        "id": "e99682b0aa0a8e02f535b2aac5e0f7f8",
+        "titulo": "Supla fará participação em especial de comédia da Netflix com temática cristã",
+        "resumo": "O cantor Supla gravou uma participação em “Os crentes”, especial de comédia da Netflix com temática cristã que estreará este ano. Ele aparecerá como vizinho do casal principal, Beto (Gil Coelho) e Rebeca (Gabriela…",
+        "link": "https://oglobo.globo.com/play/noticia/2026/11/18/supla-fara-participacao-em-especial-de-comedia-da-netflix-com-tematica-crista.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/lAXLksO6UC4Aqu88Tmo8y4bK21I=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/o/a/ymqwtWSrukGMqyNnXRwQ/whatsapp-image-2026-11-17-at-12.03.59.jpeg",
+        "fonte": "O Globo",
+        "data": "2026-11-18"
       },
       {
-        "id": "1b49b8a7a04db2546c9f19f8895b432e",
-        "titulo": "Nota 10: Roberta Rodrigues ganha nota máxima por atuações nas séries “Verônika com K” e “Cidade de Deus”",
-        "resumo": "É ELA! Roberta Rodrigues recebeu nota 10 da coluna Play, do jornal O Globo, nesta terça-feira (17), pelo destaque em duas produções do streaming: “Verônika com K”, do Globoplay, e “Cidade de Deus: A Luta Não Para”,…",
-        "link": "https://www.papelpop.com/2026/11/nota-10-roberta-rodrigues-ganha-nota-maxima-por-atuacoes-nas-series-veronika-com-k-e-cidade-de-deus/",
-        "imagem": "https://assets.papelpop.com/wp-content/uploads/2026/11/roberta-rodrigues-scaled.jpg",
-        "fonte": "Papelpop",
-        "data": "2026-11-17"
-      },
-      {
-        "id": "17edfde9744b8a76023ddca4d1d06124",
-        "titulo": "Justiça marca julgamento de ação milionária contra Netflix por Bebê Rena",
-        "resumo": "Justiça dos EUA marca julgamento de ação milionária contra Netflix por 'Bebê Rena'",
-        "link": "https://natelinha.uol.com.br/mercado/2026/11/17/justica-marca-julgamento-de-acao-milionaria-contra-netflix-por-bebe-rena-250519.php",
-        "imagem": "https://imagem.natelinha.uol.com.br/original/acao-milionaria-bebe-rena_9897.jpeg",
+        "id": "edf433ec22c8195c2b915f10c1881eb4",
+        "titulo": "Em apenas 5 dias, nova sensação da Netflix conquista 5,1 milhões de views",
+        "resumo": "'O Corpo', nova sensação da Netflix, estreia com 5,1 milhões de views em cinco dias",
+        "link": "https://tangerina.uol.com.br/filmes-series/em-apenas-5-dias-nova-sensacao-da-netflix-conquista-5-milhoes-de-views/",
+        "imagem": "https://imguol.com/c/parceiros/54/2026/11/18/geena-meszaros-em-cena-de-o-corpo-1794989153593_v2_300x300.jpg",
         "fonte": "Uol",
-        "data": "2026-11-17"
+        "data": "2026-11-18"
       },
       {
-        "id": "a7746f4e2314779b4a8278dd4832dace",
-        "titulo": "Reynaldo Gianecchini relembra bastidores de ‘A dona do pedaço’, sua última novela na Globo: ‘Fiz muitos vídeos’",
-        "resumo": "Charmoso, sedutor e com jeito de playboy, Régis inicia sua história em ‘A dona do pedaço’ disposto a se dar bem. Interpretado por Reynaldo Gianecchini, o personagem retorna à programação da TV Globo com a reprise da…",
-        "link": "https://extra.globo.com/blogs/telinha/post/2026/11/reynaldo-gianecchini-relembra-bastidores-de-a-dona-do-pedaco-sua-ultima-novela-na-globo-fazia-muitos-videos.ghtml",
-        "imagem": "https://s2-extra.glbimg.com/mFxTKQShEEyg9Sx_yhX22-b_g3U=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/t/3/ynT5x0RqyTHKVAinvwdw/giane.jpg",
+        "id": "0771e75c5052cc2b8821f63496a7649b",
+        "titulo": "Larissa Bocchino vive triângulo amoroso com Alanis Guillen e Juan Paiva em produção do Globoplay e estreia a série ‘Os 12 signos de Valentina’",
+        "resumo": "Conhecida do público das novelas pela Quinota de “No Rancho Fundo” (2024) e pela Ivonete de “Guerreiros do Sol” (2025), Larissa Bocchino está de volta. A atriz vive Amanda na série “Os 12 signos de Valentina”, que…",
+        "link": "https://extra.globo.com/blogs/telinha/post/2026/11/larissa-bocchino-vive-triangulo-amoroso-com-alanis-guillen-e-juan-paiva-em-producao-do-globoplay-e-estreia-a-serie-os-12-signos-de-valentina.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/icuvtLfNy_MBsZxdJ98GnpVMjL0=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/G/C/0oR89FTAOOVBtN3csoSw/larissa-boch.jpg",
         "fonte": "Extra | Extra Online",
-        "data": "2026-11-17"
+        "data": "2026-11-18"
       },
       {
-        "id": "d84553f0359e6e4c32a876f857218eac",
-        "titulo": "Pela primeira vez na série, GTA 6 não quer que você saia tocando o terror no mapa",
-        "resumo": "O codiretor de estúdio da Rockstar North, Rob Nelson, afirmou que GTA 6 tentará unir o caos da franquia com a empatia e as recompensas para os jogadores que forem mais comportados em Leonida. A declaração faz parte…",
-        "link": "https://canaltech.com.br/games/pela-primeira-vez-na-serie-gta-6-nao-quer-que-voce-saia-tocando-o-terror-no-mapa/",
-        "imagem": "https://tl.ctcdn.com.br/T0auN-HkzD69QyMXTeKS4wB1YKI=/320x180/smart/filters:format(webp):quality(85)/2a351953-e1c9-40bf-8923-5e5b8581c026.jpg",
-        "fonte": "Canaltech",
-        "data": "2026-11-17"
+        "id": "904df894cabdfe7dfc2655db0c09a58b",
+        "titulo": "Minissérie policial da Netflix com 6 episódios para terminar em um dia",
+        "resumo": "Encontrar uma série capaz de prender a atenção sem exigir vários dias de dedicação pode ser a solução para quem quer aproveitar o tempo livre e fugir do tédio. No catálogo da Netflix, uma produção policial lançada em…",
+        "link": "https://atarde.com.br/cineinsite/minisserie-policial-da-netflix-com-6-episodios-para-terminar-em-um-dia-1409772",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/minisserie-policial-da-netflix-com-6-episodios-par0140977200202611171509.jpg?xid=7414024",
+        "fonte": "A Tarde",
+        "data": "2026-11-18"
       },
       {
-        "id": "f165fce5f95695f7a16b16494f1fc8f8",
-        "titulo": "Amazon contrata Nanda Costta para elenco de série sobre morte de PC Farias",
-        "resumo": "Nanda Costta assinou nesta terça (17) com a Amazon e será uma das estrelas de \"Quem Matou PC Farias?\", série produzida para o Prime Video. As filmagens começam em dezembro. A preparação de elenco começou no início do…",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/amazon-contrata-nanda-costta-para-elenco-de-serie-sobre-morte-de-pc-farias.shtml",
-        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/17/17949370366afc90cc0af55_1794937036_3x2_md.jpg",
-        "fonte": "Folha",
-        "data": "2026-11-17"
+        "id": "3a503c867ed11a60d3a6e1b80ec83457",
+        "titulo": "Retratada na série 'A clínica', Deborah Blando namorou ex de Cindy Lauper e flertou com Brad Pitt em Hollywood",
+        "resumo": "Personagem do terceiro episódio da série documental “A Clínica”, Deborah Blando foi uma das pacientes famosas da clínica de reabilitação Maxwell, em Atibaia, no interior de São Paulo. Por lá, a cantora permaneceu…",
+        "link": "https://extra.globo.com/famosos/noticia/2026/11/retratada-na-serie-a-clinica-deborah-blando-namorou-ex-de-cindy-lauper-e-flertou-com-brad-pitt-em-hollywood.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/glru6eY3ppxHaC1K05isnSbyYms=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/S/x/J2ZNBdS5C9HWs0B9jMpA/montagem-1794955351000.jpg",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-11-18"
       },
       {
-        "id": "a801f6c3949b4e95c7c216343ea22cad",
-        "titulo": "Lá na Minha Terra: Os caminhos para a novela virar o jogo na Globo",
-        "resumo": "Após críticas à representação do Nordeste, Lá na Minha Terra tem caminhos para reagir. Veja os acertos da trama e o que pode mudar na novela. O post Lá na Minha Terra: Os caminhos para a novela virar o jogo na Globo…",
-        "link": "https://ofuxico.com.br/opiniao/la-na-minha-terra-os-caminhos-para-a-novela-virar-o-jogo-na-globo/",
-        "imagem": "https://ofuxico.com.br/wp-content/uploads/2026/11/la-na-minha-terra.jpg",
-        "fonte": "Ofuxico",
-        "data": "2026-11-17"
+        "id": "7861bdcca1166e2e4de9704dd13b616c",
+        "titulo": "Estrelada por Maisa, próxima novela das 18h já tem uma frente de capítulos grande e começará o processo de escalação",
+        "resumo": "A escrita de “Tempos de Glória”, obra que substituirá “Lá na minha terra” em 2027, está bem adiantada. As autoras, Carla Faour e Julia Spadaccini, têm cerca de nove blocos de capítulos prontos. Patricia Pedrosa,…",
+        "link": "https://oglobo.globo.com/play/novelas/noticia/2026/11/18/estrelada-por-maisa-proxima-novela-das-18h-ja-tem-uma-frente-de-capitulos-grande-e-comecara-o-processo-de-escalacao.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/NuFTd8bh8_gbG6iqAHu43BvCetI=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/5/i/fXGuqDTFq4n9BDKNMtyg/maisa.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-18"
+      },
+      {
+        "id": "075c32d16918e1a947d1f19c771b95a9",
+        "titulo": "Autor de 'Êta mundo melhor!', Mauro Wilson se prepara para entregar nova sinopse de novela. Saiba qual a faixa horária escolhida",
+        "resumo": "Autor de ‘“Êta mundo melhor!”, Mauro Wilson está trabalhando numa nova sinopse de novela. Ele, que tinha possibilidade de escrever tanto para a faixa das 18h quanto para a das 19h, optou por essa última. O material…",
+        "link": "https://oglobo.globo.com/play/novelas/noticia/2026/11/18/autor-de-eta-mundo-melhor-mauro-wilson-se-prepara-para-entregar-nova-sinopse-de-novela-saiba-qual-a-faixa-horaria-escolhida.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/5AHHA8K2acFdpTWlA9JJK2NbcV8=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/B/E/BsKpsERKGizXFj2qDu4Q/maurowilson.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-18"
       }
     ],
     "shows": [
       {
-        "id": "9a719270001a632ffb7244180b8ef61f",
-        "titulo": "Show da Shakira em Salvador tem data confirmada na Arena Fonte Nova em 6 de janeiro de 2027 pelo prefeito Bruno Reis",
-        "resumo": "Shakira realiza show em Salvador no dia 6 de janeiro de 2027, na Arena Fonte Nova, na Bahia, como parte da turnê mundial Las Mujeres Ya No Lloran. O prefeito de Salvador, Bruno Reis, anunciou a apresentação no…",
-        "link": "https://www.mixvale.com.br/2026/11/17/show-da-shakira-em-salvador-tem-data-confirmada-na-arena-fonte-nova-em-6-de-janeiro-de-2027-pelo-prefeito-bruno-reis/",
-        "imagem": "https://www.mixvale.com.br/wp-content/uploads/2025/02/Shakira-show.png",
-        "fonte": "Mix Vale",
-        "data": "2026-11-17"
-      },
-      {
-        "id": "cf3bff55756313be975d4c2fbdcc0a9b",
-        "titulo": "Faith No More anuncia shows no Brasil em 2027",
-        "resumo": "Grupo norte-americano se apresenta em São Paulo e Curitiba acompanhado pelas bandas Alice in Chains e Mastodon",
-        "link": "https://www.cnnbrasil.com.br/pop/musica/faith-no-more-anuncia-shows-no-brasil-em-2027/",
-        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/FNM-2027-Photo-by-TRAVIS-SHINN-main-.jpg?w=1200&h=1200&crop=1",
-        "fonte": "Cnn Brasil",
-        "data": "2026-11-17"
-      },
-      {
-        "id": "d2f97938cc9f4a0f70d117792ff87942",
-        "titulo": "Com Dazaranha e Negritude Junior, Festival do Mar agita o feriadão no Litoral do Paraná",
-        "resumo": "Guaratuba será palco do 2º Festival do Mar do Litoral Paranaense, que acontece de sexta a domingo. Totalmente gratuita, a... O post Com Dazaranha e Negritude Junior, Festival do Mar agita o feriadão no Litoral do…",
-        "link": "https://www.bemparana.com.br/cultura/com-dazaranha-e-negritude-junior-festival-do-mar-agita-o-feriadao-no-litoral-do-parana/",
-        "imagem": "https://www.bemparana.com.br/wp-content/uploads/2026/11/Dazaranha.jpg",
-        "fonte": "Bemparana Br",
-        "data": "2026-11-17"
-      },
-      {
-        "id": "4e9bd30f0cdb003540d8ef6de5a76c7e",
-        "titulo": "Festival de Teatro Universitário reúne espetáculos, performances e dança entre os dias 19 a 21",
-        "resumo": "Evento será realizado de 19 a 21 de novembro, no Campus Paricarana, em Boa Vista, com apresentações de grupos teatrais, bate-papos, mostra de performances e premiação O post Festival de Teatro Universitário reúne…",
-        "link": "https://www.folhabv.com.br/cotidiano/festival-de-teatro-universitario-reune-espetaculos-performances-e-danca-na-ufrr/",
-        "imagem": "https://uploads.folhabv.com.br/2026/11/5DM30598-1536x1024-1.jpg",
-        "fonte": "Folha Bv",
-        "data": "2026-11-17"
-      },
-      {
-        "id": "876a85b6c1345749c778b88f879629fa",
-        "titulo": "Réveillon de Blumenau terá queima de fogos em três locais e sete minutos de show de luzes",
-        "resumo": "O Réveillon de Blumenau 2027 terá queima de fogos em três locais, além de sete minutos de show de luzes, repetindo o padrão de anos anteriores. A",
-        "link": "https://www.nsctotal.com.br/colunista/pedro-machado/reveillon-de-blumenau-tera-queima-de-fogos-em-tres-locais-e-sete-minutos-de-show-de-luzes/",
-        "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/reveillon-blumenau.jpg",
-        "fonte": "Nsc Total",
-        "data": "2026-11-17"
-      },
-      {
-        "id": "55422359e2e83ca70f09e2b7ff737a45",
-        "titulo": "Show da Pitty em Varginha é adiado por falta de documentação de segurança do local; ingressos serão reembolsados",
-        "resumo": "Show da Pitty em Varginha é adiado por falta de documentação de segurança O show da cantora Pitty, que seria realizado nesta quinta-feira (19), no Aqua Club, em Varginha (MG), foi adiado por falta de documentação…",
-        "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/17/show-da-pitty-em-varginha-e-adiado-por-falta-de-documentacao-de-seguranca-do-local-ingressos-serao-reembolsados.ghtml",
-        "imagem": "https://s2-g1.glbimg.com/2o5CWRAUMfka8FRw26lW069Wgck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/g/x3NeQYRpGAGW8ruAArEA/pittyjorgedauxfoto.jpg",
+        "id": "ba8f02cfc3eb62170da8c7a26ecf21bf",
+        "titulo": "Jão, Zé Ramalho, Festival da Jabuticaba, Orquestra de Ouro Preto, teatro: veja agenda da semana",
+        "resumo": "Jão, Zé Ramalho, festival, teatro, orquestra: confira as atrações culturais da semana em BH. Divulgação O fim de semana em Belo Horizonte e na Região Metropolitana está com atrações para todos os gostos. O g1…",
+        "link": "https://g1.globo.com/guia/guia-bh/noticia/2026/11/18/jao-ze-ramalho-festival-da-jabuticaba-orquestra-de-ouro-preto-teatro-veja-agenda-da-semana.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/CE-rn84XhOytfh3ZFlYksspMnho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/I1lTCsRBav3ePXztI3GQ/blank-5-grids-collage-2-.png",
         "fonte": "G1 - O Portal",
-        "data": "2026-11-17"
+        "data": "2026-11-18"
       },
       {
-        "id": "0a96acee0720232223fd87ab02f9b9d0",
-        "titulo": "Faith No More anuncia shows no Brasil em 2027 com abertura de Alice in Chains",
-        "resumo": "A banda Faith No More anunciou duas apresentações no Brasil em 2027. A capital paulista recebe o grupo no Nubank Parque, no dia 28 de outubro, uma quinta-feira. Os roqueiros também sobem ao palco em Curitiba (PR), no…",
-        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/11/faith-no-more-anuncia-shows-no-brasil-em-2027-com-abertura-de-alice-in-chains.shtml",
-        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/17/17949379286afc9448d87e1_1794937928_3x2_rt.jpg",
+        "id": "03b5cd8e0ffae2aa54ccef5f5a59b32a",
+        "titulo": "'Esse palco faz parte de mim': inspiração para lema do Planeta Atlântida 2027, Armandinho relembra ligação com festival",
+        "resumo": "Inspiração para lema do Planeta Atlântida 2027, Armandinho fala da relação com o festival Quando pisou pela primeira vez no palco do Planeta Atlântida, em 2003, Armandinho não sabia se aquele seria um capítulo…",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/planeta-atlantida/noticia/2026/11/18/inspiracao-lema-planeta-atlantida-2027-armandinho-festival.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/jWzU2V6zZVXdOfBIxb6cZEHahAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/N/BiErl1RdmUtHO9wxTGbQ/16216050-d7a2515.jpg-31-01-2026-18.23.03.jpg",
+        "fonte": "G1 - O Portal",
+        "data": "2026-11-18"
+      },
+      {
+        "id": "eb7c2d506e5c703885dc8e8b74334bd6",
+        "titulo": "Honk! Rio 2026: festival de fanfarras ocupa as ruas do Rio em 5 dias de música e cortejos",
+        "resumo": "O Rio vai virar uma grande festa de sopros e percussão a partir desta quarta-feira (18). Em sua 10ª edição, o Honk! Rio reúne cerca de 30 fanfarras de diferentes partes do Brasil e do mundo em cinco dias de…",
+        "link": "https://oglobo.globo.com/rioshow/eventos/guia/honk-rio-2026-festival-de-fanfarras-ocupa-as-ruas-do-rio-em-5-dias-de-musica-e-cortejos.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/Sy7eldZZczv-g76nLdzdu4BSphc=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/W/0/pKrLeEQPSTBfR7VZJ07Q/7873979-rs-rio-de-janeiro-rj-04-08-2015-honk-rio-festival-de-fanfarras-festival-que-contara.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-18"
+      },
+      {
+        "id": "464431cdd457cb943c766904fb89539a",
+        "titulo": "As corridas viraram balada, com ativações, degustações e shows",
+        "resumo": "ANDREA PENA | Coluna social Clique na foto para visualizar a galeria 15 anos de corrida O Shopping Vitória recebeu quase 2 mil corredores para mais uma",
+        "link": "https://www.folhavitoria.com.br/social/as-corridas-viraram-balada-com-ativacoes-degustacoes-e-shows/",
+        "imagem": "https://www.folhavitoria.com.br/www.folhavitoria.com.br/wp-content/uploads/2025/03/Andrea-Pena-ICONE-2-70px-png.webp",
+        "fonte": "Folha Vitória",
+        "data": "2026-11-18"
+      },
+      {
+        "id": "749355d155bf7b1a6e337c6a4561ad18",
+        "titulo": "Mariah Carey salva seu show de Natal em São Paulo com gogó e meia hora de hits",
+        "resumo": "Após uma tarde em que os termômetros chegaram perto dos 30°C em São Paulo, Mariah Carey subiu ao palco do Nubank Parque, por volta das 21h desta terça (17), para estrear seu show natalino no Brasil. Os telões exibiam…",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/mariah-carey-salva-seu-show-de-natal-em-sao-paulo-com-gogo-e-meia-hora-de-hits.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/17/17949668226afd0526ce834_1794966822_3x2_md.jpg",
         "fonte": "Folha",
-        "data": "2026-11-17"
+        "data": "2026-11-18"
+      },
+      {
+        "id": "06e92032190afcfbe41afd8dd319146e",
+        "titulo": "Chefs e influenciadores dividem suas experiências em debates sobre comida do Folha Gourmet Festival",
+        "resumo": "\"Chefs antigamente tinham segredos, algo que não se manteve, graças às mídias sociais.\" Essa foi uma das constatações do chef Alex Atala durante a palestra \"Da Mesa ao Feed e do Feed à Mesa\", um dos quatro encontros…",
+        "link": "https://redir.folha.com.br/redir/online/ilustrada/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/chefs-e-influenciadores-dividem-suas-experiencias-em-debates-sobre-comida-do-folha-gourmet-festival.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/15/17947752776afa18edc396b_1794775277_3x2_rt.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-18"
+      },
+      {
+        "id": "527e82fb396df99093025709c09474de",
+        "titulo": "Doki, Peppa Pig e O Show da Luna! estão entre os destaques dos 30 anos do Discovery Kids",
+        "resumo": "O Discovery Kids é sinônimo de imaginação, diversão e confiança para milhões de famílias em toda a América Latina! Em comemoração ao seu aniversário de 30 anos, a marca celebra sua rica trajetória destacando um…",
+        "link": "https://www.ouniversodatv.com/2026/11/doki-peppa-pig-e-o-show-da-luna-estao.html",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZUOfBojiTyi_XWc8FBg8XCYQl8F8HYrQibC126xdq_t66bP0h02C_hmz3btblVfbrCTZexBNfBGC855720VxqT3lElCwDanNylsUCQFi5slnchEVn51meYgumsUVFaAgi-q4TW_bK76TAh0C40vq4QxZpWMn4XB-2pKRCVJ1NMDJETrQMUSkpytkcmDg/s72-w640-h368-c/chart--25-.jpg",
+        "fonte": "O Universo Da Tv",
+        "data": "2026-11-18"
       }
     ]
   }
