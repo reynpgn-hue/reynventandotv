@@ -1,7 +1,35 @@
 [
   {
+    "id": "39c3de1e-da78-45df-b147-3c55e7bf4e2e",
+    "titulo": "O Nitro Deck 2 para o Nintendo Switch 2 vai ganhar um desconto de Black Friday na Amazon",
+    "resumo": "",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-21",
+    "link": "https://www.ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026",
+    "imagem": "https://assets-prd.ignimgs.com/2026/08/20/untitled-design-3-1787246765494.png",
+    "destaque": true,
+    "sigla": "TN",
+    "tema": "tema-a"
+  },
+  {
+    "id": "e633d6e6-589a-4bcb-b4da-8a5d6732091d",
+    "titulo": "Como uma cerveja de US$ 6 no GTA 6 me levou a uma espiral de crimes e ansiedade",
+    "resumo": "",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-21",
+    "link": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/20/1a1f9e1ef3b55-screenshoturl-1-1795194452766.jpg",
+    "destaque": false,
+    "sigla": "HB",
+    "tema": "tema-b"
+  },
+  {
     "id": "18a5db6b-8d16-41db-8707-3248a291d981",
-    "titulo": "O cortador de pizza oficial do Senhor dos Anéis está com um novo preço mais baixo na Amazon",
+    "titulo": "O cortador de pizza oficial do Senhor dos Anéis cai para um novo preço mais baixo na Amazon",
     "resumo": "",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
@@ -9,13 +37,13 @@
     "data": "2026-11-21",
     "link": "https://www.ign.com/articles/the-official-lord-of-the-rings-pizza-cutter-drops-to-a-new-low-price-at-amazon-black-friday-2026",
     "imagem": "https://assets-prd.ignimgs.com/2026/11/20/81eje-yy66l-ac-sl1500-1795216849076.jpg",
-    "destaque": true,
+    "destaque": false,
     "sigla": "TO",
-    "tema": "tema-a"
+    "tema": "tema-c"
   },
   {
     "id": "1967993",
-    "titulo": "Jogue GTA 6 em primeira pessoa com esta falha",
+    "titulo": "Jogue o GTA 6 em primeira pessoa com esta falha",
     "resumo": "Então, parece que você pode jogar GTA 6 no modo de primeira pessoa agora mesmo com uma falha. Confira o vídeo sobre como jogar neste modo. (Observe que provavelmente isso vai ser corrigido, então aproveite enquanto dura.)",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
@@ -39,7 +67,7 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/20/rayneo-black-friday-cod-blogroll-1795214311203.png",
     "destaque": false,
     "sigla": "RB",
-    "tema": "tema-b"
+    "tema": "tema-d"
   },
   {
     "id": "9afb9fc4-6ca6-4d32-8fca-4084c3ef5aca",
@@ -53,39 +81,11 @@
     "imagem": "https://assets-prd.ignimgs.com/2026/11/20/mandy-actress-speaks-out-gta6-1795216516675.jpg",
     "destaque": false,
     "sigla": "AW",
-    "tema": "tema-c"
-  },
-  {
-    "id": "9ddd4da0-a98a-4b12-85df-37aed83bd38e",
-    "titulo": "O GTA 6 gera o dia de tráfego mais movimentado da história da Comcast",
-    "resumo": "A Comcast afirmou que o lançamento do GTA 6 gerou o dia de tráfego mais intenso que a empresa já viu desde sua fundação em 1963.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-20",
-    "link": "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/19/early-weapons1-1795092418085.jpg",
-    "destaque": false,
-    "sigla": "GT",
-    "tema": "tema-d"
-  },
-  {
-    "id": "e2acffc3-52d8-4c92-a5cc-681ff6845b9e",
-    "titulo": "Atores de Percy Jackson revelam que assistiram a edições feitas por fãs de Attack on Titan para se ajudarem a chorar durante as filmagens de cenas emocionantes",
-    "resumo": "Walker Scobell e Aryan Simhadri revelaram que assistiam a edições feitas por fãs de Attack on Titan para ajudá-los a se prepararem para filmar cenas emocionantes de Percy Jackson e os Olimpianos.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-20",
-    "link": "https://www.ign.com/articles/percy-jackson-actors-reveal-they-watched-attack-on-titan-fan-edits-to-help-themselves-cry-while-filming-emotional-scenes",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/20/percy-jackson-actors-watched-aot-fan-edits-to-cry-1795212891154.jpg",
-    "destaque": false,
-    "sigla": "PJ",
     "tema": "tema-e"
   },
   {
     "id": "1967937",
-    "titulo": "Malware atrevido ligado a cracks de jogos gacha populares invade a segurança da cidade",
+    "titulo": "Malware atrevido vinculado a um popular jogo Gacha viola a segurança da cidade",
     "resumo": "O Leste Asiático — e particularmente o Japão — tem sofrido uma onda de incidentes de cibersegurança nos últimos tempos, afetando de tudo, desde grandes bancos e operadoras de telefonia celular até governos municipais e pequenas empresas.",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
@@ -128,7 +128,7 @@
   {
     "id": "1967955",
     "titulo": "O GTA 6 foi lançado, e as pessoas estão planejando fazer uma festa – fora do jogo, em um mundo muito diferente",
-    "resumo": "A Rockstar Games finalmente lançou o Grand Theft Auto 6 na quinta-feira. O jogo era muito esperado por, bem, vários motivos. É uma maravilha técnica que pode simular qualquer coisa, desde o doomscrolling no seu celular até...",
+    "resumo": "A Rockstar Games finalmente lançou o Grand Theft Auto 6 na quinta-feira. O jogo era muito esperado por, bem, vários motivos. É uma maravilha técnica que pode simular qualquer coisa, desde o \"doomscrolling\" no seu celular até...",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
