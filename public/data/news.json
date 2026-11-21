@@ -1,50 +1,92 @@
 [
   {
-    "id": "39c3de1e-da78-45df-b147-3c55e7bf4e2e",
-    "titulo": "O Nitro Deck 2 para o Nintendo Switch 2 vai ganhar um desconto de Black Friday na Amazon",
+    "id": "9c1ff8e1-8922-4f0b-9516-062b764fbe96",
+    "titulo": "Jogos digitais para Nintendo Switch e Switch 2 estão em promoção na Black Friday",
     "resumo": "",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
     "data": "2026-11-21",
-    "link": "https://www.ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026",
-    "imagem": "https://assets-prd.ignimgs.com/2026/08/20/untitled-design-3-1787246765494.png",
+    "link": "https://www.ign.com/articles/digital-nintendo-switch-and-switch-2-games-are-on-sale-for-black-friday",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/21/digital-switch-1-2-games-black-friday-1795287308867.jpeg",
     "destaque": true,
-    "sigla": "TN",
+    "sigla": "DN",
     "tema": "tema-a"
   },
   {
-    "id": "e633d6e6-589a-4bcb-b4da-8a5d6732091d",
-    "titulo": "Como uma cerveja de US$ 6 no GTA 6 me levou a uma espiral de crimes e ansiedade",
-    "resumo": "",
+    "id": "616f6e79-6a4f-4f28-b773-0b89fc84bb7b",
+    "titulo": "Participante da Neuralink mostra como é jogar GTA 6 com a mente",
+    "resumo": "Um participante da Neuralink compartilhou um vídeo mostrando como a tecnologia lhe permitiu dirigir barcos, pilotar aviões e participar de tiroteios no GTA 6 usando apenas a mente.",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
     "data": "2026-11-21",
-    "link": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/20/1a1f9e1ef3b55-screenshoturl-1-1795194452766.jpg",
+    "link": "https://www.ign.com/articles/neuralink-participant-showcases-what-its-like-to-play-gta-6-with-his-mind",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/17/gta-6-spekulationen-beziehungssystem-1794933650291.jpg",
     "destaque": false,
-    "sigla": "HB",
+    "sigla": "NP",
     "tema": "tema-b"
   },
   {
-    "id": "18a5db6b-8d16-41db-8707-3248a291d981",
-    "titulo": "O cortador de pizza oficial do Senhor dos Anéis cai para um novo preço mais baixo na Amazon",
+    "id": "8234dbfa-cbd2-4a81-926d-b97e34fed0d4",
+    "titulo": "O diretor de Blade diz que desistiu do filme cancelado da Marvel porque \"a vida é muito curta para fazer filmes de m****\"",
+    "resumo": "O diretor Bassam Tariq falou abertamente sobre o motivo de ter deixado o filme Blade da Marvel, dizendo: \"A vida é muito curta para fazer filmes de m****\".",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-21",
+    "link": "https://www.ign.com/articles/blade-director-says-he-walked-away-from-marvels-canceled-movie-because-lifes-too-short-to-make-st-films",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/21/bassam-tariq-1795280684150.png",
+    "destaque": false,
+    "sigla": "BD",
+    "tema": "tema-c"
+  },
+  {
+    "id": "b04b7f80-19b3-48fe-a71d-cd873e33b7be",
+    "titulo": "A vaca mais estranha do GTA 6 mostra por que você deve pausar a história logo no início para explorar seu vasto mapa",
+    "resumo": "Consegui sair do bairro inicial do GTA 6 para explorar o mundo mais amplo, e você nunca vai acreditar no que aconteceu com essa vaca que encontrei.",
+    "categoria": "lancamento",
+    "categoriaLabel": "Lançamento",
+    "fonte": "IGN",
+    "data": "2026-11-21",
+    "link": "https://www.ign.com/articles/gta-6s-weirdest-cow-shows-why-you-should-pause-the-story-early-to-explore-its-vast-map",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-cow-story-blogroll-1795184902367.jpg",
+    "destaque": false,
+    "sigla": "G6",
+    "tema": "tema-d"
+  },
+  {
+    "id": "7f02ea9f-6fe3-4fe2-892c-6bf936024fd3",
+    "titulo": "O LEGO Insiders Weekend já começou: brindes com compras, descontos exclusivos e muito mais",
     "resumo": "",
     "categoria": "lancamento",
     "categoriaLabel": "Lançamento",
     "fonte": "IGN",
     "data": "2026-11-21",
-    "link": "https://www.ign.com/articles/the-official-lord-of-the-rings-pizza-cutter-drops-to-a-new-low-price-at-amazon-black-friday-2026",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/20/81eje-yy66l-ac-sl1500-1795216849076.jpg",
+    "link": "https://www.ign.com/articles/lego-insiders-weekend-is-live-free-gifts-with-purchase-exclusive-discounts-and-more",
+    "imagem": "https://assets-prd.ignimgs.com/2026/11/20/lego-insiders-wekend-copy-1795179985642.png",
     "destaque": false,
-    "sigla": "TO",
-    "tema": "tema-c"
+    "sigla": "LI",
+    "tema": "tema-e"
+  },
+  {
+    "id": "1967985",
+    "titulo": "Esta aventura musical conta uma história bem britânica por meio de uma limpeza profunda e da caça a fantasmas",
+    "resumo": "Não se deixe enganar pelo título: o Grand Hotel é definitivamente assombrado em There Are No Ghosts at The Grand, um jogo de ação sobrenatural em que você vai renovar um prédio em ruínas, investigar acontecimentos terríveis e acabar",
+    "categoria": "atualizacao",
+    "categoriaLabel": "Atualização",
+    "fonte": "GameSpot",
+    "data": "2026-11-21",
+    "link": "https://www.gamespot.com/articles/this-musical-adventure-tells-a-very-british-tale-through-deep-cleaning-and-ghost-busting/",
+    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/g1.jpg?w=300",
+    "destaque": false,
+    "sigla": "TM",
+    "tema": "tema-f"
   },
   {
     "id": "1967993",
     "titulo": "Jogue o GTA 6 em primeira pessoa com esta falha",
-    "resumo": "Então, parece que você pode jogar GTA 6 no modo de primeira pessoa agora mesmo com uma falha. Confira o vídeo sobre como jogar neste modo. (Observe que provavelmente isso vai ser corrigido, então aproveite enquanto dura.)",
+    "resumo": "Então, parece que você pode jogar o GTA 6 no modo de primeira pessoa agora mesmo com um glitch. Confira o vídeo sobre como jogar nesse modo. (Observe que provavelmente isso vai ser corrigido, então aproveite enquanto dura.)",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -53,40 +95,12 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/gta6_first_person_glitch_SITE.jpg?w=300",
     "destaque": false,
     "sigla": "PG",
-    "tema": "tema-f"
-  },
-  {
-    "id": "8757be13-2349-4142-9ca4-7734efefdc5c",
-    "titulo": "A promoção de Black Friday da RayNeo inclui descontos em óculos de RA, além de um novo lançamento dos óculos de RA GT Max Call of Duty: Modern Warfare 4 Limited Edition",
-    "resumo": "Economize US$ 94 nos óculos de RA RayNeo GT Max e muito mais.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-20",
-    "link": "https://www.ign.com/articles/rayneos-black-friday-sale-includes-discounts-on-ar-glasses-and-more",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/20/rayneo-black-friday-cod-blogroll-1795214311203.png",
-    "destaque": false,
-    "sigla": "RB",
-    "tema": "tema-d"
-  },
-  {
-    "id": "9afb9fc4-6ca6-4d32-8fca-4084c3ef5aca",
-    "titulo": "Ator que interpreta Mandy em GTA 6 fala com entusiasmo depois que a personagem viraliza",
-    "resumo": "Lexie Shoaibi, a atriz que interpreta Mandy no GTA 6, está se manifestando agora que o jogo foi oficialmente lançado no mundo todo.",
-    "categoria": "lancamento",
-    "categoriaLabel": "Lançamento",
-    "fonte": "IGN",
-    "data": "2026-11-20",
-    "link": "https://www.ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral",
-    "imagem": "https://assets-prd.ignimgs.com/2026/11/20/mandy-actress-speaks-out-gta6-1795216516675.jpg",
-    "destaque": false,
-    "sigla": "AW",
-    "tema": "tema-e"
+    "tema": "tema-a"
   },
   {
     "id": "1967937",
-    "titulo": "Malware atrevido vinculado a um popular jogo Gacha viola a segurança da cidade",
-    "resumo": "O Leste Asiático — e particularmente o Japão — tem sofrido uma onda de incidentes de cibersegurança nos últimos tempos, afetando de tudo, desde grandes bancos e operadoras de telefonia celular até governos municipais e pequenas empresas.",
+    "titulo": "Malware atrevido ligado a um popular jogo Gacha invade a segurança da cidade",
+    "resumo": "O Leste Asiático — e, principalmente, o Japão — tem sofrido uma onda de incidentes de cibersegurança nos últimos tempos, afetando de tudo, desde grandes bancos e operadoras de telefonia celular até prefeituras e pequenas empresas.",
     "categoria": "atualizacao",
     "categoriaLabel": "Atualização",
     "fonte": "GameSpot",
@@ -95,7 +109,7 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Clipboard_11-20-2026_02.jpg?w=300",
     "destaque": false,
     "sigla": "CM",
-    "tema": "tema-a"
+    "tema": "tema-b"
   },
   {
     "id": "1967791",
@@ -109,7 +123,7 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Mandy-screenshot.jpg?w=300",
     "destaque": false,
     "sigla": "GP",
-    "tema": "tema-b"
+    "tema": "tema-c"
   },
   {
     "id": "1967966",
@@ -123,20 +137,6 @@
     "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Featured_GTA6LeonidaStories_ThePlane_20201119V2.jpg?w=300",
     "destaque": false,
     "sigla": "TH",
-    "tema": "tema-c"
-  },
-  {
-    "id": "1967955",
-    "titulo": "O GTA 6 foi lançado, e as pessoas estão planejando fazer uma festa – fora do jogo, em um mundo muito diferente",
-    "resumo": "A Rockstar Games finalmente lançou o Grand Theft Auto 6 na quinta-feira. O jogo era muito esperado por, bem, vários motivos. É uma maravilha técnica que pode simular qualquer coisa, desde o \"doomscrolling\" no seu celular até...",
-    "categoria": "atualizacao",
-    "categoriaLabel": "Atualização",
-    "fonte": "GameSpot",
-    "data": "2026-11-20",
-    "link": "https://www.gamespot.com/articles/gta-6-is-out-and-people-are-planning-to-party-outside-the-game-in-a-much-different-world/",
-    "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-131448.png?w=300",
-    "destaque": false,
-    "sigla": "GO",
     "tema": "tema-d"
   }
 ]
