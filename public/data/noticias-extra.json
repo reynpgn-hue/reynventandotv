@@ -1,7 +1,25 @@
 {
-  "atualizadoEm": "2026-11-22T07:27:03.807Z",
+  "atualizadoEm": "2026-11-22T19:57:55.160Z",
   "categorias": {
     "tecnologia": [
+      {
+        "id": "8dd96ca1208b429c2ad41106346ea67a",
+        "titulo": "Tecnologia posta a prova: apresentado no Salão de São Paulo, Geely EX5 EM-i está percorrendo vários países para testar sua eficiência",
+        "resumo": "A Geely deu início ao desafio global “The 3L Challenge”, uma iniciativa que percorrerá o mundo colocando à prova a eficiência e a tecnologia de gerenciamento de bateria do EX5 EM-i em diferentes situações de uso…",
+        "link": "https://www.gazetasp.com.br/automotor/tecnologia-posta-a-prova-apresentado-no-salao-de-sao-paulo-geely-ex5-em-i-esta-percorrendo-varios-paises-para-testar-sua-eficiencia/",
+        "imagem": "https://cdn.gazetasp.com.br/uploads/2026/11/Geely-ex5-Divulgacao-649x365.jpg",
+        "fonte": "Gazetasp Br",
+        "data": "2026-11-22"
+      },
+      {
+        "id": "0cf8bcffb24ac71a4fe9ded5ce5e1ae9",
+        "titulo": "David Fincher é acusado de usar inteligência artificial em filme estrelado por Brad Pitt",
+        "resumo": "David Fincher é acusado de usar inteligência artificial em filme com Brad Pitt",
+        "link": "https://www1.folha.uol.com.br/ilustrada/2026/11/david-fincher-e-acusado-de-usar-inteligencia-artificial-em-filme-estrelado-por-brad-pitt.shtml",
+        "imagem": "https://imguol.com/c/home/0d/2026/11/21/brad-pitt-1795295900060_450x337.jpg",
+        "fonte": "Uol",
+        "data": "2026-11-21"
+      },
       {
         "id": "394c610024ba707083808111c8d615b5",
         "titulo": "Bateria do celular caindo do nada? Entenda por que isso acontece e como resolver",
@@ -46,218 +64,200 @@
         "imagem": "https://cdn6.campograndenews.com.br/ui/images/2025/logo-1x1.jpg",
         "fonte": "Campo Grande News",
         "data": "2026-11-21"
-      },
-      {
-        "id": "90b7b671e25b1dda38a483cf494a9b31",
-        "titulo": "Freios ABS nas duas rodas e painel que mostra mensagens do celular fazem a Yamaha Fazer FZ25 reunir tecnologias de motos maiores",
-        "resumo": "A Yamaha Fazer FZ25 Connected combina ABS nas duas rodas, painel LCD digital e conexão com o smartphone. O motociclista pode receber alertas de chamadas e mensagens no painel, enquanto o aplicativo Yamaha Motor On…",
-        "link": "https://oantagonista.com.br/ladooa/carros/freios-abs-nas-duas-rodas-e-painel-que-mostra-mensagens-do-celular-fazem-a-yamaha-fazer-fz25-reunir-tecnologias-de-motos-maiores/",
-        "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Freios-ABS-nas-duas-rodas-e-painel-que-mostra-mensagens-do-celular-fazem-a-Yamaha-Fazer-FZ25-reunir-tecnologias-de-motos-maiores-1.jpg",
-        "fonte": "O Antagonista",
-        "data": "2026-11-21"
-      },
-      {
-        "id": "1f6e128d55826cb5c9e80b75372626c1",
-        "titulo": "Faxina digital: o que apagar, organizar e revisar no celular antes de 2027",
-        "resumo": "Fotos repetidas, aplicativos sem uso e documentos acumulados ocupam espaço e podem expor informações pessoais O post Faxina digital: o que apagar, organizar e revisar no celular antes de 2027 apareceu primeiro em…",
-        "link": "https://www.folhabv.com.br/cotidiano/faxina-digital-o-que-apagar-organizar-e-revisar-no-celular-antes-de-2027/",
-        "imagem": "https://www.folhabv.com.br/wp-content/uploads/2023/12/01.jpeg",
-        "fonte": "Folha Bv",
-        "data": "2026-11-21"
       }
     ],
     "filmes": [
       {
-        "id": "4ee25970571c8eda4269aef0bad7dc84",
-        "titulo": "Vingadores 5 deve ganhar novo trailer na segunda-feira, diz Hayley Atwell",
-        "resumo": "Deve ser o último O post Vingadores 5 deve ganhar novo trailer na segunda-feira, diz Hayley Atwell apareceu primeiro em O Vício.",
-        "link": "https://ovicio.com.br/vingadores-5-deve-ganhar-novo-trailer-na-segunda-feira-diz-hayley-atwell/",
-        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261121-hayley.webp",
-        "fonte": "O Vício",
-        "data": "2026-11-21"
+        "id": "b8b08fda7dfc316f6c094f7a27705d55",
+        "titulo": "A semana de 007: anúncio de novo James Bond e especulações sobre vilão e Bond Girl agitam o mundo do cinema",
+        "resumo": "“A inteligência artificial não vai tomar meu emprego; quem vai é o Robert Pattinson”, dizia um dos memes de maior sucesso da semana em que, no mundo do cinema, só se falou deste britânico de 40 anos. Atual Batman, o…",
+        "link": "https://oglobo.globo.com/cultura/filmes/noticia/2026/11/22/a-semana-de-007-anuncio-de-novo-james-bond-e-especulacoes-sobre-vilao-e-bond-girl-agitam-o-mundo-do-cinema.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/C2Xs3zaTJGCDlEn20V8xDI3uHtM=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/B/a/sAlYkuToA1hsGyND82wQ/jamesbond-site.png",
+        "fonte": "O Globo",
+        "data": "2026-11-22"
       },
       {
-        "id": "6b63f727a35b197b818f7ba21c6c8e7c",
-        "titulo": "John Travolta diz ter mergulhado em estado mental sombrio para interpretar mafioso em novo filme",
-        "resumo": "John Travolta, de 72 anos, revelou que precisou mergulhar em um estado psicológico extremamente sombrio para interpretar um mafioso da vida real em seu novo filme, \"November 1963\". Conhecido por seus papéis em…",
-        "link": "https://vogue.globo.com/cultura/filmes/noticia/2026/11/john-travolta-diz-ter-mergulhado-em-estado-mental-sombrio-para-interpretar-mafioso-em-novo-filme.ghtml",
-        "imagem": "https://s2-vogue.glbimg.com/0o9mnupZojS36qVJvTXWYUSCivw=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/v/l/0pjajRQdqAJkoY6ZONpQ/whatsapp-image-2026-11-21-at-15.35.12.jpeg",
-        "fonte": "Vogue",
-        "data": "2026-11-21"
+        "id": "3daf306d3cf5057d4c45cb3ed93ab200",
+        "titulo": "Torcida do Vasco canta 'Casaca' ao fim de sessão do filme 'Camisas Negras' em cinema de Botafogo",
+        "resumo": "Guerreiros da Colina @GdcVasco Torcida do Vasco entoa grito de “Casaca” ao fim da sessão de “Camisas Negras”. Cinesystem Botafogo, Zona Sul do Rio. Fonte: X Guerreiros da Colina",
+        "link": "https://www.netvasco.com.br/n/396913/torcida-do-vasco-canta-casaca-ao-fim-de-sessao-do-filme-camisas-negras-em-cinema-de-botafogo",
+        "imagem": "https://netvasco.com.br/img/logo_mini.jpg",
+        "fonte": "Netvasco",
+        "data": "2026-11-22"
       },
       {
-        "id": "425ba4c5c8a4f05a16e1a8a3e0c56cb4",
-        "titulo": "Nicolas Cage e Christian Bale vivem astros em filme sobre John Madden",
-        "resumo": "Produção do Prime Video revisita a trajetória de John Madden, dos títulos pelos Raiders ao sucesso como comentarista e nome de videogame",
-        "link": "https://tribunaonline.com.br/entretenimento/filmeseseries/filme-john-madden-nicolas-cage/",
-        "imagem": "https://media.tribunaonline.com.br/wp-content/uploads/2026/11/Layna-2026-11-21T151312.918.jpg",
-        "fonte": "Tribuna Online",
-        "data": "2026-11-21"
+        "id": "4ebcb4903c7d1a5a3cfbe73e9f559fd8",
+        "titulo": "15 filmes só para adultos cheios de cenas quentes para assistir de porta fechada",
+        "resumo": "Os filmes com cenas quentes voltados para o público adulto exploram o desejo e as relações íntimas em histórias que envolvem paixões proibidas, jogos de sedução e relacionamentos fora dos padrões convencionais. Entre…",
+        "link": "https://www.techtudo.com.br/noticias/2026/11/15-filmes-so-para-adultos-cheios-de-cenas-quentes-para-assistir-de-porta-fechada-streaming.ghtml",
+        "imagem": "https://s2-techtudo.glbimg.com/sMluQ1BDXU91ezVGLFWoYDs7lo0=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/u/l/Aqr1wHTyiZ5Yubd8uWTw/chatgpt-image-jun-22-2026-04-42-06-pm.png",
+        "fonte": "Techtudo",
+        "data": "2026-11-22"
       },
       {
-        "id": "1d9aa4df7a5ef67eac4a7e43da698b42",
-        "titulo": "Vingadores: Doutor Destino | Hayley Atwell confirma lançamento de novo trailer para segunda-feira",
-        "resumo": "Hayley Atwell confirma lançamento de novo trailer de Vingadores: Doutor Destino para segunda-feira; veja",
-        "link": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-hayley-atwell-confirma-trailer-segunda-feira",
-        "imagem": "https://cdn.ome.lt/Xn7lfZdZRJP_T63-Av7WXIxFGfE=/970x0/smart/filters:format(webp)/extras/conteudos/stevepeggy_BMwGQJx.webp",
-        "fonte": "Omelete",
-        "data": "2026-11-21"
+        "id": "bef63544fc4c3865c2cbde2891ff110a",
+        "titulo": "15 filmes tristes para se acabar de chorar sempre que assistir",
+        "resumo": "Os filmes tristes são uma boa pedida para quem gosta de histórias intensas, emocionantes e capazes de provocar lágrimas do início ao fim. Com narrativas que exploram temas como perdas irreparáveis, amores…",
+        "link": "https://www.techtudo.com.br/noticias/2026/11/15-filmes-tristes-para-se-acabar-de-chorar-sempre-que-assistir-streaming.ghtml",
+        "imagem": "https://s2-techtudo.glbimg.com/OtHxkAR_G2JU6CNkM5VF0lM5V4s=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/7/I/mQfphjQuGatzRgu2dacQ/o-tumulo-dos-pirilampos-justwatch-techtudo.jpg",
+        "fonte": "Techtudo",
+        "data": "2026-11-22"
       },
       {
-        "id": "4c50da1af2a2526df14066ed00b2bb76",
-        "titulo": "Morgan Freeman do cinema para o campo: como o astro de ‘Um Sonho de Liberdade’ cuida de 26 colmeias há mais de uma década em rancho de 124 hectares",
-        "resumo": "Em 2014, quando se envolveu com a apicultura, o ator também importou 26 colmeias do Arkansas",
-        "link": "https://www.cnnbrasil.com.br/curiosidades/morgan-freeman-do-cinema-para-o-campo-como-o-astro-de-um-sonho-de-liberdade-cuida-de-26-colmeias-ha-mais-de-uma-decada-em-rancho-de-124-hectares/",
-        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/06/morgan-freeman.png?w=1200&h=1200&crop=1",
-        "fonte": "Cnn Brasil",
-        "data": "2026-11-21"
+        "id": "7e564f3af08016bf472269811d2d522a",
+        "titulo": "Alunos da EJA exibem filmes em mostra na Sala Nelson Pereira",
+        "resumo": "Terceira edição do evento reuniu obras de várias regiões do país e destacou a criatividade e as histórias de vida dos estudantes da rede municipal",
+        "link": "https://odia.ig.com.br/niteroi/2026/11/7324116-alunos-da-eja-exibem-filmes-em-mostra-na-sala-nelson-pereira.html",
+        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/11/19/estudantes_da_eja_de_niteroi_apresentam_producoes_audiovisuais_na_iii_mostra_de_cinema_estudantil-39738597.jpeg",
+        "fonte": "Odia Ig Br",
+        "data": "2026-11-22"
       },
       {
-        "id": "8fc213f63af9916c26e8b2c1d7d21f9e",
-        "titulo": "Kate Middleton lança documentário sobre câncer; veja trailer",
-        "resumo": "A Princesa de Gales foi diagnosticada com tumor maligno em 2024 e entrou em remissão no ano seguinte; filme mostrará jornada de Sua Alteza Real para a recuperação",
-        "link": "https://www.cnnbrasil.com.br/pop/celebridades/kate-middleton-lanca-documentario-sobre-cancer-veja-trailer/",
-        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/kate-middleton-em-evento-em-londres.jpg?w=1200&h=1200&crop=1",
-        "fonte": "Cnn Brasil",
-        "data": "2026-11-21"
+        "id": "dfe8afe37831658dfd2772c3f6a0b41b",
+        "titulo": "Temperatura Máxima hoje (22/11/26); filme de domingo na TV Globo",
+        "resumo": "O filme \"A Mulher Rei\" será exibido neste domingo, 22 de novembro de 2026, às 12h30 horas, na Temperatura Máxima da TV Globo",
+        "link": "https://www.opovo.com.br/vidaearte/2026/11/22/temperatura-maxima-hoje-22-11-26-filme-de-domingo-na-tv-globo.html",
+        "imagem": "https://www.opovo.com.br/_midias/jpg/2026/11/18/a_mulher_rei-43153025.jpg",
+        "fonte": "O Povo",
+        "data": "2026-11-22"
       },
       {
-        "id": "513fba308274ff7024ddb739fc52cad7",
-        "titulo": "Tudo Pode Ser Visto ultrapassa US$ 100 milhões na bilheteria global",
-        "resumo": "Documentário experimental custou apenas US$ 7 milhões à A24 O post Tudo Pode Ser Visto ultrapassa US$ 100 milhões na bilheteria global apareceu primeiro em O Vício.",
-        "link": "https://ovicio.com.br/tudo-pode-ser-visto-ultrapassa-us-100-milhoes-na-bilheteria-global/",
-        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261121-1320-x-768-77.webp",
-        "fonte": "O Vício",
-        "data": "2026-11-21"
+        "id": "7846b97374796c23409043c59d74e33d",
+        "titulo": "Há milhares de filmes sobre gente pobre, mas quase nenhum sobre luta de classes, diz diretor Boots Riley",
+        "resumo": "\"Nunca pisei no Brasil, mas espero que seja idêntico a um dos meus filmes favoritos\", escreveu o diretor americano Boots Riley no início de outubro, quando anunciou que viria ao país para ser jurado na 50ª Mostra…",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/ha-milhares-de-filmes-sobre-gente-pobre-mas-quase-nenhum-sobre-luta-de-classes-diz-diretor-boots-riley.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/11/19/17951113596aff39bf0b8df_1795111359_3x2_md.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-22"
       }
     ],
     "series": [
       {
-        "id": "1898bf9a493ece77d3de99fb19e999cf",
-        "titulo": "Petição reúne mais de 152 mil assinaturas para cancelar série da Netflix",
-        "resumo": "Um abaixo-assinado na internet ultrapassou 152 mil assinaturas neste sábado (21) com o pedido para que a Netflix retire do ar a série “O corpo” (“The body”), lançada na plataforma…",
-        "link": "https://contilnetnoticias.com.br/universo-pop/peticao-reune-mais-de-152-mil-assinaturas-para-cancelar-a-serie-da-netflix/",
-        "imagem": "https://contilnetnoticias.com.br/wp-content/uploads/2026/11/o-corpo-the-body-1.webp",
-        "fonte": "Contilnet Notícias",
+        "id": "1e8e1a4b275b548db06a82b8af9b7d89",
+        "titulo": "João Emanuel Carneiro dá 'spoilers' sobre 'Avenida Brasil 2' e fala sobre arrependimentos na novela original",
+        "resumo": "O autor de novelas João Emanuel Carneiro tem a profunda convicção de que as pessoas podem se regenerar. Mas isto não é uma dica, ele garante, sobre a verdadeira intenção de Carminha quando ela sair da prisão e voltar…",
+        "link": "https://oglobo.globo.com/cultura/televisao/noticia/2026/11/22/joao-emanuel-carneiro-da-spoilers-sobre-avenida-brasil-2-e-fala-sobre-arrependimentos-na-novela-original.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/9B2OQm-_E-vn55puwQfGmikDBDU=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/W/U/UXcvSBTIGOKmQrGS3QWw/116964804-sc-exclusivo-rio-de-janeiro-rj-17-11-2026-autor-joao-emanuel-carneiro-joao-emanuel-c.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-22"
+      },
+      {
+        "id": "2fa385678fa4774e4d95079f1e30275f",
+        "titulo": "Sétima temporada de Menos é Demais ganha novos quadros e estreia em dezembro no Discovery Home & Health e na HBO Max",
+        "resumo": "A sétima temporada da produção nacional MENOS É DEMAIS estreia em 16 de dezembro, às 22h, no Discovery Home & Health e na HBO Max. Nesta nova edição, a modelo e apresentadora Carol Ribeiro segue à frente do reality…",
+        "link": "https://www.ouniversodatv.com/2026/11/setima-temporada-de-menos-e-demais.html",
+        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibPZuhfyRYbs9QW7v2nrPGc7QyDdvRlAfi-cYtOG4CqOq_14OtGAx23bfTyRm4RBiQMNJ3QVEbcgUc12XvEGrKrwWQaVIO7qmw-AUET51kR8Gnal-vTbPSswJ45xVOoSDM-tsvgz0jCRcwPN4afAnxZ4EZYPeeN27nhvTOyl2En3o8SjnVd7-GgUSxKukS/s72-w640-h360-c/0063.jpg",
+        "fonte": "O Universo Da Tv",
+        "data": "2026-11-22"
+      },
+      {
+        "id": "48178fb3daa3cff2c00c3c907a34fffd",
+        "titulo": "Coritiba surpreende Bahia em Salvador e encaminha permanência na Série A",
+        "resumo": "Coritiba surpreende Bahia em Salvador e encaminha permanência na Série A",
+        "link": "https://www.dgabc.com.br/Noticia/4370069/coritiba-surpreende-bahia-em-salvador-e-encaminha-permanencia-na-serie-a",
+        "imagem": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
+        "fonte": "Diário Do Grande Abc",
         "data": "2026-11-21"
       },
       {
-        "id": "6e864f67824c070de16b8e249b47693f",
-        "titulo": "‘Friends evangélico’: a aposta da Netflix para fazer graça com ‘Os Crentes’",
-        "resumo": "Especial 'Os Crentes' quer apresentar humor sem repetir estereótipos",
-        "link": "https://veja.abril.com.br/cultura/friends-evangelico-a-aposta-da-netflix-para-fazer-graca-com-os-crentes/",
-        "imagem": "https://veja.abril.com.br/wp-content/uploads/2026/11/CRT_071726-GROUP_MSL0023_RV1_3x2.jpg",
-        "fonte": "Veja",
+        "id": "629d7ba058222a997f203e1906e074c0",
+        "titulo": "'O Corpo': por que uma série da Netflix está despertando a ira de cristãos?",
+        "resumo": "'O Corpo': por que uma série da Netflix está despertando a ira de cristãos?",
+        "link": "https://www.uol.com.br/splash/noticias/2026/11/21/o-corpo-netflix-peticao.ghtm",
+        "imagem": "https://imguol.com/c/splash/32/2026/11/21/cena-de-o-corpo-serie-da-netflix-1795290269153_v2_300x225.png",
+        "fonte": "Uol",
         "data": "2026-11-21"
       },
       {
-        "id": "d0043300784c4f52d1040ef636a01357",
-        "titulo": "“Percy Jackson e os Olimpianos” estreia 3ª temporada na Disney+",
-        "resumo": "Série retorna com uma história inspirada no terceiro livro da franquia “A Maldição do Titã” O post “Percy Jackson e os Olimpianos” estreia 3ª temporada na Disney+ apareceu primeiro em Folha BV.",
-        "link": "https://www.folhabv.com.br/cotidiano/percy-jackson-e-os-olimpianos-estreia-3a-temporada-na-disney/",
-        "imagem": "https://uploads.folhabv.com.br/2026/11/va2wbhrkrb4.jpg",
+        "id": "ca951ae79b533c027f8fd5d3688f657e",
+        "titulo": "“Tipo Irmãs”: animação da Netflix apresenta nova versão da Cinderela",
+        "resumo": "Produção transforma as tradicionais vilãs do conto de fadas e aposta em uma aventura que mistura magia, humor e confusão O post “Tipo Irmãs”: animação da Netflix apresenta nova versão da Cinderela apareceu primeiro…",
+        "link": "https://www.folhabv.com.br/cotidiano/tipo-irmas-animacao-da-netflix-apresenta-nova-versao-da-cinderela/",
+        "imagem": "https://uploads.folhabv.com.br/2026/11/fnoxyz8pw8c.jpg",
         "fonte": "Folha Bv",
         "data": "2026-11-21"
       },
       {
-        "id": "28078df6d37cb44c3b7bdc6c581b0dd7",
-        "titulo": "Globo é 'cancelada' por retratar Nordeste com estereótipos em novela",
-        "resumo": "Depois de décadas desfigurando o Nordeste, ainda vale a pena dar crédito à Rede Globo? A mais nova polêmica do momento se chama Lá na Minha Terra, a atual novela do horário das 18h. Desde que estreou, no último dia…",
-        "link": "https://atarde.com.br/televisao/globo-e-cancelada-por-retratar-nordeste-com-estereotipos-em-novela-1410233",
-        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1410000/globo-e-cancelada-por-retratar-nordeste-com-estere0141023300202611211413.jpg?xid=7421683",
-        "fonte": "A Tarde",
+        "id": "657f748100e9ed84a9949dfef0f87530",
+        "titulo": "Gilmore Girls: como perrengues e falta de orçamento foram rotina em uma das séries mais famosas dos anos 2000",
+        "resumo": "Equipe contou os truques usados na construção de Stars Hollow, das casas e comércios aconchegantes e até da universidade onde Rory estudou",
+        "link": "https://www.cnnbrasil.com.br/curiosidades/gilmore-girls-como-perrengues-e-falta-de-orcamento-foram-rotina-em-uma-das-series-mais-famosas-dos-anos-2000/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Gilmore-Girls-e-cenarios-da-vida-real.-Reproducao-Instagram-Netflix.png?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
         "data": "2026-11-21"
       },
       {
-        "id": "4ede16dbcf351787218ac7b05ccf70ae",
-        "titulo": "Solo Leveling: Série em live-action estreia na Netflix em 2028, diz jornal",
-        "resumo": "Gravações da 1ª temporada foram iniciadas em maio O post Solo Leveling: Série em live-action estreia na Netflix em 2028, diz jornal apareceu primeiro em O Vício.",
-        "link": "https://ovicio.com.br/solo-leveling-serie-em-live-action-estreia-na-netflix-em-2028-diz-jornal/",
-        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/08/20260814-solo-leveling-webtoon-ovicio.webp",
-        "fonte": "O Vício",
-        "data": "2026-11-21"
-      },
-      {
-        "id": "eebd17ceb2270101d6762b06850f887b",
-        "titulo": "'Lá na Minha Terra' x realidade: dados desmontam estereótipos do Nordeste em novela da Globo",
-        "resumo": "Ambientada em 2026, novela apresenta costumes de outras décadas e reacende discussão sobre a permanência de estereótipos regionais na televisão",
-        "link": "https://www.opovo.com.br/vidaearte/2026/11/21/la-na-minha-terra-x-realidade-dados-desmontam-estereotipos-do-nordeste-em-novela-da-globo.html",
-        "imagem": "https://www.opovo.com.br/_midias/jpg/2026/11/16/e7ee91b1511d4b6e95e9190ae36518ff_20261006_la_na_minha_terra_bd_004_jpg_tt-43136605.jpg",
-        "fonte": "O Povo",
-        "data": "2026-11-21"
-      },
-      {
-        "id": "2e20c0a6be76503ecabbea7c3ea9fcaf",
-        "titulo": "Fenômeno da HBO Max com alta aprovação terá nova temporada",
-        "resumo": "Fenômeno da HBO Max, 'Guerra' é renovada para a segunda temporada",
-        "link": "https://tangerina.uol.com.br/filmes-series/fenomeno-da-hbo-max-com-alta-aprovacao-tera-nova-temporada/",
-        "imagem": "https://imguol.com/c/parceiros/18/2026/11/21/phoebe-fox-e-james-mcardle-em-guerra-da-hbo-max-1795248347614_v2_300x225.jpg",
-        "fonte": "Uol",
+        "id": "7487d544e4858770cc386bc937ccd846",
+        "titulo": "The Chosen | Saiba quando estreia o 4º episódio da sexta temporada no Prime Video",
+        "resumo": "Saiba quando estreia o 4º episódio da sexta temporada de The Chosen no Prime Video",
+        "link": "https://www.omelete.com.br/series-tv/the-chosen-quando-estreia-4-episodio-6-temporada",
+        "imagem": "https://cdn.ome.lt/7GlEHKNH6aeOWtGcP37HRQ7ocxw=/970x0/smart/filters:format(webp)/extras/conteudos/thechosen_1XZfnwt.webp",
+        "fonte": "Omelete",
         "data": "2026-11-21"
       }
     ],
     "shows": [
       {
-        "id": "4868d98b888e239db0ee4c8d5b97b346",
-        "titulo": "Sertanejo Ícaro, da dupla com Gilmar, anuncia pausa em shows após descobrir inflamação na perna: 'Tô bem assustado'",
-        "resumo": "Sertanejo Ícaro, da dupla com Gilmar, anuncia pausa em shows após descobrir inflamação O cantor sertanejo Ícaro, da dupla com Gilmar, anunciou nas redes sociais que vai se afastar temporariamente dos palcos após…",
-        "link": "https://g1.globo.com/go/goias/noticia/2026/11/21/sertanejo-icaro-da-dupla-com-gilmar-anuncia-pausa-em-shows-apos-descobrir-inflamacao-na-perna-to-bem-assustado.ghtml",
-        "imagem": "https://s2-g1.glbimg.com/Te4x10XCRRcyzIfOUNjM017O90w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/wfAqAXSBy5N5cStLfdfQ/whatsapp-image-2026-11-21-at-15.43.27.jpeg",
-        "fonte": "G1 - O Portal",
-        "data": "2026-11-21"
+        "id": "4f27021f5f24ecd864bd3cf00e145230",
+        "titulo": "Qual é a música? Conheça as canções e histórias que inspiraram a criação dos petiscos do festival Botecar Rio",
+        "resumo": "O grande desafio deste ano do festival Botecar Rio, que acontece até 13 de dezembro e reúne 40 bares cariocas, foi estimular chefs e proprietários desses estabelecimentos a transformar uma sonoridade em uma…",
+        "link": "https://oglobo.globo.com/rio/noticia/2026/11/22/qual-e-a-musica-conheca-as-cancoes-e-historias-que-inspiraram-a-criacao-dos-petiscos-do-festival-botecar-rio.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/Bgwsy9U6LBW-RddrYpRHKLHI8Po=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/h/j/iO9KUdSpiDlgwkxDYJCw/toninho-geraes.jpg",
+        "fonte": "O Globo",
+        "data": "2026-11-22"
       },
       {
-        "id": "fa86871d5f7c731ef238cf7df02e52e8",
-        "titulo": "Manaus recebe segunda edição do Festival do Beiradão com programação gratuita",
-        "resumo": "Festival celebra 'beiradão', estilo musical tradicional do Amazonas Divulgação A segunda edição do Festival do Beiradão do Amazonas começa nesta segunda-feira (23), em Manaus, com shows gratuitos a partir das 18h, no…",
-        "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/21/manaus-recebe-segunda-edicao-do-festival-do-beiradao-com-programacao-gratuita.ghtml",
-        "imagem": "https://s2-g1.glbimg.com/1A3zaUmA9_3T2iBmmddvS-cjoOM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/DjMrkfThALrBepKngIGA/festival-celebra-beiradao-estilo-musical-tradicional-do-amazonas-foto-divulgacao.jpg",
-        "fonte": "G1 - O Portal",
-        "data": "2026-11-21"
+        "id": "2a62b7f0398cbf65e9dddc4a78794aee",
+        "titulo": "Setlist de Roger Daltrey no Best of Blues & Rock 2026: veja músicas do show do cantor do The Who",
+        "resumo": "O vocalista do The Who, Roger Daltrey, sobe ao palco neste sábado, 21, do festival Best of Blues ...",
+        "link": "https://www.terra.com.br/diversao/musica/setlist-de-roger-daltrey-no-best-of-blues-rock-2026-veja-musicas-do-show-do-cantor-do-the-who,98c2cfb72c7ad0859d069760c4e7fac97xu03zgu.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/22/1124759101-2xbzjahvqza7bnxia6kw57di6a.jpg",
+        "fonte": "Terra",
+        "data": "2026-11-22"
       },
       {
-        "id": "eb2795edeb00b038655601b89b5db385",
-        "titulo": "Evanescence virá à América do Sul em 2027 para turnê de arena, diz agente",
-        "resumo": "As datas para a esperada turnê do álbum \"Sanctuary\", lançado em junho deste ano pelo Evanescence, ainda serão anunciadas oficialmente",
-        "link": "https://www.opovo.com.br/vidaearte/agenda/2026/11/21/evanescence-vira-a-america-do-sul-em-2027-para-turne-diz-agente.html",
-        "imagem": "https://www.opovo.com.br/_midias/jpg/2026/11/21/evanescence_sanctuary_album_art_40156024__1_-43179178.jpg",
+        "id": "491642e424332b6dad5548d08cd29bc1",
+        "titulo": "Festival Zepelim chega à 5ª edição com Marina Sena, BaianaSystem, Gaby Amarantos e mais",
+        "resumo": "Festival Zepelim 2026 reúne onze atrações principais em noite de música brasileira neste sábado, 21, no Marina Park Hotel",
+        "link": "https://www.opovo.com.br/vidaearte/2026/11/21/festival-zepelim-chega-a-5-edicao-com-marina-sena-baianasystem-gaby-amarantos-e-mais.html",
+        "imagem": "https://www.opovo.com.br/_midias/jpg/2026/11/21/zepelim_2026_jpg-43180031.jpg",
         "fonte": "O Povo",
+        "data": "2026-11-22"
+      },
+      {
+        "id": "8278dddd67b603f21fec14baa15c7620",
+        "titulo": "Festival tem espetáculos gratuitos de drama, comédia e palhaçaria no Teatro Municipal Boa Vista",
+        "resumo": "Peças da da companhia Criart Teatral, fundada em 2021 em Roraima Criart Teatral/Divulgação A companhia de teatro Criart apresenta três espetáculos gratuitos neste sábado (21) e domingo (22), no Teatro Municipal de…",
+        "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/21/festival-tem-espetaculos-gratuitos-de-drama-comedia-e-palhacaria-no-teatro-municipal-boa-vista.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/MAQi3IbLC_Hr7eDCkVk_GApAJeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/Pq3gKAReG0fOC3aSWXAw/teatro-.jpg",
+        "fonte": "G1 - O Portal",
         "data": "2026-11-21"
       },
       {
-        "id": "35569b51e1a33f21e74b52081e391f73",
-        "titulo": "TV Brasil exibe show do trio Pietá no Cena Musical deste sábado",
-        "resumo": "O trio carioca Pietá é a atração do Cena Musical, que a TV Brasil exibe neste sábado (21), às 23h. Formado por Fred Demarca, Juliana Linhares e Rafael Lorga, o grupo apresenta o show Nasci no Brasil, espetáculo que…",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/tv-brasil-exibe-show-do-trio-pieta-no-cena-musical-deste-sabado",
-        "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png",
-        "fonte": "Agenciabrasil Ebc Br",
+        "id": "3e373bad894918bbfc41eef9d946f653",
+        "titulo": "Turnê mundial de Guerreiras do K-Pop divulga suas primeiras datas",
+        "resumo": "As apresentações de Guerreiras do K-Pop começam em 2027, mas só devem chegar ao Brasil em 2028",
+        "link": "https://www.estadao.com.br/minha-serie/cultura-geek/turne-mundial-de-guerreiras-do-k-pop-divulga-suas-primeiras-datas/",
+        "imagem": "https://www.estadao.com.br/resizer/v2/OZVLIB4MJBCQPC3RSRHRP3NTOY.jpeg?auth=8e55b8fe683d01ef68868141a50fe4b57b7828a83eb88207772e1a1177a06a33&smart=true&width=1919&height=1079",
+        "fonte": "Estadao Br",
         "data": "2026-11-21"
       },
       {
-        "id": "abe8abd805ba20b39cb3d944b9cbf05c",
-        "titulo": "Virginia aposta em look country de R$ 22,2 mil em festival sertanejo",
-        "resumo": "Influenciadora curtiu o Caldas Country ao lado de amigos e chamou atenção com cinto de grife nacional e bolsa avaliada em quase R$ 20 mil.",
-        "link": "https://ofuxico.com.br/moda-e-beleza/virginia-aposta-em-look-country-de-r-222-mil-em-festival-sertanejo/",
-        "imagem": "https://ofuxico.com.br/wp-content/uploads/2026/11/virginia-fonseca-curtindo-caldas-country-natalia-rampinelli-agnews-1.jpg?resize=1200,1080",
-        "fonte": "Ofuxico",
+        "id": "1b7488bf82226b1a44e6010c036a3e8f",
+        "titulo": "MP-SP apura suspeita em contratos da Prefeitura de Cubatão para shows e Réveillon com Maiara e Maraisa",
+        "resumo": "Réveillon 2026 em Cubatão teve queima de fogos e show de Maiara e Maraisa Reprodução/Prefeitura de Cubatão O Ministério Público de São Paulo (MP-SP) instaurou dois inquéritos civis para apurar possíveis…",
+        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/21/mp-sp-apura-suspeita-em-contratos-da-prefeitura-de-cubatao-para-shows-e-reveillon-com-maiara-e-maraisa.ghtml",
+        "imagem": "https://s2-g1.glbimg.com/QAXIH1NRrve1TJbcI2N8FZUy_lQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/m/uHDgzqRhOAaGAkPKThcw/g1-phed-82-.png",
+        "fonte": "G1 - O Portal",
         "data": "2026-11-21"
       },
       {
-        "id": "bd4570f0fd6251bbec5883af6ab93aff",
-        "titulo": "O que esperar do show de Mariah Carey no Rio neste sábado",
-        "resumo": "Cantora leva turnê natalina à Farmasi Arena, com clássicos de fim de ano e sucessos que marcaram sua carreira",
-        "link": "https://veja.abril.com.br/cultura/o-que-esperar-do-show-de-mariah-carey-no-rio-neste-sabado/",
-        "imagem": "https://veja.abril.com.br/wp-content/uploads/2026/05/mariah.jpg",
-        "fonte": "Veja",
-        "data": "2026-11-21"
-      },
-      {
-        "id": "44828d4a270a63b8c839403b41ce4d15",
-        "titulo": "UFMA promove 46ª edição do Festival Maranhense de Coros com 38 grupos",
-        "resumo": "Neste ano, o FEMACO recebe 29 corais adultos e nove infantis e infantojuvenis",
-        "link": "https://oimparcial.com.br/entretenimento-e-cultura/2026/11/ufma-promove-46a-edicao-do-festival-maranhense-de-coros-com-38-grupos/",
-        "imagem": "https://oimparcial.com.br/app/uploads/2026/11/WhatsApp-Image-2026-11-21-at-09.56.16.jpeg",
-        "fonte": "O Imparcial",
+        "id": "e64402203051ea3067f962f14a95677f",
+        "titulo": "Cantor sertanejo faz pausa nos shows após diagnóstico grave: “Assustado”",
+        "resumo": "Ícaro, dupla de Gilmar, descobriu doença que o forçou a se afastar dos palcos para evitar complicações no quadro e uma possível cirurgia",
+        "link": "https://www.cnnbrasil.com.br/pop/celebridades/cantor-sertanejo-faz-pausa-nos-shows-apos-diagnostico-grave-assustado/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cantor-sertanejo-icaro.png?w=1200&h=630&crop=1",
+        "fonte": "Cnn Brasil",
         "data": "2026-11-21"
       }
     ]
