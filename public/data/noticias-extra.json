@@ -1,264 +1,264 @@
 {
-  "atualizadoEm": "2026-11-27T09:04:26.986Z",
+  "atualizadoEm": "2026-11-27T21:38:06.521Z",
   "categorias": {
     "tecnologia": [
       {
-        "id": "1d1f5e72f28d73b32e3610af9b744370",
-        "titulo": "Projeto divulga iniciativas de ciência e tecnologia desenvolvidas no DF",
-        "resumo": "Circuito Tech Studio reúne videocasts, documentários e conteúdos gratuitos sobre inovação, sustentabilidade e cidades inteligentes",
-        "link": "https://jornaldebrasilia.com.br/brasilia/projeto-divulga-iniciativas-de-ciencia-e-tecnologia-desenvolvidas-no-df/",
-        "imagem": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/26173524/imprensa4-1-scaled.jpeg",
+        "id": "888d425ff4d113f7b5d0bbd21c74a951",
+        "titulo": "Lula avalia criar ministério com foco em governo digital para centralizar políticas de tecnologia",
+        "resumo": "As empresas de tecnologia do governo, Serpro e Dataprev, também ficariam sob o guarda-chuva da pasta",
+        "link": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-avalia-criar-ministerio-com-foco-em-governo-digital-para-centralizar-politicas-de-tecnologia/",
+        "imagem": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/21092511/AFP__20261119__D82A6ZZ__v1__MidRes__BrazilPoliticsLabour.jpg",
         "fonte": "Jornal De Brasília",
-        "data": "2026-11-26"
+        "data": "2026-11-27"
       },
       {
-        "id": "041ac5a85e68da258f3dbff451256cd9",
-        "titulo": "Amazon derruba preço do notebook VAIO FE16 com 32 GB de RAM em oferta de Black Friday",
-        "resumo": "Cansado de ver o computador engasgar quando você abre várias abas no navegador ao mesmo tempo que edita planilhas ou participa de reuniões online? A Amazon colocou o notebook VAIO FE16 em uma oferta agressiva de…",
-        "link": "https://canaltech.com.br/notebook/amazon-derruba-preco-do-notebook-vaio-fe16-com-32-gb-de-ram-em-oferta-de-black-friday/",
-        "imagem": "https://tl.ctcdn.com.br/5OVg3yyk0qi-j7220I55PNHT9h4=/1200x675/smart/filters:format(webp):quality(85)/eecca2a8-4502-4baa-94a3-916d29dcf139.png",
-        "fonte": "Canaltech",
-        "data": "2026-11-26"
+        "id": "09b6c9b80aef60f3dfdca5664f41a32b",
+        "titulo": "Inteligência artificial crava placar em Fluminense x Cruzeiro",
+        "resumo": "",
+        "link": "https://www.lance.com.br/fora-de-campo/inteligencia-artificial-crava-placar-em-fluminense-x-cruzeiro-pelo-brasileirao.html",
+        "imagem": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,format=webp/uploads/2026/11/Cruzeiro-x-Fluminense-pelo-Brasileirao-scaled-aspect-ratio-512-320-2.jpg",
+        "fonte": "Lance!",
+        "data": "2026-11-27"
       },
       {
-        "id": "8afd7de6bb77bd4f4aff6e9102f3ea16",
-        "titulo": "Direito lidera matrículas, mas tecnologia ganha espaço nas universidades de MS",
-        "resumo": "Entre a tradição dos cursos de Direito e Administração e a demanda por profissionais de tecnologia, as escolhas dos universitários de Mato Grosso do Sul ajudam a desenhar o perfil da mão de obra que chegará ao…",
-        "link": "https://www.campograndenews.com.br/educacao-e-tecnologia/direito-lidera-matriculas-mas-tecnologia-ganha-espaco-nas-universidades-de-ms",
-        "imagem": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/11/26/6b088ecbe6c2e.webp",
-        "fonte": "Campo Grande News",
-        "data": "2026-11-26"
+        "id": "0c5594527003511362774d70f55dc33d",
+        "titulo": "Inteligência artificial empurrou matemática para crise existencial",
+        "resumo": "A matemática está passando por uma crise existencial. Leia mais (11/27/2026 - 06h00)",
+        "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/11/inteligencia-artificial-empurrou-matematica-para-crise-existencial.shtml",
+        "imagem": "https://f.i.uol.com.br/fotografia/2026/10/09/17915161996ac85e271c550_1791516199_3x2_md.jpg",
+        "fonte": "Folha",
+        "data": "2026-11-27"
       },
       {
-        "id": "3e346222f2fc80aca81268f7ae54a771",
-        "titulo": "Apple iPhone 17 traz tela de 120 Hz, chip A19 e câmeras de 48 MP",
-        "resumo": "O Terra pode receber comissão por compras feitas pelos links desta página. O Apple iPhone 17 256 ...",
-        "link": "https://www.terra.com.br/especiais/black-friday/apple-iphone-17-traz-tela-de-120-hz-chip-a19-e-cameras-de-48-mp,acd71ad993e4fff17ed449e07ec87f67c0q0hms4.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/26/1696908637-c08364b0a0b87a9549262bc9ca1dea0a9498c679c16bbaef46223305e7885e4d.jpg",
-        "fonte": "Terra",
-        "data": "2026-11-26"
+        "id": "3de6ec599df83d2dbb01c6837a43b915",
+        "titulo": "China reúne 5 mil empresas de mais de 120 países em feira de alta tecnologia em Shenzhen",
+        "resumo": "Evento ocupa 400 mil metros quadrados e apresenta inovações em robótica, inteligência artificial, veículos elétricos, energia e sistemas digitais",
+        "link": "https://www.brasil247.com/china/china-reune-5-mil-empresas-de-mais-de-120-paises-em-feira-de-alta-tecnologia-em-shenzhen/",
+        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/11/Ferira-de-alta-recnologia-na-China-1.jpg",
+        "fonte": "Brasil 247",
+        "data": "2026-11-27"
       },
       {
-        "id": "7e39f7dd32e948b8b115979ff4fa749c",
-        "titulo": "IA deve ajudar consumidor a escolher melhor na Black Friday, afirma diretora do Google",
-        "resumo": "Para Gleidys Salvanha, ferramentas de inteligência artificial estão transformando pesquisa de produtos e relação dos consumidores com ofertas",
-        "link": "https://veja.abril.com.br/economia/ia-deve-ajudar-consumidor-a-escolher-melhor-na-black-friday-afirma-diretora-do-google/",
-        "imagem": "https://veja.abril.com.br/wp-content/uploads/2023/11/2023-07-20t165223z_1_lynxmpej6j0tj_rtroptp_4_google-ai-periodismo.webp",
-        "fonte": "Veja",
-        "data": "2026-11-26"
+        "id": "02c40b2bb62f332e38d989552959e622",
+        "titulo": "Câmeras com inteligência artificial vão multar motoristas na BR-116 no Vale do Sinos a partir de janeiro",
+        "resumo": "Equipamentos serão instalados no trecho da morte em Estância Velha e próximo ao viaduto da Unisinos em São Leopoldo. Confirmação da infração dependerá da validação de um policial rodoviário",
+        "link": "https://www.abcmais.com/regiao/cameras-com-inteligencia-artificial-vao-multar-motoristas-na-br-116-no-vale-do-sinos-a-partir-de-janeiro/",
+        "imagem": "https://midia.gruposinos.com.br/_midias/jpg/2026/11/26/img_2068-22978643.jpg",
+        "fonte": "Abc+",
+        "data": "2026-11-27"
       },
       {
-        "id": "30cbd1ab3df475af7d1cff1a962897ce",
-        "titulo": "Mutirão.AI: Projeto para ensinar inteligência artificial tem festa de formatura no Museu das Favelas",
-        "resumo": "Criado por OpenAI, KondZilla e Flint, circuito de aulas online e oficinas presenciais passou por Fortaleza, Salvador e Belo Horizonte",
-        "link": "https://veja.abril.com.br/tecnologia/mutirao-ai-projeto-para-ensinar-inteligencia-artificial-tem-festa-de-formatura-no-museu-das-favelas/",
-        "imagem": "https://veja.abril.com.br/wp-content/uploads/2026/11/Mutirao-CE-7.jpg",
-        "fonte": "Veja",
-        "data": "2026-11-26"
+        "id": "462969e3f8a0930df323e83e2d457186",
+        "titulo": "Melhor notebook custo-benefício para comprar na Black Friday: 7 opções",
+        "resumo": "A Black Friday acontece hoje e é uma das melhores épocas do ano para trocar de notebook sem precisar pagar o preço cheio por um modelo novo. Pensando nisso, o TechTudo reuniu sete opções com ótimo custo-benefício,…",
+        "link": "https://www.techtudo.com.br/listas/2026/11/melhor-notebook-custo-beneficio-para-comprar-na-black-friday-bf2026-edqualcomprarie.ghtml",
+        "imagem": "https://s2-techtudo.glbimg.com/4mKalNdCWNWVXSxHphVtsFzm68A=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/t/S/ZpOXSTRFapex5qE5bpuA/notebook-para-estudar-black-friday.png",
+        "fonte": "Techtudo",
+        "data": "2026-11-27"
       },
       {
-        "id": "b6bba34e58e26ecd438319b3c91b885f",
-        "titulo": "WhatsApp ganha agendamento de mensagens que funciona até com celular desligado",
-        "resumo": "O WhatsApp anunciou nesta quarta-feira (25) o lançamento do recurso de agendamento de mensagens . A novidade permite programar o envio de textos, fotos e vídeos com até 14 dias de antecedência, sem a necessidade de…",
-        "link": "https://canaltech.com.br/apps/whatsapp-ganha-agendamento-de-mensagens-que-funciona-ate-com-celular-desligado/",
-        "imagem": "https://tl.ctcdn.com.br/3e-3LpYrj-zB_C4sqq4fF8P7FP8=/1200x675/smart/filters:format(webp):quality(85)/bb14286b-d7d6-4092-91dc-1f21519537e9.jpg",
-        "fonte": "Canaltech",
-        "data": "2026-11-26"
+        "id": "48b8920007a1f97540f37ccaa1482538",
+        "titulo": "Cão-robô usa tecnologia para atravessar parede de fogo de 1.000 graus em teste na China; veja vídeo",
+        "resumo": "Um cão-robô atravessou uma área tomada por chamas e permaneceu em funcionamento por dez minutos durante um teste realizado nesta quarta-feira (25), em Suzhou, na província chinesa de Jiangsu. Desenvolvido para…",
+        "link": "https://oglobo.globo.com/economia/epoca/noticia/2026/11/27/cao-robo-usa-tecnologia-para-atravessar-parede-de-fogo-de-1000-graus-em-teste-na-china-veja-video.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/khQbeOyfhp1HNEUHv6sRC9Lw2Xs=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/a/i/GaWgrPSb2JQ8Dxlw8LVQ/robo-quadrupede-em-meio-as-chamas.png",
+        "fonte": "O Globo",
+        "data": "2026-11-27"
       }
     ],
     "filmes": [
       {
-        "id": "7c86a47847e620c3da2bcda79d9ae9ef",
-        "titulo": "RECORD - Programação de Filmes de 28 a 29 de novembro",
-        "resumo": "Confira a programação de filmes da RECORD de 28 a 29 de novembro.CINE AVENTURA - Sábado, 28/11 - 15h \"Agulha no Palheiro Temporal''HD com audiodescriçãoTítulo Original: Needle in a TimestackElenco: Leslie Odom Jr.,…",
-        "link": "https://www.ouniversodatv.com/2026/11/record-programacao-de-filmes-de-28-29.html",
-        "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4AMnaAXV7tdlMWSCYoYfgjG4VXCUKwV34ygWSV185dgRoFouwT8bN5KgvPz1T-cfbFl3s1IP2x-Dfjn6p918vRt3QdOGI9hYH5erki1vuUaxfEDmS8E3oIGv37eUic39YioaE1FNoiCBuKI_cv43RUANdPPg8931BTJRWn4pZLwC5W0Xb-CKH0v0Z72E9/s72-w640-h426-c/Agulha%20no%20Palheiro%20Temporal.jpg",
-        "fonte": "O Universo Da Tv",
-        "data": "2026-11-26"
+        "id": "358bb1cda517d6007ca61ac80ab39330",
+        "titulo": "Fãs apontam manipulação do trailer de 'Vingadores: Doutor Destino' para esconder surpresas",
+        "resumo": "Fãs repararam em detalhes curiosos em cenas do novo vídeo da Marvel e teorizam sobre cortes estratégicos para proteger surpresas épicas no cinema",
+        "link": "https://www.em.com.br/cultura/2026/11/7545344-fas-apontam-manipulacao-do-trailer-de-vingadores-doutor-destino-para-esconder-surpresas.html",
+        "imagem": "https://midias.em.com.br/_midias/jpg/2026/11/27/7545344-7acf5f225cf4451d87f31cbfef1e3a5d-68314228.jpg",
+        "fonte": "Jornal Estado De Minas",
+        "data": "2026-11-27"
       },
       {
-        "id": "763fd44b43b74dc38998420de7a9074d",
-        "titulo": "HBO Max: confira 5 filmes e séries que chegam ao catálogo em dezembro",
-        "resumo": "Comédia romântica, novas temporadas de sucessos e a aguardada série de Harry Potter movimentam o fim de ano na plataforma de streaming The post HBO Max: confira 5 filmes e séries que chegam ao catálogo em dezembro…",
-        "link": "https://oantagonista.com.br/ladooa/variedades/hbo-max-confira-5-filmes-e-series-que-chegam-ao-catalogo-em-dezembro/",
-        "imagem": "https://cdn.oantagonista.com/uploads/2026/11/image-2-1024x683-1.png",
-        "fonte": "O Antagonista",
-        "data": "2026-11-26"
-      },
-      {
-        "id": "7ea1a5741746cc52535062b79fead02c",
-        "titulo": "Filme ‘Pecadora’ desafia os tabus sobre sexo e religião: ‘É legal desencaretar um pouco o cinema’",
-        "resumo": "Com direção de Dainara Toffoli e elenco majoritariamente feminino, filme transforma o despertar sexual de uma mulher evangélica em ponto de partida para discutir autonomia",
-        "link": "https://www.estadao.com.br/cultura/cinema/filme-pecadora-desafia-os-tabus-sobre-sexo-e-religiao-e-legal-desencaretar-um-pouco-o-cinema/",
-        "imagem": "https://www.estadao.com.br/resizer/v2/T6R35MLAXRGSFOHENGQJJMAQEA.jpg?quality=80&auth=fe291de87a5524a596967ad1ca1b81926fcfbe8c1eb25dfca4c383fb8f3d9361&width=1200&height=1200&focal=863,739",
+        "id": "a14a94ff3985ab009bebeb2873871fc4",
+        "titulo": "‘Enfeitiçadas’, nova animação da Disney, coroa fase em que bruxas deixam o posto de vilãs no cinema",
+        "resumo": "Trama aborda relação entre mãe e filha e marca representações mais complexas de personagens femininas em filmes infantis. ‘Queríamos virar tudo do avesso’, dizem diretores",
+        "link": "https://www.estadao.com.br/cultura/cinema/enfeiticadas-nova-animacao-da-disney-coroa-fase-em-que-bruxas-deixam-o-posto-de-vilas-no-cinema/",
+        "imagem": "https://www.estadao.com.br/resizer/v2/5TJFDBS53VHGVC5AJHWLD427KM.jpg?quality=80&auth=be3a402baa5de26e2a0099bba954a2fc070fc30fbccf29ff4194b3cde2c1de5d&width=1200&height=1200&focal=1045,297",
         "fonte": "Estadao Br",
-        "data": "2026-11-26"
+        "data": "2026-11-27"
       },
       {
-        "id": "417b2bdfa471913b796e11704324ded5",
-        "titulo": "Ator que iniciou carreira em Sinop integra elenco de filme que estreia hoje nos cinemas",
-        "resumo": "O ator mato-grossense Adriano Mendonça, natural de Nova Guarita e que iniciou sua carreira em Sinop, participa do filme ‘Pecadora’, romance dirigido por Dainara Toffoli e estrelado por Rayssa Bratillieri e José…",
-        "link": "https://www.sonoticias.com.br/geral/ator-que-iniciou-carreira-em-sinop-integra-elenco-de-filme-que-estreia-hoje-nos-cinemas/",
-        "imagem": "https://www.sonoticias.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-16.41.18.jpeg",
-        "fonte": "So Noticias",
-        "data": "2026-11-26"
+        "id": "bd055d9100209e790a4e927d27dd18c8",
+        "titulo": "Novo filme de guerra da Netflix é melhor opção para esta sexta (27/11)",
+        "resumo": "A chegada da sexta-feira, 27, traz uma oportunidade para quem deseja aproveitar o tempo livre com uma boa produção. Para os fãs de histórias de guerra, a Netflix acaba de adicionar ao catálogo um filme que vai além…",
+        "link": "https://atarde.com.br/cineinsite/novo-filme-de-guerra-da-netflix-e-melhor-opcao-para-esta-sexta-2711-1410592",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1410000/novo-filme-de-guerra-da-netflix-e-melhor-opcao-par0141059200202611241924.jpg?xid=7426629",
+        "fonte": "A Tarde",
+        "data": "2026-11-27"
       },
       {
-        "id": "8ef64404197b8d85eba9ff0a3b4a9df0",
-        "titulo": "Teatro Municipal de Saquarema recebe filme e peça infantil",
-        "resumo": "Programação terá documentário gratuito na sexta-feira (27) e espetáculo inspirado em 'Chiquititas' no sábado (28)",
-        "link": "https://odia.ig.com.br/saquarema/2026/11/7326271-teatro-municipal-de-saquarema-recebe-filme-e-peca-infantil.html",
-        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/11/26/whatsapp_image_2026_11_26_at_17_20_10-39768909.jpeg",
-        "fonte": "Odia Ig Br",
-        "data": "2026-11-26"
+        "id": "e5e3aa42fc6ad7a3949c940d6a177d50",
+        "titulo": "Festival leva cinema negro e periférico à quadra da Acadêmicos do Cubango, em Niterói",
+        "resumo": "Um borracheiro que vira ator, uma dona de casa que experimenta a interpretação e moradores de comunidades que passam a se reconhecer nas histórias exibidas na tela. É com a proposta de aproximar o cinema das favelas…",
+        "link": "https://oglobo.globo.com/rio/bairros/niteroi/noticia/2026/11/27/festival-leva-cinema-negro-e-periferico-a-quadra-da-academicos-do-cubango-em-niteroi.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/59z7Rg561yAFnQbhvy_vNVS9oxM=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/P/1/p5ntkqTVKUUltxSJcD7Q/whatsapp-image-2026-11-19-at-12.59.04-2-.jpeg",
+        "fonte": "O Globo",
+        "data": "2026-11-27"
       },
       {
-        "id": "3f898ad045714afd9fab6609676b145c",
-        "titulo": "Hortência e Magic Paula invadem a CCXP no dia 4, às 12h, com filme de Atlanta",
-        "resumo": "Juliana Didone e Tainá Müller, que vivem as craques no longa \"Paula e Hortência: A Última Chance\", sobem ao Palco Blast ao lado delas na sexta, 4 de dezembro. No meio de tanto herói de capa, as heroínas de verdade…",
-        "link": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/hortencia-e-magic-paula-invadem-a-ccxp-no-dia-4-as-12h-com-filme-de-atlanta/",
-        "imagem": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/26160910/unnamed-70.jpg",
+        "id": "473926648a8606e3cffd9d5318f4dbf4",
+        "titulo": "Buy Nothing Day: 5 filmes e documentários para refletir sobre o consumismo",
+        "resumo": "Celebrado em 27 de novembro de 2026, o Buy Nothing Day, conhecido como Dia de Não Comprar Nada, propõe uma reflexão sobre os hábitos de consumo e os impactos sociais e ambientais do capitalismo",
+        "link": "https://jornaldebrasilia.com.br/entretenimento/tvstreaming/buy-nothing-day-5-filmes-e-documentarios-para-refletir-sobre-o-consumismo/",
+        "imagem": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/25115532/images-70.jpg",
         "fonte": "Jornal De Brasília",
-        "data": "2026-11-26"
+        "data": "2026-11-27"
       },
       {
-        "id": "64c993c01dbb343a436eb14b4e88f278",
-        "titulo": "10 melhores filmes cult para assistir no Mubi, segundo o Rotten Tomatoes",
-        "resumo": "Os melhores filmes cult disponíveis no catálogo do Mubi incluem títulos como Sem Chão (2024), Aftersun (2022) e Incêndios (2010). O gênero reúne produções que conquistam fãs fiéis e são capazes de criar um universo…",
-        "link": "https://www.techtudo.com.br/listas/2026/11/10-melhores-filmes-cult-para-assistir-no-mubi-segundo-o-rotten-tomatoes-streaming.ghtml",
-        "imagem": "https://s2-techtudo.glbimg.com/uOPLnuoUkug_P3wzkYr953v8WCE=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/H/nNKCz0SrORclUtpDxJlQ/aftersun-1.jpg",
-        "fonte": "Techtudo",
-        "data": "2026-11-26"
+        "id": "44645b340ba3efaa15ee2f54bb58e749",
+        "titulo": "Filme de Natal da Netflix dispara e alcança quase 30 milhões de views",
+        "resumo": "Quem já está entrando no clima das festas de fim de ano encontra uma novidade que vem chamando a atenção na Netflix. A comédia romântica Protegendo Estrelas conquistou 27,6 milhões de visualizações em apenas uma…",
+        "link": "https://atarde.com.br/cineinsite/filme-de-natal-da-netflix-dispara-e-alcanca-quase-30-milhoes-de-views-1410832",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1410000/filme-de-natal-da-netflix-dispara-e-alcanca-quase-0141083200202611261946.jpg?xid=7430928",
+        "fonte": "A Tarde",
+        "data": "2026-11-27"
+      },
+      {
+        "id": "f87610d5508c7d0879af33944e48ee23",
+        "titulo": "Tudo Pode Ser Visto: a história real que deu origem ao “filme da década”",
+        "resumo": "Com 97% de aprovação no Rotten Tomatoes, documentário sobre o escândalo bilionário de Elizabeth Holmes estreia nesta quinta-feira (26/11)",
+        "link": "https://www.metropoles.com/entretenimento/tudo-pode-ser-visto-a-historia-real-que-deu-origem-ao-filme-da-decada",
+        "imagem": "https://images.metroimg.com/2026/11/tudo-pode-ser-visto-1.jpg",
+        "fonte": "Metropoles",
+        "data": "2026-11-27"
       }
     ],
     "series": [
       {
-        "id": "05e5556573e97a8c29d9867a8a42f539",
-        "titulo": "7 doramas novos do Disney+ para mararonar antes de 2026 acabar",
-        "resumo": "Os doramas novos do Disney+ englobam alguns dos lançamentos mais importantes de 2026. O streaming conta com um catálogo recheado de doramas para quem gosta de histórias envolventes e não dispensa uma boa maratona e,…",
-        "link": "https://www.techtudo.com.br/listas/2026/11/7-doramas-novos-do-disney-para-mararonar-antes-de-2026-acabar-streaming.ghtml",
-        "imagem": "https://s2-techtudo.glbimg.com/f2IvdWMViG3wHO4B-L8dXRk0ICg=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/6/c/jdNITbTAW5TnWJc7Kd7Q/ma4clzkbvbcithq8zhfsuwralw2-1200x675.avif",
-        "fonte": "Techtudo",
-        "data": "2026-11-26"
+        "id": "94e4eb7e4e26e78469ad98de1600eeb9",
+        "titulo": "CMG exibe série documental “30 Graus de Latitude Norte”",
+        "resumo": "A série documental “30 Graus de Latitude Norte”, produzida pelo Grupo de Mídia da China (CMG), começou a ser exibida em 21 de novembro na CCTV-2.",
+        "link": "https://www.brasil247.com/china/cmg-exibe-serie-documental-30-graus-de-latitude-norte/",
+        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/11/1795589915532_19.jpg",
+        "fonte": "Brasil 247",
+        "data": "2026-11-27"
       },
       {
-        "id": "7ed5d5d4144805e5ac7331aecf7bda90",
-        "titulo": "“Homem-Aranha: Um Novo Dia” chega à HBO Max nesta sexta-feira",
-        "resumo": "Um dos maiores sucessos do cinema em 2026 finalmente chega ao streaming O post “Homem-Aranha: Um Novo Dia” chega à HBO Max nesta sexta-feira apareceu primeiro em Folha BV.",
-        "link": "https://www.folhabv.com.br/cotidiano/homem-aranha-um-novo-dia-chega-a-hbo-max-nesta-sexta-feira/",
-        "imagem": "https://uploads.folhabv.com.br/2026/11/plulyws1ks4.jpg",
-        "fonte": "Folha Bv",
-        "data": "2026-11-26"
-      },
-      {
-        "id": "2cce46e26f76e51e5b61ed96af538652",
-        "titulo": "Jeep Avenger ganha série especial da Marvel por R$ 157.990",
-        "resumo": "Limitada a 400 unidades, edição traz referências aos Vingadores, X-Men e outros personagens, além de teto solar",
-        "link": "https://motor1.uol.com.br/news/816943/jeep-avenger-serie-especial-marvel/",
-        "imagem": "https://cdn.motor1.com/images/mgl/W8bzpN/s3/jeep-avenger-marvel-1.0-t200-mhev-2027-br.jpg",
-        "fonte": "Motor1",
-        "data": "2026-11-26"
-      },
-      {
-        "id": "03b4f43e341b39490892e70086ab356c",
-        "titulo": "15 séries de terror do Prime Video para assistir em 2026",
-        "resumo": "As séries de terror do Amazon Prime Video oferecem opções para quem gosta de histórias assustadoras e não abre mão de uma boa dose de tensão e sustos. Entre os destaques assustadores disponíveis na plataforma estão…",
-        "link": "https://www.techtudo.com.br/noticias/2026/11/15-series-de-terror-do-prime-video-para-assistir-em-2026-streaming.ghtml",
-        "imagem": "https://s2-techtudo.glbimg.com/WE_pOvoVFKxANAdrXHNnsjsEUvU=/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2026/f/x/bd8MmURxCwQ1rqvvFMTA/screenshot-2026-10-09-at-14-27-49-carrie-a-estranha-2026-.png",
-        "fonte": "Techtudo",
-        "data": "2026-11-26"
-      },
-      {
-        "id": "f8b3549a7bd4ca6f216937619a78d128",
-        "titulo": "Morte misteriosa, amizade improvável e piada aterrorizante: 5 revelações inacreditáveis nos últimos capítulos de 'Avenida Brasil' que colocaram fogo na novela em 2012",
-        "resumo": "A reta final de 'Avenida Brasil', exibida no Vale a Pena Ver de Novo, reserva emoções fortes ...",
-        "link": "https://www.terra.com.br/diversao/tv/morte-misteriosa-amizade-improvavel-e-piada-aterrorizante-5-revelacoes-inacreditaveis-nos-ultimos-capitulos-de-avenida-brasil-que-colocaram-fogo-na-novela-em-2012,ad57aba79c791912e23acbc9ffab4246ldfcpsez.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/26/847633474-cb0f2faf2a4f4e74-1400x823-2.jpg",
+        "id": "c4330ba7d092a8c9c7a4ce6be8323b45",
+        "titulo": "Só 8 episódios na Netflix: o escandaloso dorama de época com Son Ye-jin e Ji Chang-wook, recomendado para +16 anos; série foi lançada em 2026, mas continua esquecida por todos",
+        "resumo": "Uma aposta envolvendo sedução, desejo e manipulação movimenta a trama de ' Escândalo e Intriga ...",
+        "link": "https://www.terra.com.br/diversao/gente/so-8-episodios-na-netflix-o-escandaloso-dorama-de-epoca-com-son-ye-jin-e-ji-chang-wook-recomendado-para-16-anos-serie-foi-lancada-em-2026-mas-continua-esquecida-por-todos,78fafe757c325b7d9630748a6e7f36c19bnkhn77.html",
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/27/1313543504-1367c6ef960eee8d-1400x823-1.jpg",
         "fonte": "Terra",
-        "data": "2026-11-26"
+        "data": "2026-11-27"
       },
       {
-        "id": "fab8429d9ee9ef0c57df1ddf7c9d2a34",
-        "titulo": "Sonnental, nova série dos criadores de Dark, chega em 2027; Assista ao teaser oficial",
-        "resumo": "Jantje Friese e Baran bo Odar retornam com um suspense de atmosfera sombria O post Sonnental, nova série dos criadores de Dark, chega em 2027; Assista ao teaser oficial apareceu primeiro em O Vício.",
-        "link": "https://ovicio.com.br/sonnental-nova-serie-dos-criadores-de-dark-chega-em-2027-assista-ao-teaser-oficial/",
-        "imagem": "https://ovicio.com.br/wp-content/uploads/2026/11/20261126-20261126--szdm8k3lasy.jpg",
-        "fonte": "O Vício",
-        "data": "2026-11-26"
+        "id": "9b95668ed4b96b7d5809f5b51c6d926e",
+        "titulo": "Série B define dois acessos entre hoje e amanhã: do que cada time precisa?",
+        "resumo": "Série B define dois acessos entre hoje e amanhã: do que cada time precisa?",
+        "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/27/playoffs-serie-b-cenarios.ghtm",
+        "imagem": "https://imguol.com/c/esporte/ea/2026/11/22/marcelo-hermes-do-criciuma-comemora-gol-contra-o-fortaleza-pelo-playoff-de-acesso-da-serie-b-1795380925837_v2_300x225.jpg",
+        "fonte": "Uol",
+        "data": "2026-11-27"
       },
       {
-        "id": "22c364f05cccb1558da437ed8aede1cb",
-        "titulo": "'Avenida Brasil 2': Veja primeira foto de Nina e Jorginho na novela",
-        "resumo": "Personagens interpretados por Débora Falabella e Cauã Reymond enfrentam uma crise no casamento após a morte do único filho do casal",
-        "link": "https://odia.ig.com.br/diversao/televisao/2026/11/7326252-avenida-brasil-2-veja-primeira-foto-de-nina-e-jorginho-na-novela.html",
-        "imagem": "https://odia.ig.com.br/_midias/jpg/2026/11/26/whatsapp_image_2026_11_26_at_15_38_49-39768609.jpeg",
-        "fonte": "Odia Ig Br",
-        "data": "2026-11-26"
+        "id": "27ba1f39c72c5c5005a015943ea41115",
+        "titulo": "Novela Quem Ama Cuida: resumo do capítulo de sexta (27/11)",
+        "resumo": "TV Globo já divulgou o resumo do capítulo de sexta-feira (27 de novembro de 2026) de Quem Ama Cuida, novela da nove.",
+        "link": "https://www.nsctotal.com.br/entretenimento/novela-quem-ama-cuida-resumo-do-capitulo-de-sexta-27-11",
+        "imagem": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/Resumo-completo-do-capitulo-de-sexta-feira-27-de-novembro-de-2026-de-Quem-Ama-Cuida.jpg",
+        "fonte": "Nsc Total",
+        "data": "2026-11-27"
+      },
+      {
+        "id": "07f63eafad12b4b08c258303a2388429",
+        "titulo": "Série da CBN Paraíba conquista dois prêmios nacionais no Prêmio Sebrae de Jornalismo",
+        "resumo": "Reprodução A série de reportagens 'Mas a sanfona ainda não desafinou', da CBN Paraíba, conquistou dois prêmios na etapa nacional do Prêmio Sebrae de Jornalismo, realizada na quinta-feira (26), em Brasília. A produção…",
+        "link": "https://jornaldaparaiba.com.br/cotidiano/serie-cbn-paraiba-premio-sebrae-de-jornalismo",
+        "imagem": "https://cdn.jornaldaparaiba.com.br/img/inline/220000/serie-da-cbn-paraiba-conquista-dois-premios-nacion0022288600202611270722.jpg?xid=1244580",
+        "fonte": "Jornal Da Paraíba",
+        "data": "2026-11-27"
+      },
+      {
+        "id": "966482a1bc7accdc93119ec276f18b8a",
+        "titulo": "“Avenida Brasil”: relembre o que acontece no último capítulo da novela",
+        "resumo": "Trama de João Emanuel Carneiro tem desfechos eletrizantes, com rumos inesperados para os personagens que foram destaque ao longo de muitos meses",
+        "link": "https://www.cnnbrasil.com.br/pop/tv/avenida-brasil-relembre-o-que-acontece-no-ultimo-capitulo-da-novela/",
+        "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/avenida-brasil-final.jpg?w=1200&h=1200&crop=1",
+        "fonte": "Cnn Brasil",
+        "data": "2026-11-27"
+      },
+      {
+        "id": "6cab6e40708061f9395c7a5f50acba81",
+        "titulo": "Bruno Fagundes fará série do Disney+ estrelada por Camila Queiroz. Saiba o papel",
+        "resumo": "Em “Trinta e tantos”, nova série do Disney+, Bruno Fagundes fará um rapaz por quem a personagem de Camila Queiroz se interessa. Leia também: Bruno Gagliasso surge como empresário em nova série da Netflix. Veja foto…",
+        "link": "https://oglobo.globo.com/play/series/noticia/2026/11/27/bruno-fagundes-fara-serie-do-disney-estrelada-por-camila-queiroz-saiba-o-papel.ghtml",
+        "imagem": "https://s2-oglobo.glbimg.com/esrtx_uERM0lnwvP7L2sTOtLrbU=/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/l/T/6itjiqSmiNp3d35FswBQ/image00005-1-.jpeg",
+        "fonte": "O Globo",
+        "data": "2026-11-27"
       }
     ],
     "shows": [
       {
-        "id": "f090303d621a60d0216ba110831bf2a9",
-        "titulo": "Vila Velha recebe evento gratuito com shows, literatura e bate-papo nesta sexta",
-        "resumo": "DiversiArte terá participação da atriz Raiza Noah, lançamento de livro e apresentações musicais a partir das 18h30",
-        "link": "https://tribunaonline.com.br/entretenimento/agendacultural/diversiarte-vila-velha-programacao/",
-        "imagem": "https://media.tribunaonline.com.br/wp-content/uploads/2026/11/Agnes-2026-11-26T173625.828.jpg",
-        "fonte": "Tribuna Online",
-        "data": "2026-11-26"
+        "id": "c1a761377f2e7573c361a723229eb06a",
+        "titulo": "Festival terá shows do Black Eyed Peas e João Gomes de graça; saiba como participar",
+        "resumo": "Clientes do Nubank podem garantir entrada exclusiva para assistir às apresentações ao praticarem trabalho voluntário em ONGs",
+        "link": "https://www.em.com.br/cultura/2026/11/7545357-festival-tera-shows-do-black-eyed-peas-e-joao-gomes-de-graca-saiba-como-participar.html",
+        "imagem": "https://midias.em.com.br/_midias/jpg/2026/11/27/7545357-ca6a0dc0259140d38c733002a9f050ef-68314308.jpg",
+        "fonte": "Jornal Estado De Minas",
+        "data": "2026-11-27"
       },
       {
-        "id": "b7ab17b336ccd5c91c32c5ec6b6c99b8",
-        "titulo": "Hellfest vem aí e confirma mais de 300 bandas em 4 dias de shows para 2027",
-        "resumo": "Hellfest 2027 passa de seis para dez palcos com mais de 300 shows na França.",
-        "link": "https://whiplash.net/materias/news_665/385318-agenda.html",
-        "imagem": "https://whiplash.net/imagens_flyers/hellfest_nov_2026.jpg",
-        "fonte": "Whiplash",
-        "data": "2026-11-26"
+        "id": "1b13ce318c64b168df987df245e38d39",
+        "titulo": "Veja as atrações do minidesfile na Cidade do Samba: Sabrina Sato na Vila, instrumento novo na Imperatriz e shows do Menos é Mais e Dilsinho",
+        "resumo": "Falta pouco menos de um mês para o Natal, mas o clima já é de carnaval para quem gosta do ziriguidum. A pretexto de celebrar o Dia Nacional do Samba, comemorado em 2 de dezembro e que neste ano cai na próxima…",
+        "link": "https://extra.globo.com/rio/carnaval/noticia/2026/11/veja-as-atracoes-do-minidesfile-na-cidade-do-samba-sabrina-sato-na-vila-instrumento-novo-na-imperatriz-e-shows-do-menos-e-mais-e-dilsinho.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/JBYknWRNT3SUTtZg8QV16F_1cjQ=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2026/9/T/GAuyaHQ7CDavHdQAwFVg/whatsapp-image-2026-11-25-at-17.21.32-1-.jpeg",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-11-27"
       },
       {
-        "id": "ee688dd582e62e3a992cc6682d13e927",
-        "titulo": "Santos recebe o 1º Festival de Música Latino-Americana com shows e concertos; veja a programação",
-        "resumo": "Santos (SP) recebe a 1º edição do Festival de Música Latino-Americano. Divulgação O La M.ostra – Festival de Música Latino-americana acontece pela primeira vez em Santos no litoral de São Paulo. O evento, que começa…",
-        "link": "https://g1.globo.com/sp/santos-regiao/o-que-fazer-em-santos/noticia/2026/11/26/santos-recebe-o-1o-festival-de-musica-latino-americana-com-shows-e-concertos-veja-a-programacao.ghtml",
-        "imagem": "https://s2-g1.glbimg.com/pWmVxoZnCS7jtGRXWOavtKhsORU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/WUDnaSQRye3oqHewrZFQ/foto-tradicional-3-.png",
-        "fonte": "G1 - O Portal",
-        "data": "2026-11-26"
+        "id": "feb978310bc593110ed3dfaf1a91bd9a",
+        "titulo": "Casacájá Abre Portas reúne artistas da cidade em shows na Granja do Torto",
+        "resumo": "A programação reúne três atrações que passaram pelo estúdio nesta temporada",
+        "link": "https://www.correiobraziliense.com.br/divirtasemais/2026/11/7543682-casacaja-abre-portas-reune-artistas-da-cidade-em-shows-na-granja-do-torto.html",
+        "imagem": "https://midias.correiobraziliense.com.br/_midias/jpg/2026/11/19/whatsapp-image-2026-11-18-at-23-51-26--1--68260663.jpeg",
+        "fonte": "Correio Braziliense",
+        "data": "2026-11-27"
       },
       {
-        "id": "d33efae5d2e620f2db254abfed7864ac",
-        "titulo": "2º Festival Mestre J. Borges divulga programação com shows, oficinas, exposições e atividades culturais em Bezerros",
-        "resumo": "Evento será realizado de 16 a 20 de dezembro, no Agreste de Pernambuco, com atividades gratuitas em diferentes espaços da cidade",
-        "link": "https://jc.uol.com.br/cultura/2026/11/26/2-festival-mestre-j-borges-divulga-programacao-com-shows-oficinas-exposicoes-e-atividades-culturais-em-bezerros.html",
-        "imagem": "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2026/11/26/mestre_j__borges__renato_luiz___produtor_cultural_-37260024.jpeg",
-        "fonte": "Jc Notiacute",
-        "data": "2026-11-26"
+        "id": "fb367a3980e1e3f169f3204cb33281be",
+        "titulo": "Voa Festival traz a diversidade para o coração de Brasília",
+        "resumo": "Arnaldo Antunes, Gaby Amarantos e Duda Beat são atrações do line up da quarta edição do Voa Festival",
+        "link": "https://www.correiobraziliense.com.br/divirtasemais/2026/11/7544021-voa-festival-traz-a-diversidade-para-o-coracao-de-brasilia.html",
+        "imagem": "https://midias.correiobraziliense.com.br/_midias/jpg/2025/12/31/unnamed--4--62709202.jpg",
+        "fonte": "Correio Braziliense",
+        "data": "2026-11-27"
       },
       {
-        "id": "fedd35c3d36ea617bfebb19b4f7ae458",
-        "titulo": "Musical ‘Sonho Encantado de Cordel’ encerra turnê no Theatro Pedro II; veja como garantir ingressos",
-        "resumo": "Musical com canções inéditas de Paulinho Moska, Chico César e Zeca Baleiro terá sessões neste final de semana O post Musical ‘Sonho Encantado de Cordel’ encerra turnê no Theatro Pedro II; veja como garantir ingressos…",
-        "link": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/musical-sonho-encantado-de-cordel-encerra-turne-no-theatro-pedro-ii-veja-como-garantir-ingressos/",
-        "imagem": "https://www.acidadeon.com/ribeiraopreto/wp-content/uploads/sites/3/2026/11/Musical-Sonho-Encantado-de-Cordel-1024x683.jpg",
-        "fonte": "Acidade On",
-        "data": "2026-11-26"
+        "id": "9badc2e3dac6baf423453fb541d490df",
+        "titulo": "Contemporâneo Hall, em Nova Lima, prepara entrada no mercado de shows em 2027",
+        "resumo": "Empreendimento do Grupo Lobato voltado à realização de eventos corporativos e sociais, o Contemporâneo Hall, no bairro Jardim Canadá, em Nova Lima, na Região Metropolitana de Belo Horizonte (RMBH), completa dois anos…",
+        "link": "https://diariodocomercio.com.br/negocios/contemporaneo-hall-mercado-shows/",
+        "imagem": "https://diariodocomercio.com.br/wp-content/uploads/2026/11/contemporaneo-hall-1200x628-1.jpg",
+        "fonte": "Diariodocomercio Br",
+        "data": "2026-11-27"
       },
       {
-        "id": "02ad5c4d1948fdb5ec522c7fc1861a64",
-        "titulo": "Ingressos para show de Shakira em Salvador começam a ser vendidos nesta quinta-feira",
-        "resumo": "A venda de ingressos para o show da cantora Shakira em Salvador começa nesta quinta-feira, com valores a partir de R$ 295 para o público geral.",
-        "link": "https://www.bahianoticias.com.br/holofote/noticia/86363-ingressos-para-show-de-shakira-em-salvador-comecam-a-ser-vendidos-nesta-quinta-feira",
-        "imagem": "https://www.bahianoticias.com.br/fotos/holofote_noticias/86363/IMAGEM_NOTICIA_original.jpg",
-        "fonte": "Bahia Notícias",
-        "data": "2026-11-26"
+        "id": "1bf638190027a5ec339a12345721b1e8",
+        "titulo": "Fim de semana tem shows, teatro e atrações para crianças no Rio; veja agenda",
+        "resumo": "O fim de semana tem programação para diferentes públicos no Rio e na Baixada Fluminense. Entre os destaques estão a homenagem a Clementina de Jesus, Pixinguinha e João da Baiana, no Flamengo, dois shows de pagode de…",
+        "link": "https://extra.globo.com/entretenimento/programacao/noticia/2026/11/fim-de-semana-tem-shows-teatro-e-atracoes-para-criancas-no-rio-veja-agenda.ghtml",
+        "imagem": "https://s2-extra.glbimg.com/3q9s48Uz82_zbQ4DY1UtCankYYU=/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2025/4/N/JQifCCStKe2kDZUyXdsA/whatsapp-image-2025-06-14-at-17.50.37.jpeg",
+        "fonte": "Extra | Extra Online",
+        "data": "2026-11-27"
       },
       {
-        "id": "f5205e0cf01d181fb708dd4cf3899636",
-        "titulo": "Angra anuncia turnê em comemoração aos 25 anos de 'Rebirth'",
-        "resumo": "O Angra celebrará os 25 anos de um de seus álbuns mais populares com uma turnê especial em 2027. ...",
-        "link": "https://www.terra.com.br/diversao/musica/angra-anuncia-turne-em-comemoracao-aos-25-anos-de-rebirth,d8aaa6049fe87373814f104ffccb02d5ct5nzfea.html",
-        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2026/11/26/58990826-angra-2026-banda-foto-rafael-karelisky.jpg",
-        "fonte": "Terra",
-        "data": "2026-11-26"
+        "id": "f2c134a03db87c3c9b291b5b2d524fdc",
+        "titulo": "VOA Festival aposta na diversidade musical e na ressignificação dos espaços urbanos de Brasília",
+        "resumo": "Quarta edição do evento reúne artistas de diferentes territórios e estilos musicais, com shows, oficinas gratuitas e iniciativas voltadas à economia criativa, entre sexta-feira (27) e domingo (29)",
+        "link": "https://jornaldebrasilia.com.br/viva/eventos/voa-festival-aposta-na-diversidade-musical-e-na-ressignificacao-dos-espacos-urbanos-de-brasilia/",
+        "imagem": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/27045226/Gaby-Amarantos.jpg",
+        "fonte": "Jornal De Brasília",
+        "data": "2026-11-27"
       }
     ]
   }
